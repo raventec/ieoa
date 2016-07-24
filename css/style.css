@@ -1,0 +1,163 @@
+@charset "UTF-8";
+
+
+/*Pascal's stuff*/
+.owner-details {
+	/*display: none;*/
+}
+.owner-details .details-bold {
+	font-weight: bold;
+}
+.dummy-wide-div {
+	width: 100%;
+	overflow-x: scroll;
+	background-color: #F00;
+}
+.dummy-child {
+	width: 9000px;
+}
+/*End Pascal's stuff*/
+
+
+
+body {
+	margin:80px 0 0 0;
+	overflow-y:scroll;
+}
+.navbar-custom {
+	margin-top:35px;
+}
+.navbar-inverse {
+	/background-color: #F00;
+}
+.carousel-section{
+	background-image:url('../images/landscape1.jpg');
+	backgound-size:cover;
+	height:344px;
+}
+.carousel .container {
+	position: relative;
+	z-index: 9;
+}
+.carousel-control {
+	height: 80px;
+	margin-top: 0;
+	font-size: 120px;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+	background-color: transparent;
+	border: 0;
+	z-index: 10;
+}
+.carousel .item {
+	height: 344px;
+}
+.carousel-caption {
+	background-color: transparent;
+	position: static;
+	padding: 0 10px;
+	margin-top: 50px;
+}
+.carousel-caption h1,  .carousel-caption .lead {
+	margin: 0;
+	line-height: 1.25;
+	color: #fff;
+	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
+}
+.carousel-caption .btn {
+	margin-top: 10px;
+}
+.custom-glyphicon{
+	margin-right:10px;
+}
+.custom-footer{
+	color:#000;
+	background-color:#999;
+	padding:10px;
+	margin-top:50px;
+}
+
+
+a.unstyled:link{
+	color:inherit;
+}
+a.unstyled:hover{
+	text-decoration:underline;
+	color:inherit;
+}
+a.unstyled:visited{
+	color:inherit;
+}
+a.unstyled:active{
+	color:inherit;
+}
+a.custom-link:link{
+	text-decoration:underline;
+	color:inherit;
+}
+a.custom-link:hover{
+	text-decoration:underline;
+	color:inherit;
+}
+a.custom-link:visited{
+	color:inherit;
+}
+a.custom-link:active{
+	color:inherit;
+}
+
+
+.row-padded{
+	margin-top:20px;
+}
+.custom-contact{
+	background-color:#999;
+	padding:20px;
+}
+.custom-form-control{
+	margin-top:20px;
+}
+.custom-btn{
+	margin-top:20px;
+	width:100%;
+}
+.custom-form{
+	margin-bottom:35px;
+}
+.custom-alert{
+	margin:20px 0 0 0;
+	display:none;
+}
+.disable-click{
+    pointer-events: none;
+}
+.custom-h{
+	text-decoration:underline;
+}
+.custom-hr{
+	margin-top:50px;
+}
+.navbar-inverse .navbar-brand {
+	font-size: 20px;
+	color: #FFF;
+}
+@media (max-width: 767px) {
+	.footer-item{
+		text-align:center;
+	}
+	.custom-contact{
+		margin:10px;
+	}
+
+	a.navbar-brand img{
+		width:150px;
+		height:30px;
+		margin-top:10px;
+		margin-bottom:10px;
+	}
+	.navbar-custom {
+		margin-top:0px;
+	}
+	.navbar-collapse {
+		background-color: #1659C4;
+	}
+}
