@@ -3,7 +3,7 @@
 
 /*Pascal's stuff*/
 .owner-details {
-	/*display: none;*/
+	display: inline;
 }
 .owner-details .details-bold {
 	font-weight: bold;
