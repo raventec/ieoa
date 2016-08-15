@@ -1,4 +1,4 @@
-json = [
+[
   {
     "id": "a_forbes",
     "name": "A. Forbes Contracting Ltd.",
@@ -16,10 +16,9 @@ json = [
         "property": "Address",
         "value": "758 Egret Close Victoria, BC V9B 0R1"
       }
-
     ],
     "equipment": [
-      "Trucks",
+      "Trucks"
     ]
   },
   {
@@ -42,7 +41,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Notes: Gravel Truck",
+      "Notes: Gravel Truck"
     ]
   },
   {
@@ -83,7 +82,7 @@ json = [
       "Compaction Equipment",
       "Excavators",
       "Lowbeds",
-      "Notes: Skid Steer, Rollers",
+      "Notes: Skid Steer, Rollers"
     ]
   },
   {
@@ -112,7 +111,7 @@ json = [
       "Mobile Crane/Crane Trucks",
       "Excavators",
       "Lowbeds",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -142,7 +141,7 @@ json = [
       "Truck with Trailer",
       "Rubber Tired Backhoes",
       "Compaction Equipment",
-      "Excavators",
+      "Excavators"
     ]
   },
   {
@@ -163,7 +162,7 @@ json = [
       "Trucks",
       "Excavators",
       "Lowbeds",
-      "Notes: Single axel dump, paving equipment",
+      "Notes: Single axel dump, paving equipment"
     ]
   },
   {
@@ -191,7 +190,7 @@ json = [
     "equipment": [
       "Trucks",
       "Truck with Trailer",
-      "Notes: 2 axel pony trailer",
+      "Notes: 2 axel pony trailer"
     ]
   },
   {
@@ -219,7 +218,7 @@ json = [
     "equipment": [
       "Trucks",
       "Rubber Tired Backhoes",
-      "Notes: Johnston street sweeper/Sunvac tennant street sweeper",
+      "Notes: Johnston street sweeper/Sunvac tennant street sweeper"
     ]
   },
   {
@@ -247,7 +246,7 @@ json = [
     "equipment": [
       "Trucks",
       "Truck with Trailer",
-      "Notes: 2 axle pony trailers/4 axle Quad End Dumps/Bobcat",
+      "Notes: 2 axle pony trailers/4 axle Quad End Dumps/Bobcat"
     ]
   },
   {
@@ -309,7 +308,7 @@ json = [
     ],
     "equipment": [
       "Lowbeds",
-      "Notes: Crawler Carrier/Mini Excavators",
+      "Notes: Crawler Carrier/Mini Excavators"
     ]
   },
   {
@@ -337,7 +336,7 @@ json = [
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Bobcat Skidsteer, Bobcat Mini Excavator",
+      "Notes: Bobcat Skidsteer, Bobcat Mini Excavator"
     ]
   },
   {
@@ -404,7 +403,7 @@ json = [
       "Rubber Tired Loaders",
       "Excavators",
       "Screeners",
-      "Notes: Water truck/2 Axle Pup/3 Axle Equipment Trailer, Quad Trailer",
+      "Notes: Water truck/2 Axle Pup/3 Axle Equipment Trailer, Quad Trailer"
     ]
   },
   {
@@ -432,7 +431,7 @@ json = [
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Skid Steer",
+      "Notes: Skid Steer"
     ]
   },
   {
@@ -464,7 +463,7 @@ json = [
     "equipment": [
       "Crushers",
       "Rubber Tired Loaders",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -498,7 +497,7 @@ json = [
       "Rubber Tired Loaders",
       "Mobile Cranes/Crane Trucks",
       "Excavators",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -533,7 +532,7 @@ json = [
       "Asphalt",
       "Compressors",
       "Compaction Equipment",
-      "Excavators",
+      "Excavators"
     ]
   },
   {
@@ -564,7 +563,7 @@ json = [
       "Asphalt",
       "Compaction Equipment",
       "Rubber Tired Loaders",
-      "Graders",
+      "Graders"
     ]
   },
   {
@@ -599,7 +598,7 @@ json = [
       "Bulldozer Blade",
       "Compaction Equipment",
       "Excavators",
-      "Lowbeds",
+      "Lowbeds"
     ]
   },
   {
@@ -637,7 +636,7 @@ json = [
       "Truck with Trailer",
       "Compaction Equipment",
       "Excavators",
-      "Notes: Pony trailer, single axle dump truck",
+      "Notes: Pony trailer, single axle dump truck"
     ]
   },
   {
@@ -660,7 +659,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -708,7 +707,7 @@ json = [
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Skid Steer, Rollers",
+      "Notes: Skid Steer, Rollers"
     ]
   },
   {
@@ -738,7 +737,7 @@ json = [
       }
     ],
     "equipment": [
-      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets",
+      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets"
     ]
   },
   {
@@ -783,7 +782,7 @@ json = [
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Rock Trucks, Wheel Loader. DG Cat",
+      "Notes: Rock Trucks, Wheel Loader. DG Cat"
     ]
   },
   {
@@ -806,7 +805,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -833,7 +832,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -860,7 +859,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -887,7 +886,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -906,7 +905,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -933,7 +932,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -960,7 +959,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -992,7 +991,7 @@ json = [
       "Compaction Equipment",
       "Rubber Tired Loaders",
       "Excavators",
-      "Notes: Mini Excavators/Bobcats/Sweeper",
+      "Notes: Mini Excavators/Bobcats/Sweeper"
     ]
   },
   {
@@ -1040,7 +1039,7 @@ json = [
       "Rubber Tired Loaders",
       "Mobile Crane/Crane Trucks",
       "Excavators",
-      "Lowbeds",
+      "Lowbeds"
 
     ]
   },
@@ -1087,7 +1086,7 @@ json = [
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Quad Trailer/sweepers/diesel gen sets, Crusher",
+      "Notes: Quad Trailer/sweepers/diesel gen sets, Crusher"
     ]
   },
   {
@@ -1114,7 +1113,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -1146,7 +1145,7 @@ json = [
     "equipment": [
       "Rubber Tired Backhoes",
       "Compaction Equipment",
-      "Excavators",
+      "Excavators"
     ]
   },
   {
@@ -1181,7 +1180,7 @@ json = [
       "Compressors",
       "Compaction Equipment",
       "Rubber Tired Loaders",
-      "Graders",
+      "Graders"
     ]
   },
   {
@@ -1231,7 +1230,7 @@ json = [
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Track Crusher, Trench shoring, Road plates",
+      "Notes: Track Crusher, Trench shoring, Road plates"
     ]
   },
   {
@@ -1258,7 +1257,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -1294,7 +1293,7 @@ json = [
       "Rubber Tired Backhoes",
       "Rubber Tired Loaders",
       "Excavators",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -1329,7 +1328,7 @@ json = [
       "Truck with Trailer",
       "Rubber Tired Loaders",
       "Excavators",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -1371,7 +1370,7 @@ json = [
       "Trucks",
       "Compressors",
       "Excavators",
-      "Notes: hydroexcavation vacuum trucks, mini excavators",
+      "Notes: hydroexcavation vacuum trucks, mini excavators"
     ]
   },
   {
@@ -1402,7 +1401,7 @@ json = [
     ],
     "equipment": [
       "Compressors",
-      "Mobile Crane/Crane Trucks",
+      "Mobile Crane/Crane Trucks"
     ]
   },
 
@@ -1433,7 +1432,7 @@ json = [
       "Compressors",
       "Compaction Equipment",
       "Excavators",
-      "Notes: Service Truck",
+      "Notes: Service Truck"
     ]
   },
 
@@ -1457,7 +1456,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Notes: 5 Ton Dump Truck / Combination Hydrovac/Flush Trucks / Straight Hydrovac Vacuum Truck",
+      "Notes: 5 Ton Dump Truck / Combination Hydrovac/Flush Trucks / Straight Hydrovac Vacuum Truck"
     ]
   },
   {
@@ -1499,7 +1498,7 @@ json = [
       "Trucks",
       "Crawler Loaders",
       "Screeners",
-      "Notes: Ready Mix Trucks, Batch Plants",
+      "Notes: Ready Mix Trucks, Batch Plants"
     ]
   },
   {
@@ -1521,7 +1520,7 @@ json = [
       },
       {
         "property": "Web",
-        "value": "	www.ipitech.ca"
+        "value": "www.ipitech.ca"
       },
       {
         "property": "Address",
@@ -1529,7 +1528,7 @@ json = [
       }
     ],
     "equipment": [
-      "Notes: Vactor Trucks, Flushers, CCTV trucks",
+      "Notes: Vactor Trucks, Flushers, CCTV trucks"
     ]
   },
   {
@@ -1567,7 +1566,7 @@ json = [
       "Graders",
       "Excavators",
       "Lowbeds",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -1609,7 +1608,7 @@ json = [
       "Graders",
       "Excavators",
       "Lowbeds",
-      "Screeners",
+      "Screeners"
     ]
   },
   {
@@ -1641,7 +1640,7 @@ json = [
     "equipment": [
       "Trucks",
       "Lowbeds",
-      "Notes: semi trucks, end dump trailers, equipment trailer",
+      "Notes: semi trucks, end dump trailers, equipment trailer"
     ]
   },
   {
@@ -1668,7 +1667,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -1695,7 +1694,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
   },
   {
@@ -1722,8 +1721,7 @@ json = [
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer",
+      "Truck with Trailer"
     ]
-  },
-
+  }
 ]
