@@ -1,37 +1,30 @@
 @charset "UTF-8";
 
 
-/*Pascal's stuff*/
-.owner-details {
-	display: inline;
-}
-.owner-details .details-bold {
-	font-weight: bold;
-}
-.dummy-wide-div {
-	width: 100%;
-	overflow-x: scroll;
-	background-color: #F00;
-}
-.dummy-child {
-	width: 9000px;
-}
-/*End Pascal's stuff*/
-
-
-
+/* General layout */
 body {
-	margin:80px 0 0 0;
-	overflow-y:scroll;
+	font-size: 16px;
 }
-.navbar-custom {
-	background-color: #1659C4;
-	margin-top:35px;
+main.container {
+	margin-top:50px;
+	padding: 0 25px;
+	overflow-y: scroll;
 }
-.navbar-custom.logo-image {
-	width: 100%;
-	height: 100%;
+/* End general layout */
+
+
+/* Navbar */
+header.navbar-custom {
+	background-color: #0d3e8c;
+	-webkit-font-smoothing: antialiased;
 }
+header.navbar-custom .navbar-brand {
+	color: #FFF;
+}
+/* End navbar */
+
+
+/* Carousel */
 .carousel-section{
 	background-image:url('../images/landscape1.jpg');
 	backgound-size:cover;
@@ -68,84 +61,39 @@ body {
 .carousel-caption .btn {
 	margin-top: 10px;
 }
-.custom-glyphicon{
-	margin-right:10px;
-}
-.custom-footer{
+/* End carousel */
+
+
+/* Footer */
+footer.custom-footer{
 	color:#000;
 	background-color:#999;
 	padding:10px;
 	margin-top:50px;
 }
+footer.custom-footer a:link {
+	color: #000;
+}
+footer.custom-footer a:visited {
+	color: #000;
+}
+footer.custom-footer a:active {
+	color: #000;
+}
+footer.custom-footer a:hover {
+	color: #000;
+}
+/* End footer */
 
 
-a.unstyled:link{
-	color:inherit;
+/* Equipment owners */
+.owner-details {
+	display: none;
+	margin: 10px 20px;
+	background-color: #CCC;
+	padding: 20px;
 }
-a.unstyled:hover{
-	text-decoration:underline;
-	color:inherit;
+.owner-title {
+	font-size:
 }
-a.custom-link:link{
-	text-decoration:underline;
-}
-a.custom-link:hover{
-	text-decoration:underline;
-}
-
-
-.row-padded{
-	margin-top:20px;
-}
-.custom-contact{
-	background-color:#999;
-	padding:20px;
-}
-.custom-form-control{
-	margin-top:20px;
-}
-.custom-btn{
-	margin-top:20px;
-	width:100%;
-}
-.custom-form{
-	margin-bottom:35px;
-}
-.custom-alert{
-	margin:20px 0 0 0;
-	display:none;
-}
-.disable-click{
-    pointer-events: none;
-}
-.custom-h{
-	text-decoration:underline;
-}
-.custom-hr{
-	margin-top:50px;
-}
-.navbar-inverse .navbar-brand {
-	font-size: 20px;
-	color: #FFF;
-}
-@media (max-width: 767px) {
-	.footer-item{
-		text-align:center;
-	}
-	.custom-contact{
-		margin:10px;
-	}
-
-	a.navbar-brand img{
-		width:150px;
-		height:30px;
-		margin-top:10px;
-		margin-bottom:10px;
-	}
-	.navbar-custom {
-		margin-top:0px;
-	}
-	.navbar-collapse {
-		background-color: #1659C4;
-	}
-}
+/* End equipment owners */

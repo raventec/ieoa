@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>IEOA</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 <meta name="description" content="">
 <meta name="author" content="Raventec Consulting">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -13,12 +13,13 @@
 </head>
 
 <body>
-	<section class="navbar navbar-inverse navbar-fixed-top navbar-custom" role="navigation">
+	<header class="navbar navbar-inverse navbar-fixed-top navbar-custom" role="navigation">
 		<div class="container">
 			<div class="navbar-header">
-				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-				<a class="navbar-brand" href="index.html"><img src="images/logo.png" class="logo-image"/></a></div>
-			<div class="navbar-collapse collapse navbar-custom">
+				<button type="button" class="navbar-toggle custom-navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+				<a class="navbar-brand" href="index.html"><strong>Island Equipment Owners Assn.</strong></a>
+			</div>
+			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="index.html">Home</a></li>
 					<li><a href="about.html">About/Contact Us</a></li>
@@ -27,49 +28,52 @@
 							<li><a href="equipowners.html">Equipment Owners</a></li>
 							<li><a href="dealers.html">Dealers</a></li>
 						</ul>
+					</li>
 					<li><a href="rates.html">Rates</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li><a href="2012project.html">2012 Projects</a></li>
-								<li><a href="2013project.html">2013 Projects</a></li>
-								<li><a href="2014project.html">2014 Projects</a></li>
-								<li><a href="2015project.html">2015 Projects</a></li>
-								</ul>
+						<ul class="dropdown-menu">
+							<li><a href="2012project.html">2012 Projects</a></li>
+							<li><a href="2013project.html">2013 Projects</a></li>
+							<li><a href="2014project.html">2014 Projects</a></li>
+							<li><a href="2015project.html">2015 Projects</a></li>
+						</ul>
+					</li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
-							<ul class="dropdown-menu">
-								<li><a href="50celeb.html">50th Celebration</a></li>
-								<li><a href="trucklight.html">Truck Light Convoy</a></li>
-								<li><a href="https://samanthakingphotography.smugmug.com/IEOA-2016/" target="blank">2016 Golf Tournament</a></li>
-								<li><a href="https://jimbradley.smugmug.com/Trucks/Victoria-Christmas-Trucks-2015/" target="blank">Truck Light Gallery</a></li>
-							</ul>
+						<ul class="dropdown-menu">
+							<li><a href="50celeb.html">50th Celebration</a></li>
+							<li><a href="trucklight.html">Truck Light Convoy</a></li>
+							<li><a href="https://samanthakingphotography.smugmug.com/IEOA-2016/" target="blank">2016 Golf Tournament</a></li>
+							<li><a href="https://jimbradley.smugmug.com/Trucks/Victoria-Christmas-Trucks-2015/" target="blank">Truck Light Gallery</a></li>
+						</ul>
+					</li>
 				</ul>
 			</div>
-			<!--/.nav-collapse -->
 		</div>
-	</section>
-<div class="container">
-	<section class="row row-padded">
-		<div class="col-sm-12 owner-details">
-			<h3>Equipmenet Owners</h3>
-			<p>Listings include contact information as well as Equipment that they own.</p>
-			<p><span class="details-bold">Possible Equipment are as follows:</span><br>
-			Trucks, Truck with Trailer, Rubber Tired Backhoes, Crawler Loaders, Bulldozer Blade, Asphalt, Compressors, Compaction Equip, Crushers, Rubber Tired Loaders, Mobile Cranes/Crane Trucks, Graders, Excavators, Lowbeds, Screeners.<br></p>
-			<p>Just the equipment that the owner owns and any other notes will appear in the listings.
-			</p>
-			<hr>
-			<div id="owner-parent"></div> <!-- Populated by main.js populateOwners() -->
-		</div>
-	</section>
+	</header>
 
-</div>
-<section class="custom-footer">
-	<div class="container">
-		<div class="col-sm-6 text-left footer-item">Website by Raventec Consulting &amp; Associates</div>
-		<div class="col-sm-6 text-right footer-item"><a class="unstyled" href="#"><i class="glyphicon glyphicon-arrow-up custom-glyphicon"></i>Top</a></div>
-	</div>
-</section>
-<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script type="text/javascript" src="js/main.js"></script>
+	<main class="container">
+		<div class="row">
+			<div class="col-sm-12">
+				<h3>Equipment Owners</h3>
+				<p>Listings include contact information as well as Equipment that they own.</p>
+				<p><strong>Possible Equipment are as follows:</strong><br>
+				Trucks, Truck with Trailer, Rubber Tired Backhoes, Crawler Loaders, Bulldozer Blade, Asphalt, Compressors, Compaction Equip, Crushers, Rubber Tired Loaders, Mobile Cranes/Crane Trucks, Graders, Excavators, Lowbeds, Screeners.<br></p>
+				<p>Only the equipment that the owner owns and any other notes will appear in the listings.</p>
+				<hr>
+				<div id="owner-container"></div> <!-- Populated by main.js populateOwners() -->
+			</div>
+		</div>
+	</main>
+
+	<footer class="custom-footer">
+		<div class="container">
+			<div class="col-xs-10 text-left footer-item">Website by Raventec Consulting &amp; Associates</div>
+			<div class="col-xs-2 text-right footer-item"><a class="unstyled" href="#"><i class="glyphicon glyphicon-arrow-up custom-glyphicon"></i>Top</a></div>
+		</div>
+	</footer>
+
+	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+	<script type="text/javascript" src="js/main.js"></script>
 </body>
 </html>
