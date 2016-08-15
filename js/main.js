@@ -1,13 +1,56 @@
-$.getJSON("data/equipowners.json", function(json) {
-	populateOwners(json);
-});
+var getJson = function getJson(file, callback){
+	$.getJSON("data/"+file, function(json) {
+		callback(json);
+	});
+};
+
+function getUrlParam(sParam) {
+  var sPageURL = decodeURIComponent(window.location.search.substring(1)), sURLVariables = sPageURL.split('&'), sParameterName, i;
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+    if (sParameterName[0] === sParam) {
+      return sParameterName[1] === undefined ? true : sParameterName[1];
+		}
+  }
+}
 
 function toggleDetails(div) {
 	$('#'+div).slideToggle(200);
 }
 
+function populateProjects(projects) {
+	var year = getUrlParam('year');
+	if(typeof(year) === 'undefined' || typeof(projects[year]) === 'undefined') return;
+
+
+	var container = $('#projects-container');
+	projects[year].forEach(function(project){
+		var thanks = "";
+		var details = "";
+		project.details.forEach(function(detail){
+			details += "<p>"+detail+"</p>";
+		});
+		project.thanks.forEach(function(thanksItem){
+			var donators = "";
+			thanksItem.donators.forEach(function(donator){
+				donators += "<li>"+donator+"</li>";
+			});
+			thanks += "<strong>"+thanksItem.equipment+"</strong><ul>"+donators+"</ul>";
+		});
+		html = "\
+			<div class='row'>\
+				<div class='col-xs-12'>\
+					<h3 class='project-title'>"+project.title+"</h3>"+details+"\
+					<p>Thank you so much to the following members who helped with this project:</p>"+thanks+"\
+				</div>\
+			</div>\
+		";
+		container.append(html);
+	});
+}
+
 function populateOwners(owners){
-	var container = $('#owner-container');
+	var container = $('#owners-container');
 	owners.forEach(function(owner){
 		var details = "";
 		var equipment = "";

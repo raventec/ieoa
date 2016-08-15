@@ -32,10 +32,10 @@
 					<li><a href="rates.html">Rates</a></li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Projects<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="2012project.html">2012 Projects</a></li>
-							<li><a href="2013project.html">2013 Projects</a></li>
-							<li><a href="2014project.html">2014 Projects</a></li>
-							<li><a href="2015project.html">2015 Projects</a></li>
+							<li><a href="projects.html?year=2012">2012 Projects</a></li>
+							<li><a href="projects.html?year=2013">2013 Projects</a></li>
+							<li><a href="projects.html?year=2014">2014 Projects</a></li>
+							<li><a href="projects.html?year=2015">2015 Projects</a></li>
 						</ul>
 					</li>
 					<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Events<b class="caret"></b></a>
@@ -60,7 +60,7 @@
 				Trucks, Truck with Trailer, Rubber Tired Backhoes, Crawler Loaders, Bulldozer Blade, Asphalt, Compressors, Compaction Equip, Crushers, Rubber Tired Loaders, Mobile Cranes/Crane Trucks, Graders, Excavators, Lowbeds, Screeners.<br></p>
 				<p>Only the equipment that the owner owns and any other notes will appear in the listings.</p>
 				<hr>
-				<div id="owner-container"></div> <!-- Populated by main.js populateOwners() -->
+				<div id="owners-container"></div> <!-- Populated by main.js populateOwners() -->
 			</div>
 		</div>
 	</main>
@@ -75,5 +75,6 @@
 	<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 	<script type="text/javascript" src="js/main.js"></script>
+	<script type="text/javascript">getJson('equipowners.json', populateOwners);</script>
 </body>
 </html>
