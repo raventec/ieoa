@@ -25,10 +25,12 @@ body {
 	overflow-y:scroll;
 }
 .navbar-custom {
+	background-color: #1659C4;
 	margin-top:35px;
 }
-.navbar-inverse {
-	/background-color: #F00;
+.navbar-custom.logo-image {
+	width: 100%;
+	height: 100%;
 }
 .carousel-section{
 	background-image:url('../images/landscape1.jpg');
@@ -84,25 +86,11 @@ a.unstyled:hover{
 	text-decoration:underline;
 	color:inherit;
 }
-a.unstyled:visited{
-	color:inherit;
-}
-a.unstyled:active{
-	color:inherit;
-}
 a.custom-link:link{
 	text-decoration:underline;
-	color:inherit;
 }
 a.custom-link:hover{
 	text-decoration:underline;
-	color:inherit;
-}
-a.custom-link:visited{
-	color:inherit;
-}
-a.custom-link:active{
-	color:inherit;
 }
 
 
