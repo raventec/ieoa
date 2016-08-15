@@ -1,4 +1,4 @@
-$.getJSON("data/equip-owners.json", function(json) {
+$.getJSON("data/equipowners.json", function(json) {
 	populateOwners(json);
 });
 
