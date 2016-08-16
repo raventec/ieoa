@@ -1,23 +1,56 @@
-// $(function(){
-//     $('[rel="popover"]').popover({
-//         container: 'body',
-//         html: true,
-//         content: function () {
-//             var clone = $($(this).data('popover-content')).clone(true).removeClass('hide');
-//             return clone;
-//         }
-//     }).click(function(e) {
-//         e.preventDefault();
-//     });
-// });
+var getJson = function getJson(file, callback){
+	$.getJSON("data/"+file, function(json) {
+		callback(json);
+	});
+};
 
+function getUrlParam(sParam) {
+  var sPageURL = decodeURIComponent(window.location.search.substring(1)), sURLVariables = sPageURL.split('&'), sParameterName, i;
+  for (i = 0; i < sURLVariables.length; i++) {
+    sParameterName = sURLVariables[i].split('=');
+    if (sParameterName[0] === sParam) {
+      return sParameterName[1] === undefined ? true : sParameterName[1];
+		}
+  }
+}
 
 function toggleDetails(div) {
-	$('#'+div).toggle(500);
+	$('#'+div).slideToggle(200);
+}
+
+function populateProjects(projects) {
+	var year = getUrlParam('year');
+	if(typeof(year) === 'undefined' || typeof(projects[year]) === 'undefined') return;
+
+
+	var container = $('#projects-container');
+	projects[year].forEach(function(project){
+		var thanks = "";
+		var details = "";
+		project.details.forEach(function(detail){
+			details += "<p>"+detail+"</p>";
+		});
+		project.thanks.forEach(function(thanksItem){
+			var donators = "";
+			thanksItem.donators.forEach(function(donator){
+				donators += "<li>"+donator+"</li>";
+			});
+			thanks += "<strong>"+thanksItem.equipment+"</strong><ul>"+donators+"</ul>";
+		});
+		html = "\
+			<div class='row'>\
+				<div class='col-xs-12'>\
+					<h3 class='project-title'>"+project.title+"</h3>"+details+"\
+					<p>Thank you so much to the following members who helped with this project:</p>"+thanks+"\
+				</div>\
+			</div>\
+		";
+		container.append(html);
+	});
 }
 
 function populateOwners(owners){
-	var parent = $('#owner-parent');
+	var container = $('#owners-container');
 	owners.forEach(function(owner){
 		var details = "";
 		var equipment = "";
@@ -25,18 +58,29 @@ function populateOwners(owners){
 			var value = detail.value;
 			if(detail.property === "Email"){
 				value = "<a href='mailto:"+detail.value+"'>"+detail.value+"</a>";
+			}else if(detail.property === "Web"){
+				value = "<a href='http://"+detail.value+"'>"+detail.value+"</a>";
 			}
-			details += "<li><span class='details-bold'>"+detail.property+": </span>"+value;
+			details += "<li><strong>"+detail.property+": </strong>"+value;
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
-				details += " <span class='details-bold'>Cell: </span>"+detail.cell;
+				details += " <strong>Cell: </strong>"+detail.cell;
 			}
 			details += "</li>"
 		});
 		owner.equipment.forEach(function(equipmentItem){
 			equipment += "<li>"+equipmentItem+"</li>";
 		});
-		html = `<div class="row"> <div class="col-sm-12"> <a href="javascript:void(0)" onclick="toggleDetails('${owner.id}');">${owner.name}</a> <div id="${owner.id}" class="owner-details"> Details: <ul> ${details} </ul> Equipment: <ul> ${equipment} </ul> </div> </div> </div>`;
-		parent.append(html);
+		html = "\
+			<div class='row'>\
+				<div class='col-xs-12'>\
+					<a class='owner-title' href='javascript:void(0)' onclick='toggleDetails(\""+owner.id+"\");'>"+owner.name+"</a>\
+					<div id='"+owner.id+"' class='owner-details'>\
+						Details: <ul>"+details+"</ul>\
+						Equipment: <ul>"+equipment+"</ul>\
+					</div>\
+				</div>\
+			</div>\
+		";
+		container.append(html);
 	});
 }
-populateOwners(json);
