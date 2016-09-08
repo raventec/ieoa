@@ -1,4 +1,4 @@
-[
+json = [
   {
     "id": "a_forbes",
     "name": "A. Forbes Contracting Ltd.",
@@ -16,9 +16,10 @@
         "property": "Address",
         "value": "758 Egret Close Victoria, BC V9B 0R1"
       }
+
     ],
     "equipment": [
-      "Trucks"
+      "Trucks",
     ]
   },
   {
@@ -41,7 +42,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Notes: Gravel Truck"
+      "Notes: Gravel Truck",
     ]
   },
   {
@@ -82,7 +83,7 @@
       "Compaction Equipment",
       "Excavators",
       "Lowbeds",
-      "Notes: Skid Steer, Rollers"
+      "Notes: Skid Steer, Rollers",
     ]
   },
   {
@@ -111,7 +112,7 @@
       "Mobile Crane/Crane Trucks",
       "Excavators",
       "Lowbeds",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -141,7 +142,7 @@
       "Truck with Trailer",
       "Rubber Tired Backhoes",
       "Compaction Equipment",
-      "Excavators"
+      "Excavators",
     ]
   },
   {
@@ -162,7 +163,7 @@
       "Trucks",
       "Excavators",
       "Lowbeds",
-      "Notes: Single axel dump, paving equipment"
+      "Notes: Single axel dump, paving equipment",
     ]
   },
   {
@@ -190,7 +191,7 @@
     "equipment": [
       "Trucks",
       "Truck with Trailer",
-      "Notes: 2 axel pony trailer"
+      "Notes: 2 axel pony trailer",
     ]
   },
   {
@@ -218,7 +219,7 @@
     "equipment": [
       "Trucks",
       "Rubber Tired Backhoes",
-      "Notes: Johnston street sweeper/Sunvac tennant street sweeper"
+      "Notes: Johnston street sweeper/Sunvac tennant street sweeper",
     ]
   },
   {
@@ -246,7 +247,7 @@
     "equipment": [
       "Trucks",
       "Truck with Trailer",
-      "Notes: 2 axle pony trailers/4 axle Quad End Dumps/Bobcat"
+      "Notes: 2 axle pony trailers/4 axle Quad End Dumps/Bobcat",
     ]
   },
   {
@@ -308,7 +309,7 @@
     ],
     "equipment": [
       "Lowbeds",
-      "Notes: Crawler Carrier/Mini Excavators"
+      "Notes: Crawler Carrier/Mini Excavators",
     ]
   },
   {
@@ -336,7 +337,7 @@
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Bobcat Skidsteer, Bobcat Mini Excavator"
+      "Notes: Bobcat Skidsteer, Bobcat Mini Excavator",
     ]
   },
   {
@@ -403,7 +404,7 @@
       "Rubber Tired Loaders",
       "Excavators",
       "Screeners",
-      "Notes: Water truck/2 Axle Pup/3 Axle Equipment Trailer, Quad Trailer"
+      "Notes: Water truck/2 Axle Pup/3 Axle Equipment Trailer, Quad Trailer",
     ]
   },
   {
@@ -431,7 +432,7 @@
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Skid Steer"
+      "Notes: Skid Steer",
     ]
   },
   {
@@ -463,7 +464,7 @@
     "equipment": [
       "Crushers",
       "Rubber Tired Loaders",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -497,7 +498,7 @@
       "Rubber Tired Loaders",
       "Mobile Cranes/Crane Trucks",
       "Excavators",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -519,7 +520,7 @@
       },
       {
         "property": "Web",
-        "value": "www.canadianutility.com"
+        "value": "www.canadianutility.com/"
       },
       {
         "property": "Address",
@@ -532,7 +533,7 @@
       "Asphalt",
       "Compressors",
       "Compaction Equipment",
-      "Excavators"
+      "Excavators",
     ]
   },
   {
@@ -563,7 +564,7 @@
       "Asphalt",
       "Compaction Equipment",
       "Rubber Tired Loaders",
-      "Graders"
+      "Graders",
     ]
   },
   {
@@ -585,7 +586,7 @@
       },
       {
         "property": "Web",
-        "value": "www.capitalexcavating@shaw.ca"
+        "value": "www.capitalexcavating@shaw.ca/"
       },
       {
         "property": "Address",
@@ -598,7 +599,7 @@
       "Bulldozer Blade",
       "Compaction Equipment",
       "Excavators",
-      "Lowbeds"
+      "Lowbeds",
     ]
   },
   {
@@ -636,7 +637,7 @@
       "Truck with Trailer",
       "Compaction Equipment",
       "Excavators",
-      "Notes: Pony trailer, single axle dump truck"
+      "Notes: Pony trailer, single axle dump truck",
     ]
   },
   {
@@ -659,7 +660,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -707,7 +708,7 @@
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Skid Steer, Rollers"
+      "Notes: Skid Steer, Rollers",
     ]
   },
   {
@@ -737,7 +738,7 @@
       }
     ],
     "equipment": [
-      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets"
+      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets",
     ]
   },
   {
@@ -782,7 +783,7 @@
     "equipment": [
       "Trucks",
       "Excavators",
-      "Notes: Rock Trucks, Wheel Loader. DG Cat"
+      "Notes: Rock Trucks, Wheel Loader. DG Cat",
     ]
   },
   {
@@ -805,7 +806,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -832,7 +833,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -859,7 +860,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -886,7 +887,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -905,7 +906,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -932,7 +933,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -959,7 +960,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -991,7 +992,7 @@
       "Compaction Equipment",
       "Rubber Tired Loaders",
       "Excavators",
-      "Notes: Mini Excavators/Bobcats/Sweeper"
+      "Notes: Mini Excavators/Bobcats/Sweeper",
     ]
   },
   {
@@ -1039,7 +1040,7 @@
       "Rubber Tired Loaders",
       "Mobile Crane/Crane Trucks",
       "Excavators",
-      "Lowbeds"
+      "Lowbeds",
 
     ]
   },
@@ -1086,7 +1087,7 @@
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Quad Trailer/sweepers/diesel gen sets, Crusher"
+      "Notes: Quad Trailer/sweepers/diesel gen sets, Crusher",
     ]
   },
   {
@@ -1113,7 +1114,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -1145,7 +1146,7 @@
     "equipment": [
       "Rubber Tired Backhoes",
       "Compaction Equipment",
-      "Excavators"
+      "Excavators",
     ]
   },
   {
@@ -1180,7 +1181,7 @@
       "Compressors",
       "Compaction Equipment",
       "Rubber Tired Loaders",
-      "Graders"
+      "Graders",
     ]
   },
   {
@@ -1230,7 +1231,7 @@
       "Excavators",
       "Lowbeds",
       "Screeners",
-      "Notes: Track Crusher, Trench shoring, Road plates"
+      "Notes: Track Crusher, Trench shoring, Road plates",
     ]
   },
   {
@@ -1257,7 +1258,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -1293,7 +1294,7 @@
       "Rubber Tired Backhoes",
       "Rubber Tired Loaders",
       "Excavators",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -1328,7 +1329,7 @@
       "Truck with Trailer",
       "Rubber Tired Loaders",
       "Excavators",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -1370,7 +1371,7 @@
       "Trucks",
       "Compressors",
       "Excavators",
-      "Notes: hydroexcavation vacuum trucks, mini excavators"
+      "Notes: hydroexcavation vacuum trucks, mini excavators",
     ]
   },
   {
@@ -1401,7 +1402,7 @@
     ],
     "equipment": [
       "Compressors",
-      "Mobile Crane/Crane Trucks"
+      "Mobile Crane/Crane Trucks",
     ]
   },
 
@@ -1432,7 +1433,7 @@
       "Compressors",
       "Compaction Equipment",
       "Excavators",
-      "Notes: Service Truck"
+      "Notes: Service Truck",
     ]
   },
 
@@ -1456,7 +1457,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Notes: 5 Ton Dump Truck / Combination Hydrovac/Flush Trucks / Straight Hydrovac Vacuum Truck"
+      "Notes: 5 Ton Dump Truck / Combination Hydrovac/Flush Trucks / Straight Hydrovac Vacuum Truck",
     ]
   },
   {
@@ -1498,7 +1499,7 @@
       "Trucks",
       "Crawler Loaders",
       "Screeners",
-      "Notes: Ready Mix Trucks, Batch Plants"
+      "Notes: Ready Mix Trucks, Batch Plants",
     ]
   },
   {
@@ -1520,7 +1521,7 @@
       },
       {
         "property": "Web",
-        "value": "www.ipitech.ca"
+        "value": "	www.ipitech.ca"
       },
       {
         "property": "Address",
@@ -1528,7 +1529,7 @@
       }
     ],
     "equipment": [
-      "Notes: Vactor Trucks, Flushers, CCTV trucks"
+      "Notes: Vactor Trucks, Flushers, CCTV trucks",
     ]
   },
   {
@@ -1566,7 +1567,7 @@
       "Graders",
       "Excavators",
       "Lowbeds",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -1608,7 +1609,7 @@
       "Graders",
       "Excavators",
       "Lowbeds",
-      "Screeners"
+      "Screeners",
     ]
   },
   {
@@ -1640,7 +1641,7 @@
     "equipment": [
       "Trucks",
       "Lowbeds",
-      "Notes: semi trucks, end dump trailers, equipment trailer"
+      "Notes: semi trucks, end dump trailers, equipment trailer",
     ]
   },
   {
@@ -1667,7 +1668,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -1694,7 +1695,7 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
   },
   {
@@ -1721,7 +1722,1462 @@
     ],
     "equipment": [
       "Trucks",
-      "Truck with Trailer"
+      "Truck with Trailer",
     ]
-  }
+  },
+
+  {
+    "id": "kwilson",
+    "name": "K. Wilson Contracting",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Keith Wilson",
+        "cell": "250-418-5535"
+      },
+      {
+        "property": "Bus",
+        "value": "250-474-6616"
+      },
+      {
+        "property": "Address",
+        "value": "2508 Wentwich Road Victoria, BC V9B 3N4"
+      }
+    ],
+    "equipment": [
+        "Excavators",
+    ]
+  },
+  {
+    "id": "lbrentals",
+    "name": "L.B. Crane Rentals",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Laurie Broughton",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-388-6864"
+      },
+      {
+        "property": "Fax",
+        "value": "250-388-6345"
+      },
+      {
+        "property": "Email",
+        "value": "lbcrane@telus.net"
+      },
+      {
+        "property": "Address",
+        "value": "#50 - 1492 Admirals Rd Victoria, BC V9A 2R1"
+      }
+    ],
+    "equipment": [
+      "Mobile Crane/Crane Trucks",
+    ]
+  },
+  {
+    "id": "lakewood",
+    "name": "Lakewood Estates Ltd.",
+    "details": [
+      {
+        "property": "Bus",
+        "value": "250-388-6864"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-6486"
+      },
+      {
+        "property": "Web",
+        "value": "	www.lakewoodexcavating.ca"
+      },
+      {
+        "property": "Address",
+        "value": "#204– 957 Langford Parkway Victoria, B.C. V9B 0A5"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Crawler Loaders",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Crushers",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Screeners",
+      "Notes: Pup & Quad Trailers",
+    ]
+  },
+  {
+    "id": "blujay",
+    "name": "Little Bluejay Contracting Co. Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Don Jay",
+        "cell": "250-516-7203"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-5566"
+      },
+      {
+        "property": "Address",
+        "value": "1331 Wilhelmina Way Victoria, BC V9B 4K2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Compaction Equipment",
+      "Excavators",
+      "Lowbeds",
+      "Notes: End Dump/Trailers",
+    ]
+  },
+  {
+    "id": "lopeter",
+    "name": "Lopeter Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Doug Lopeter",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-592-5343"
+      },
+      {
+        "property": "Fax",
+        "value": "250-598-5354"
+      },
+      {
+        "property": "Address",
+        "value": "2348 Florence Street Victoria, BC V8R 5E8"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+    ]
+  },
+
+  {
+    "id": "mrcrane",
+    "name": "M.R. Crane Service Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Mike Calabrese",
+        "cell": "250-888-2721"
+      },
+      {
+        "property": "Fax",
+        "value": "250-590-2260"
+      },
+      {
+        "property": "Email",
+        "value": "mrcraneservices@hotmail.com"
+      },
+      {
+        "property": "Address",
+        "value": "511 Crestwood Court Victoria, BC V9B 6J3"
+      }
+    ],
+    "equipment": [
+      "Mobile Crane/Crane Trucks",
+      "Graders",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+      "Notes: Skid Steer, Rollers",
+    ]
+  },
+  {
+    "id": "Madison",
+    "name": "Madison Paving (1976) Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Roger Dardengo",
+        "cell": "250-883-3663"
+      },
+      {
+        "property": "Bus",
+        "value": "250-383-0332"
+      },
+      {
+        "property": "Fax",
+        "value": "250-383-8632"
+      },
+      {
+        "property": "Email",
+        "value": "info@madisonpaving.ca"
+      },
+      {
+        "property": "Web",
+        "value": "		www.madisonpaving.ca"
+      },
+      {
+        "property": "Address",
+        "value": "PO Box 4182 Victoria, BC V8X 3X8"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Asphalt",
+      "Compaction Equipment",
+      "Graders",
+      "Notes: Bobcats/Small Grinder",
+    ]
+  },
+  {
+    "id": "mahil",
+    "name": "Mahil Transport Corporation",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Parm Mahil",
+        "cell": "250-551-9002"
+      },
+      {
+        "property": "Fax",
+        "value": "778-426-1156"
+      },
+      {
+        "property": "Address",
+        "value": "1794 John Road North Saanich, BC V8L 5S8"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Notes: four axle transfers, quad end dumps, pup trailers, lowbed tractor",
+    ]
+  },
+  {
+    "id": "mainroad",
+    "name": "Mainroad South Island Contracting",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Rick Gill",
+        "cell": "250-880-1976"
+      },
+      {
+        "property": "Bus",
+        "value": "250-391-7310"
+      },
+      {
+        "property": "Fax",
+        "value": "250-391-7312"
+      },
+      {
+        "property": "Address",
+        "value": "2895 Westshore Parkway Victoria, BC V9B 0B2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Rubber Tired Loaders",
+      "Graders",
+    ]
+  },
+  {
+    "id": "mason",
+    "name": "Mason Trucking Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Keet Johal",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-857-1527"
+      },
+      {
+        "property": "Email",
+        "value": "masontruckingltd@gmail.com"
+      },
+      {
+        "property": "Address",
+        "value": "516 Ker Ave Victoria, BC V9A 2B7"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+    ]
+  },
+  {
+    "id": "mcrae",
+    "name": "McRae’s Environmental Services",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Island Operations: Keith LeBrun",
+        "cell": "250-883-7867"
+      },
+      {
+        "property": "Bus",
+        "value": "250-479-3205"
+      },
+      {
+        "property": "Email",
+        "value": "islandoperations@mcraesenviro.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.mcraes-enviro.com"
+      },
+      {
+        "property": "Address",
+        "value": "4846 West Saanich Rd Victoria, BC V8Z 3H5"
+      }
+    ],
+    "equipment": [
+      "Notes: Hydro-Vac Trucks, Camera Trucks, Flushers, Special Waste Vacuum Trucks",
+    ]
+  },
+  {
+    "id": "mitchell",
+    "name": "Michell Excavating Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Daryl Michell",
+        "cell": ""
+      },
+      {
+        "property": "Contact",
+        "value": "Karen Wiggins",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-652-1640"
+      },
+      {
+        "property": "Fax",
+        "value": "250-652-1645"
+      },
+      {
+        "property": "Email",
+        "value": "michell@shaw.ca"
+      },
+      {
+        "property": "Web",
+        "value": "www.michellexcavating.ca"
+      },
+      {
+        "property": "Address",
+        "value": "7473 East Saanich Rd Saanichton, BC V8M 1W2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+      "Notes: 2 axle pups, 4 axle transfer, quad dump trailers, slinger truck, single axle, track skid steer",
+    ]
+  },
+  {
+    "id": "nan",
+    "name": "NAN Site Servicing",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Nirmal Johal",
+        "cell": "250-880-0562"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-8839"
+      },
+      {
+        "property": "Email",
+        "value": "nirmal.johal@nansiteservicing.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.nansiteservicing.com"
+      },
+      {
+        "property": "Address",
+        "value": "3274 Walfred Place Victoria, BC V9C 4M4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Compaction Equipment",
+      "Excavators",
+      "Screeners",
+      "Notes: Tandem Axle/Single axle dump truck, rubber tracked skid steer, electric all terrain scissor manlift, mini excavator",
+    ]
+  },
+  {
+    "id": "nixon",
+    "name": "Nixon Bros. Contracting Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Dennis Nixon",
+        "cell": "250-744-6740"
+      },
+      {
+        "property": "Bus",
+        "value": "250-479-8199"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-0247"
+      },
+      {
+        "property": "Address",
+        "value": "400 Burnside Road East Victoria, BC V9A 1A8"
+      }
+    ],
+    "equipment": [
+      "Bulldozer Blade",
+      "Rubber Tired Loaders",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "northridge",
+    "name": "Northridge Excavating Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Mike Cownden",
+        "cell": "250-883-2543"
+      },
+      {
+        "property": "Bus",
+        "value": "250-479-4373"
+      },
+      {
+        "property": "Fax",
+        "value": "250-479-4341"
+      },
+      {
+        "property": "Email",
+        "value": "northridgeltd@northridgegroup.ca"
+      },
+      {
+        "property": "Address",
+        "value": "#2 – 1002 Goldstream Ave Victoria, BC V9B 2Y5"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Excavators",
+      "Notes: Single axle, mini excavator, skid steer",
+    ]
+  },
+  {
+    "id": "odell",
+    "name": "O’Dell Slinger Service",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Russ Frawley",
+        "cell": ""
+      },
+      {
+        "property": "Contact",
+        "value": "Jen Smith",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-383-0600"
+      },
+      {
+        "property": "Fax",
+        "value": "250-383-0666"
+      },
+      {
+        "property": "Email",
+        "value": "odellslinger@gmail.com"
+      },
+      {
+        "property": "Address",
+        "value": "3315 Camrose Court Victoria, BC V8P 5N9"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Excavators",
+      "Screeners",
+      "Notes: Slinger Trucks and Single and Tandem Axle Dump Trucks",
+    ]
+  },
+  {
+    "id": "peninsula",
+    "name": "Peninsula Bulldozing Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Colin Mann",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-479-1884"
+      },
+      {
+        "property": "Fax",
+        "value": "250-727-2626"
+      },
+      {
+        "property": "Address",
+        "value": "1000 Beckwith Ave Victoria, BC V8X 3S4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Excavators",
+      "Lowbeds",
+      "Notes: Slinger Truck & Demo Box",
+    ]
+  },
+  {
+    "id": "quick",
+    "name": "Quick Excavating Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Paul Bhoond",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-415-6168"
+      },
+      {
+        "property": "Fax",
+        "value": "250-475-6168"
+      },
+      {
+        "property": "Email",
+        "value": "quickexcavating@gmail.com"
+      },
+      {
+        "property": "Address",
+        "value": "835 Ferrie Rd Victoria, BC V8Z 3C7"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Excavators",
+      "Notes: Equipment Trailer, mini, midsize and fullsize excavators",
+    ]
+  },
+  {
+    "id": "rgexcav",
+    "name": "R G Excavating Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Rob Grant",
+        "cell": "250-480-9804"
+      },
+      {
+        "property": "Bus",
+        "value": "250-474-1537"
+      },
+      {
+        "property": "Fax",
+        "value": "250-474-1590"
+      },
+      {
+        "property": "Address",
+        "value": "413 – 800 Kelly Rd Victoria, BC V9B 5T6"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Compaction Equipment",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "richardsland",
+    "name": "Richard’s Landscaping & Excavating",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Richard Jones",
+        "cell": "250-883-3982"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-2980"
+      },
+      {
+        "property": "Web",
+        "value": "www.richardslandscaping.ca"
+      },
+      {
+        "property": "Address",
+        "value": "4604 Morland Rd Victoria, BC V9C 4E2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Notes: Single Axle Dump, rubber tracked skid steer, mini excavators",
+    ]
+  },
+  {
+    "id": "rja",
+    "name": "RJA Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Indy Dhatt",
+        "cell": "250-361-8145"
+      },
+      {
+        "property": "Bus",
+        "value": "250-727-7453"
+      },
+      {
+        "property": "Address",
+        "value": "1161 Cherry Rd Victoria, BC V8Z 7G3"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+    ]
+  },
+  {
+    "id": "rodd",
+    "name": "Rodd Excavating & Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Colin Rodd",
+        "cell": "250-880-1468"
+      },
+      {
+        "property": "Bus",
+        "value": "250-656-6133"
+      },
+      {
+        "property": "Address",
+        "value": "10375 Wilson Road North Saanich, BC V8L 5S8"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Crawler Loaders",
+        "Compaction Equipment",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "doak",
+    "name": "Ron Doak Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Ron Doak",
+        "cell": "250-812-2553"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-4258"
+      },
+      {
+        "property": "Email",
+        "value": "rondoak@telus.net"
+      },
+      {
+        "property": "Address",
+        "value": "207 - 751 Goldstream Avenue Langford, BC V9B 2X4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+    ]
+  },
+  {
+    "id": "rozon",
+    "name": "Rozon Trucking Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Rick Rozon",
+        "cell": "250-812-1388"
+      },
+      {
+        "property": "Bus",
+        "value": "250-474-1945"
+      },
+      {
+        "property": "Fax",
+        "value": "250-474-1205"
+      },
+      {
+        "property": "Address",
+        "value": "540 Selwyn Hts. Victoria, BC V9B 3L5"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+    ]
+  },
+  {
+    "id": "russel",
+    "name": "Russel's Crane & Cartage Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Russel Lambert",
+        "cell": "250-514-8660"
+      },
+      {
+        "property": "Bus",
+        "value": "250-480-4003"
+      },
+      {
+        "property": "Address",
+        "value": "3544 Proudfoot Place Victoria, BC V9C 4L6"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Mobile Crane/Crane Trucks",
+      "Notes: Tractor Trailer",
+    ]
+  },
+  {
+    "id": "saanich",
+    "name": "Saanich Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Lee Smith",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-880-1669"
+      },
+      {
+        "property": "Fax",
+        "value": "250-656-3770"
+      },
+      {
+        "property": "Email",
+        "value": "saanichtrucking@gmail.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.saanichtruckingandexcavating.com"
+      },
+      {
+        "property": "Address",
+        "value": "199 Petworth Drive Victoria, BC V9E 1J4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Excavators",
+      "Notes: Skidsteer loader, small excavator",
+    ]
+  },
+  {
+    "id": "sanichton",
+    "name": "Saanichton Development Ltd",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Adrian Woods",
+        "cell": "250-882-4331"
+      },
+      {
+        "property": "Contact",
+        "value": "Site Foreman: Andrew Namu",
+        "cell": "250-883-5897"
+      },
+      {
+        "property": "Bus",
+        "value": "250-652-2523"
+      },
+      {
+        "property": "Email",
+        "value": "san_dev@live.ca"
+      },
+      {
+        "property": "Address",
+        "value": "1383 Mount Newton X Road Saanichton, BC V8M 1S1"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Compaction Equipment",
+      "Excavators",
+      "Lowbeds",
+      "Notes: 2 Axle Pony Trailer, 8 tonne JCB vibratory compactor, rubber/tire",
+    ]
+  },
+  {
+    "id": "scansa",
+    "name": "Scansa Construction Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Kory Gronnestad",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-5222"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-5204"
+      },
+      {
+        "property": "Web",
+        "value": "www.scansa.ca"
+      },
+      {
+        "property": "Address",
+        "value": "203-2089 Millstream Road Victoria BC V9B 6H4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compressors",
+      "Compaction Equipment",
+      "Crushers",
+      "Rubber Tired Loaders",
+      "Mobile Crane/Crane Trucks",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+    ]
+  },
+  {
+    "id": "southisland",
+    "name": "South Island Excavating Inc.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Chris Hall",
+        "cell": "250-744-7811"
+      },
+      {
+        "property": "Bus",
+        "value": "250-655-9666"
+      },
+      {
+        "property": "Fax",
+        "value": "250-655-9603"
+      },
+      {
+        "property": "Email",
+        "value": "chris@southislandexcavating.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.southislandexcavating.com"
+      },
+      {
+        "property": "Address",
+        "value": "2009 Courser Drive Sidney, BC V8L 2N5"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Compaction Equipment",
+      "Crushers",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+      "Notes: Mini Excavator/Bobcat With Attachments/Equipment Trailers/Power Sweeper/Snow Removal Equipment",
+    ]
+  },
+  {
+    "id": "lingren",
+    "name": "Steve Lingren Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Steve Lingren",
+        "cell": "250-508-4150"
+      },
+      {
+        "property": "Address",
+        "value": "3321 Blueberry Lane Victoria, BC V9C 0A9"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+    ]
+  },
+  {
+    "id": "stonepacific",
+    "name": "Stone Pacific Contracting Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Brant Stone",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-748-2095"
+      },
+      {
+        "property": "Fax",
+        "value": "250-748-2051"
+      },
+      {
+        "property": "Email",
+        "value": "info@stonepacific.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.stonepacific.com"
+      },
+      {
+        "property": "Address",
+        "value": "PO Box 972 Duncan, BC V9L 3Y2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Compaction Equipment",
+      "Crushers",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+    ]
+  },
+  {
+    "id": "sukh",
+    "name": "Sukh & Sons Trucking Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Sukhwant Sidhu",
+        "cell": "250-883-4254"
+      },
+      {
+        "property": "Bus",
+        "value": "250-652-8827"
+      },
+      {
+        "property": "Fax",
+        "value": "250-652-8378"
+      },
+      {
+        "property": "Address",
+        "value": "6981 Veyaness Rd Victoria, BC V8M 1W1"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "sunrise",
+    "name": "Sunrise Machinery Inc.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Harold Perepalkin",
+        "cell": "250-889-2525"
+      },
+      {
+        "property": "Bus",
+        "value": "250-391-1416"
+      },
+      {
+        "property": "Fax",
+        "value": "250-391-1416"
+      },
+      {
+        "property": "Address",
+        "value": "1250 Liberty Drive Victoria, BC V9C 4H9"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Compaction Equipment",
+      "Notes: Mini Excavator/Bobcat/One Ton Dump Truck",
+    ]
+  },
+  {
+    "id": "tel",
+    "name": "TEL Trucking",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Terry Lewis",
+        "cell": "250-213-8922"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-9984"
+      },
+      {
+        "property": "Address",
+        "value": "3404 Pattison Way Victoria, BC V9C 3K1"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+    ]
+  },
+  {
+    "id": "tervita",
+    "name": "Tervita Corporation",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Alex Morriss",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-915-2010"
+      },
+      {
+        "property": "Fax",
+        "value": "778-747-2952"
+      },
+      {
+        "property": "Address",
+        "value": "893 Van Isle Way Victoria, BC V9B 5R8"
+      }
+    ],
+    "equipment": [
+      "Excavators",
+      "Notes: Cat 320, Cat 325 and can have more equipment on Island depending on work load, Contaminated Soil and Demolition Disposal",
+    ]
+  },
+  {
+    "id": "townsend",
+    "name": "Townsend Bros. Construction Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Nick Smith",
+        "cell": "250-589-4770"
+      },
+      {
+        "property": "Bus",
+        "value": "250-642-7647"
+      },
+      {
+        "property": "Fax",
+        "value": "250-391-6494"
+      },
+      {
+        "property": "Email",
+        "value": "townsendbros@shaw.ca"
+      },
+      {
+        "property": "Address",
+        "value": "2007 Duggan Place Victoria, BC V9B 0E3"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Mobile Crane/Crane Trucks",
+      "Excavators",
+      "Notes: Drills, Cats, rock trucks, fire trucks",
+    ]
+  },
+  {
+    "id": "trueline",
+    "name": "True Line Contracting Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "",
+        "cell": "250-812-7236"
+      },
+      {
+        "property": "Fax",
+        "value": "866-740-7236"
+      },
+      {
+        "property": "Email",
+        "value": "mhornick@truelinecontracting.ca"
+      },
+      {
+        "property": "Address",
+        "value": "5600 Rocky Point Road Victoria, BC V9C 4G9"
+      }
+    ],
+    "equipment": [
+      "Excavators",
+    ]
+  },
+  {
+    "id": "valley",
+    "name": "Valley Remediation Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Dave Dalby",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-652-3626"
+      },
+      {
+        "property": "Address",
+        "value": "840 Industrial Way Victoria, BC V9B 6E2"
+      }
+    ],
+    "equipment": [
+      "Excavators",
+    ]
+  },
+  {
+    "id": "viccity",
+    "name": "Vic City Crane Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Matt MacKinnon",
+        "cell": "250-883-7754"
+      },
+      {
+        "property": "Bus",
+        "value": "778-400-6484"
+      },
+      {
+        "property": "Fax",
+        "value": "778-400-6484"
+      },
+      {
+        "property": "Email",
+        "value": "matt@viccitycrane.com"
+      },
+      {
+        "property": "Web",
+        "value": "	www.viccitycrane.com"
+      },
+      {
+        "property": "Address",
+        "value": "1023 Oliphant Ave, Victoria, BC V8V 2T9"
+      }
+    ],
+    "equipment": [
+      "Mobile Crane/Crane Trucks",
+      "Notes: Hiab 1055 7000 lb @ 63 ft, with 175X-5 jib 2200 lb @ 100 ft.",
+    ]
+  },
+  {
+    "id": "viccontracting",
+    "name": "Victoria Contracting and Municipal Maintenance Corporation",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Paul Rober",
+        "cell": "250-883-3717"
+      },
+      {
+        "property": "Bus",
+        "value": "250-474-2688"
+      },
+      {
+        "property": "Fax",
+        "value": "250-474-1173"
+      },
+      {
+        "property": "Email",
+        "value": "paul@victoriacontracting.ca"
+      },
+      {
+        "property": "Address",
+        "value": "	112 - 1010 McCallum Road, Victoria, BC V9B 4C6"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Graders",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "viclandscape",
+    "name": "Victoria Landscape Gravel Mart",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Bob Cosby",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-381-2415"
+      },
+      {
+        "property": "Fax",
+        "value": "250-381-7606"
+      },
+      {
+        "property": "Address",
+        "value": "2516 Pleasant Street Victoria, BC V8T 4V3"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Excavators",
+    ]
+  },
+  {
+    "id": "vicland2012",
+    "name": "Victoria Landscaping 2012 Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Carlos Furtado",
+        "cell": "250-361-6625"
+      },
+      {
+        "property": "Bus",
+        "value": "250-479-1224"
+      },
+      {
+        "property": "Fax",
+        "value": "250-477-7042"
+      },
+      {
+        "property": "Email",
+        "value": "carlos@victorialandscaping2012ltd.com"
+      },
+      {
+        "property": "Email",
+        "value": "info@victorialandscaping2012ltd.com"
+      },
+      {
+        "property": "Web",
+        "value": "	www.victorialandscaping2012ltd.com"
+      },
+      {
+        "property": "Address",
+        "value": "1374 Hastings Street Victoria, B.C. V8Z 2W2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Excavators",
+      "Notes: Bobcat",
+    ]
+  },
+  {
+    "id": "waynetruck",
+    "name": "Wayne’s Trucking (1981) Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Wayne Richmond",
+        "cell": "250-883-5210"
+      },
+      {
+        "property": "Bus",
+        "value": "250-727-0515"
+      },
+      {
+        "property": "Fax",
+        "value": "250-743-2497"
+      },
+      {
+        "property": "Address",
+        "value": "1816 Munsie Rd Shawnigan Lake, BC V0R 2W2"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Lowbeds",
+      "Notes: B Trains/Van Trailers/Tandem Axle Tractor",
+    ]
+  },
+  {
+    "id": "weebee",
+    "name": "Wee Bee Hauling & Services Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Todd Wilson",
+        "cell": "250-217-5380"
+      },
+      {
+        "property": "Bus",
+        "value": "250-642-5380"
+      },
+      {
+        "property": "Fax",
+        "value": "250-642-5370"
+      },
+      {
+        "property": "Address",
+        "value": "5280 Mt. Matheson Rd Sooke, BC V9Z 1C3"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Lowbeds",
+      "Notes: 2 Axle Pony Trailer",
+    ]
+  },
+  {
+    "id": "westerngrater",
+    "name": "Western Grater Contracting Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Jared Wells",
+        "cell": ""
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-4225"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-7065"
+      },
+      {
+        "property": "Email",
+        "value": "Jared.Wells@norlandlimited.com"
+      },
+      {
+        "property": "Web",
+        "value": "www.westerngrater.com"
+      },
+      {
+        "property": "Address",
+        "value": "790 Industrial Way Victoria, BC V9B 6E2"
+      }
+    ],
+    "equipment": [
+      "Rubber Tired Backhoes",
+      "Compressors",
+      "Mobile Crane/Crane Trucks",
+    ]
+  },
+  {
+    "id": "wilf",
+    "name": "Wilf’s Soil Supply and Service",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Wilf Mundhenk",
+        "cell": "250-883-4899"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-3612"
+      },
+      {
+        "property": "Fax",
+        "value": "250-474-6988"
+      },
+      {
+        "property": "Address",
+        "value": "3344 Luxton Rd Victoria, BC V9C 2Z1"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Truck with Trailer",
+      "Compaction Equipment",
+      "Rubber Tired Loaders",
+      "Excavators",
+      "Screeners",
+    ]
+  },
+  {
+    "id": "york",
+    "name": "York Excavating Ltd.",
+    "details": [
+      {
+        "property": "Contact",
+        "value": "Fred York",
+        "cell": "250-857-0360"
+      },
+      {
+        "property": "Bus",
+        "value": "250-478-7178"
+      },
+      {
+        "property": "Fax",
+        "value": "250-478-4776"
+      },
+      {
+        "property": "Email",
+        "value": "yorkexcavating@shaw.ca"
+      },
+      {
+        "property": "Address",
+        "value": "1784 Millstream Rd Victoria, BC V9B 6E4"
+      }
+    ],
+    "equipment": [
+      "Trucks",
+      "Rubber Tired Backhoes",
+      "Bulldozer Blade",
+      "Compaction Equipment",
+      "Excavators",
+    ]
+  },
+
 ]
