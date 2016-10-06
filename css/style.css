@@ -87,7 +87,7 @@ footer.custom-footer a:hover {
 
 
 /* Equipment owners */
-.owner-details {
+.owner-details, .dealer-details {
 	display: none;
 	margin: 10px 20px;
 	background-color: #CCC;

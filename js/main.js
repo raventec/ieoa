@@ -84,3 +84,35 @@ function populateOwners(owners){
 		container.append(html);
 	});
 }
+
+function populateDealers(dealers){
+	var container = $('#dealers-container');
+	dealers.forEach(function(dealer){
+		var details = "";
+		var equipment = "";
+		dealer.details.forEach(function(detail){
+			var value = detail.value;
+			if(detail.property === "Email"){
+				value = "<a href='mailto:"+detail.value+"'>"+detail.value+"</a>";
+			}else if(detail.property === "Web"){
+				value = "<a href='http://"+detail.value+"'>"+detail.value+"</a>";
+			}
+			details += "<li><strong>"+detail.property+": </strong>"+value;
+			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
+				details += " <strong>Cell: </strong>"+detail.cell;
+			}
+			details += "</li>"
+		});
+		html = "\
+			<div class='row'>\
+				<div class='col-xs-12'>\
+					<a class='dealer-title' href='javascript:void(0)' onclick='toggleDetails(\""+dealer.id+"\");'>"+dealer.name+"</a>\
+					<div id='"+dealer.id+"' class='dealer-details'>\
+						Details: <ul>"+details+"</ul>\
+					</div>\
+				</div>\
+			</div>\
+		";
+		container.append(html);
+	});
+}

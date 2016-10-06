@@ -1,0 +1,40 @@
+[
+	{
+		"id": "a_forbes",
+		"name": "A. Forbes Contracting Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dave Angus",
+				"cell": "250.727.8172"
+			},
+			{
+				"property": "Email",
+				"value": "angusdave@shaw.ca"
+			},
+			{
+				"property": "Address",
+				"value": "758 Egret Close Victoria, BC V9B 0R1"
+			}
+		]
+	},
+	{
+		"id": "szekely",
+		"name": "Adam Szekely Trucking",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Adam Szekely",
+				"cell": "250-884-3144"
+			},
+			{
+				"property": "Email",
+				"value": "adamszekelytrucking@gmail.com"
+			}, 
+			{
+				"property": "Address",
+				"value": "3595 Savannah Ave Victoria, BC V8X 1S6"
+			}
+		]
+	}
+]
