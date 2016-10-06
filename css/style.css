@@ -4,11 +4,11 @@
 /* General layout */
 body {
 	font-size: 16px;
+	overflow-y: scroll;
 }
 main.container {
 	margin-top:50px;
 	padding: 0 25px;
-	overflow-y: scroll;
 }
 /* End general layout */
 
