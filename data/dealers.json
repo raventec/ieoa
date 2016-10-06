@@ -1,39 +1,43 @@
 [
 	{
-		"id": "a_forbes",
-		"name": "A. Forbes Contracting Ltd.",
+		"id": "refuel",
+		"name": "4Refuel Canada",
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Dave Angus",
-				"cell": "250.727.8172"
+				"value": "Jeff Lumley",
+				"cell": "250-893-0810"
 			},
 			{
 				"property": "Email",
-				"value": "angusdave@shaw.ca"
+				"value": "vi4refuel@shaw.ca"
 			},
 			{
 				"property": "Address",
-				"value": "758 Egret Close Victoria, BC V9B 0R1"
+				"value": "Vancouver Island"
+			},
+			{
+				"property": "Web",
+				"value": "www.4refuel.com"
 			}
 		]
 	},
 	{
-		"id": "szekely",
-		"name": "Adam Szekely Trucking",
+		"id": "advanced",
+		"name": "Advanced Collection Services Ltd.",
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Adam Szekely",
-				"cell": "250-884-3144"
+				"value": "Len Shavluk",
+				"cell": "250-920-9665"
 			},
 			{
-				"property": "Email",
-				"value": "adamszekelytrucking@gmail.com"
-			}, 
+				"property": "Bus",
+				"value": "250-388-0700"
+			},
 			{
 				"property": "Address",
-				"value": "3595 Savannah Ave Victoria, BC V8X 1S6"
+				"value": "200 – 2840 Nanaimo Street Victoria, B.C. V8T 4W9"
 			}
 		]
 	}
