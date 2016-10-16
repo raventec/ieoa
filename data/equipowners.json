@@ -950,24 +950,20 @@
 			"cell": "250-883-8518"
 		}, {
 			"property": "Contact",
-			"value": "Don Cameron",
-			"cell": "250-883-3931"
-		}, {
-			"property": "Contact",
 			"value": "Kevin Lloyd",
 			"cell": "250-580-2276"
 		}, {
 			"property": "Bus",
-			"value": "250-656-3159"
+			"value": "250-915-4368"
 		}, {
 			"property": "Fax",
-			"value": "250-656-8635"
+			"value": "250-915-4329"
 		}, {
 			"property": "Email",
 			"value": "info@gecontracting.ca"
 		}, {
 			"property": "Address",
-			"value": "2061 Mills Road West Sidney, BC V8L 5X2"
+			"value": "2895 Westshore Parkway Victoria, BC V9B 0B2"
 		}],
 		"equipment": [
 			"Trucks",
@@ -1201,11 +1197,11 @@
 		"name": "IPI Tech Inc.",
 		"details": [{
 			"property": "Contact",
-			"value": "Alan Barr",
-			"cell": "250-880-1992"
+			"value": "Charlie Walcot",
+			"cell": "250-203-4742"
 		}, {
 			"property": "Bus",
-			"value": "250-380-6460"
+			"value": "250-598-6161"
 		}, {
 			"property": "Email",
 			"value": "ipitech@shaw.ca"
@@ -1778,33 +1774,6 @@
 			"Notes: Slinger Trucks and Single and Tandem Axle Dump Trucks"
 		]
 	}, {
-		"id": "peninsula",
-		"name": "Peninsula Bulldozing Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Colin Mann",
-			"cell": ""
-		}, {
-			"property": "Bus",
-			"value": "250-479-1884"
-		}, {
-			"property": "Fax",
-			"value": "250-727-2626"
-		}, {
-			"property": "Address",
-			"value": "1000 Beckwith Ave Victoria, BC V8X 3S4"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer",
-			"Rubber Tired Backhoes",
-			"Bulldozer Blade",
-			"Compaction Equipment",
-			"Excavators",
-			"Lowbeds",
-			"Notes: Slinger Truck & Demo Box"
-		]
-	}, {
 		"id": "quick",
 		"name": "Quick Excavating Ltd.",
 		"details": [{
@@ -2322,8 +2291,8 @@
 		"name": "Victoria Contracting and Municipal Maintenance Corporation",
 		"details": [{
 			"property": "Contact",
-			"value": "Paul Rober",
-			"cell": "250-883-3717"
+			"value": "Graham Harrison",
+			"cell": "n/a"
 		}, {
 			"property": "Bus",
 			"value": "250-474-2688"
@@ -2332,7 +2301,7 @@
 			"value": "250-474-1173"
 		}, {
 			"property": "Email",
-			"value": "paul@victoriacontracting.ca"
+			"value": "vcmmc@shaw.ca"
 		}, {
 			"property": "Address",
 			"value": "112 - 1010 McCallum Road, Victoria, BC V9B 4C6"
@@ -2410,10 +2379,10 @@
 			"value": "250-727-0515"
 		}, {
 			"property": "Fax",
-			"value": "250-743-2497"
+			"value": "250-915-0300"
 		}, {
 			"property": "Address",
-			"value": "1816 Munsie Rd Shawnigan Lake, BC V0R 2W2"
+			"value": "2903 Belair Rd Victoria, BC V9B 3R2"
 		}],
 		"equipment": [
 			"Trucks",
