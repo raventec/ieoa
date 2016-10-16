@@ -13,12 +13,12 @@
 				"value": "vi4refuel@shaw.ca"
 			},
 			{
-				"property": "Address",
-				"value": "Vancouver Island"
-			},
-			{
 				"property": "Web",
 				"value": "www.4refuel.com"
+			},
+			{
+				"property": "Address",
+				"value": "Vancouver Island"
 			}
 		]
 	},
@@ -37,7 +37,2133 @@
 			},
 			{
 				"property": "Address",
-				"value": "200 – 2840 Nanaimo Street Victoria, B.C. V8T 4W9"
+				"value": "200 – 2840 Nanaimo Street Victoria, BC V8T 4W9"
+			}
+		]
+	},
+	{
+		"id": "afd",
+		"name": "AFD Petroleum Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Earl Morris",
+				"cell": "250-812-2529"
+			},
+			{
+				"property": "Bus",
+				"value": "855-844-3835"
+			},
+			{
+				"property": "Email",
+				"value": "emorris@afdpetroleum.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.afdfuels.ca"
+			},
+			{
+				"property": "Address",
+				"value": "2015 Millstream Avenue Victoria, BC V9B 6E2"
+			}
+		]
+	},
+	{
+		"id": "andrew",
+		"name": "Andrew Sheret Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Steve Clarke",
+				"cell": "250-889-9636"
+			},
+			{
+				"property": "Bus",
+				"value": "250-915-1000"
+			},
+			{
+				"property": "Email",
+				"value": "steve.clarke@sheret.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sheret.com"
+			},
+			{
+				"property": "Address",
+				"value": "101-895 Langford Pkwy Langford BC V8B 4V5"
+			}
+		]
+	},
+	{
+		"id": "berks",
+		"name": "Berks Intertruck Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Mobile Parts Sales: Tim Fink",
+				"cell": "250-889-1046"
+			},
+			{
+				"property": "Contact",
+				"value": "Sales Representative: Gerry Taylor",
+				"cell": "250-802-9707"
+			},
+			{
+				"property": "Contact",
+				"value": "Sales Representative: Dan GruBCJr.",
+				"cell": "250-616-7310"
+			},
+			{
+				"property": "Bus",
+				"value": "250-758-5217"
+			},
+			{
+				"property": "Email",
+				"value": "tfink@berksintertruck.com"
+			},
+			{
+				"property": "Email",
+				"value": "gtaylor@berksintertruck.com"
+			},
+			{
+				"property": "Email",
+				"value": "junior.gruBCberksintertruck.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.berksintertruck.com"
+			},
+			{
+				"property": "Address",
+				"value": "2230 McCullough Rd Nanaimo, BC V9S 4M8"
+			}
+		]
+	},
+	{
+		"id": "bmt",
+		"name": "BMT Group Services Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Fraser Sim",
+				"cell": "250-886-0339"
+			},
+			{
+				"property": "Bus",
+				"value": "778-426-2684"
+			},
+			{
+				"property": "Email",
+				"value": "fraser.sim@bmtgroup.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.bmtgroup.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1947 Canso Road Sidney BC V8L 5V5"
+			}
+		]
+	},
+	{
+		"id": "brandt",
+		"name": "Brandt Tractor Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Territory Manager: Wes Lade",
+				"cell": "250-713-5668"
+			},
+			{
+				"property": "Contact",
+				"value": "Island Manager: Rob Sarich",
+				"cell": "250-714-5204"
+			},
+			{
+				"property": "Contact",
+				"value": "Product Support Sales: Dave Jensen",
+				"cell": "250-668-2894"
+			},
+			{
+				"property": "Contact",
+				"value": "Construction Worksite Products Sales Rep: Luke Diggles",
+				"cell": "250-713-9297"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-888-2Brandt"
+			},
+			{
+				"property": "Bus",
+				"value": "250-754-7735"
+			},
+			{
+				"property": "Email",
+				"value": "wlade@brandt.ca"
+			},
+			{
+				"property": "Email",
+				"value": "ldiggles@brandt.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.brandt.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1830 Schoolhouse Road Nanaimo, BC V9X 1T4"
+			}
+		]
+	},
+	{
+		"id": "cstt",
+		"name": "C. S. T. T. Driver Training",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ron Basi",
+				"cell": "250-480-8101"
+			},
+			{
+				"property": "Bus",
+				"value": "250-655-0432"
+			},
+			{
+				"property": "Email",
+				"value": "queries@csttdrivertraining.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.csttdrivertraining.com"
+			},
+			{
+				"property": "Address",
+				"value": "PO Box 20098 Sidney, BC V8L 5C9"
+			}
+		]
+	},
+	{
+		"id": "camosun",
+		"name": "Camosun College - Heavy Duty Mechanical Shop",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Robert Glover",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-655-0432"
+			},
+			{
+				"property": "Email",
+				"value": "queries@csttdrivertraining.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.csttdrivertraining.com"
+			},
+			{
+				"property": "Address",
+				"value": "PO Box 20098 Sidney, BC V8L 5C9"
+			}
+		]
+	},
+	{
+		"id": "canadian",
+		"name": "Canadian Western Bank",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Victoria Pang",
+				"cell": "250-920-5207"
+			},
+			{
+				"property": "Bus",
+				"value": "250-995-3561"
+			},
+			{
+				"property": "Email",
+				"value": "Victoria.Pang@cwbank.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.cwbank.com"
+			},
+			{
+				"property": "Address",
+				"value": "1201 Douglas Street Victoria, BC V8W 2E6"
+			}
+		]
+	},
+	{
+		"id": "capital",
+		"name": "Capital Auto Electric",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Cam Prenevost",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-5497"
+			},
+			{
+				"property": "Address",
+				"value": "825 Hillman Road Victoria, BC V9C 3Z3"
+			}
+		]
+	},
+	{
+		"id": "cif",
+		"name": "CIF Composites Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Brian Lewthwaite",
+				"cell": "250-888-5688"
+			},
+			{
+				"property": "Bus",
+				"value": "250-652-6313"
+			},
+			{
+				"property": "Email",
+				"value": "brianl@cifcomposites.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.cifcomposites.com/"
+			},
+			{
+				"property": "Address",
+				"value": "1810 Verling Ave Victoria, BC V8M 1X6"
+			}
+		]
+	},
+	{
+		"id": "clarke",
+		"name": "Clarke Engineering and Welding Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "David Clarke",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-2400"
+			},
+			{
+				"property": "Email",
+				"value": "clarke@islandnet.com"
+			},
+			{
+				"property": "Address",
+				"value": "3364 Burns Avenue Victoria, BC V8Z 3P2"
+			}
+		]
+	},
+	{
+		"id": "coast",
+		"name": "Coast Industrial Parts Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Steve Tarr",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-3202"
+			},
+			{
+				"property": "Address",
+				"value": "562 Dupplin Rd Victoria, BC V8Z 1C1"
+			}
+		]
+	},
+	{
+		"id": "coastal",
+		"name": "Coastal Mountain Fuels",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ron Gertzen",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-753-0278"
+			},
+			{
+				"property": "Email",
+				"value": "rgertzen@cmfuels.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.cmfuels.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1609 Stewart Ave Nanaimo, BC V9S 4E4"
+			}
+		]
+	},
+	{
+		"id": "sooke",
+		"name": "Coastal Mountain Fuels - Sooke Location",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ron Gertzen",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-2801"
+			},
+			{
+				"property": "Address",
+				"value": "2231 Sooke Rd Victoria, BC V9B 1W8"
+			}
+		]
+	},
+	{
+		"id": "corixcourtenay",
+		"name": "Corix Water Products - Courtenay",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "V.I. Operational Manager/Branch Mgr: Blair Stanger",
+				"cell": "250-218-4364"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Holland Baker",
+				"cell": "250-898-1285"
+			},
+			{
+				"property": "Bus",
+				"value": "250-334-3200"
+			},
+			{
+				"property": "Email",
+				"value": "blair.stanger@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "holland.baker@corix.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.corix.com"
+			},
+			{
+				"property": "Address",
+				"value": "#2 – 2683 Moray Avenue Courtenay, BC V9N 8M9"
+			}
+		]
+	},
+	{
+		"id": "corixduncan",
+		"name": "Corix Water Products - Duncan",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Manager: Chad Clark",
+				"cell": "250-709-1885"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Kevin Arscott",
+				"cell": "250-713-5696"
+			},
+			{
+				"property": "Contact",
+				"value": "Vancouver Island Sales Manager/Account Manager: Neall Rowlings",
+				"cell": "250-510-6747"
+			},
+			{
+				"property": "Bus",
+				"value": "250-746-8877"
+			},
+			{
+				"property": "Email",
+				"value": "chad.clark@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "kevin.arscott@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "neall.rowlings@corix.com"
+			},
+			{
+				"property": "Address",
+				"value": "2622 Beverly Street Duncan, BC V9L 3C7"
+			}
+		]
+	},
+	{
+		"id": "corixlangford",
+		"name": "Corix Water Products - Langford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Vice-President Western Canada: Murray Stewart",
+				"cell": "250-480-9055"
+			},
+			{
+				"property": "Contact",
+				"value": "Branch Manager: Cameron Herron",
+				"cell": "250-213-2357"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Don Sheldrick",
+				"cell": "250-213-8341"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Gary O'Neill",
+				"cell": "250-480-8112"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-3980"
+			},
+			{
+				"property": "Email",
+				"value": "murray.stewart@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "cameron.herron@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "don.sheldrick@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": " gary.oneill@corix.com"
+			},
+			{
+				"property": "Address",
+				"value": "859 Orono Avenue Langford, BC V9B 2T9"
+			}
+		]
+	},
+	{
+		"id": "corixvictoria",
+		"name": "Corix Water Products - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Manager: Don Davis",
+				"cell": "250-361-5887"
+			},
+			{
+				"property": "Contact",
+				"value": "Accounts Manager: Kieran McDonagh",
+				"cell": "778-679-0053"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-0055"
+			},
+			{
+				"property": "Email",
+				"value": "don.davis@corix.com"
+			},
+			{
+				"property": "Email",
+				"value": "kieran.mcdonagh@corix.com"
+			},
+			{
+				"property": "Address",
+				"value": "27 Crease Avenue Victoria, BC V8Z 1S4"
+			}
+		]
+	},
+	{
+		"id": "drive",
+		"name": "Drive Products Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ryan Willson",
+				"cell": "604-341-3455"
+			},
+			{
+				"property": "Bus",
+				"value": "604-888-4464"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-800-473-1717 Ext 4515"
+			},
+			{
+				"property": "Email",
+				"value": "rwillson@driveproducts.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.driveproducts.com"
+			},
+			{
+				"property": "Address",
+				"value": "19150-96th Ave Surrey, BC V4N 3R3"
+			}
+		]
+	},
+	{
+		"id": "emery",
+		"name": "E.H. Emery Electric Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Derek Emery",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Gord Esplen",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-383-6961"
+			},
+			{
+				"property": "Email",
+				"value": "office@emeryelectric.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.emeryelectric.com"
+			},
+			{
+				"property": "Address",
+				"value": "859 Viewfield Road Victoria, BC V9A 4V2"
+			}
+		]
+	},
+	{
+		"id": "emconanaimo",
+		"name": "EMCO Corporation Waterworks - Nanaimo",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Waterworks Account Manager: Matthew Jones",
+				"cell": "250-618-1865"
+			},
+			{
+				"property": "Contact",
+				"value": "Wastewater/Septic Account Manager: Ted Simmons",
+				"cell": "250-327-4591"
+			},
+			{
+				"property": "Contact",
+				"value": "Irrigation Account Manager: Andrew Templer",
+				"cell": "250-331-1632"
+			},
+			{
+				"property": "Bus",
+				"value": "250-756-3344"
+			},
+			{
+				"property": "Email",
+				"value": "mjones@emcoltd.com"
+			},
+			{
+				"property": "Email",
+				"value": "tsimmons@emcoltd.com"
+			},
+			{
+				"property": "Email",
+				"value": "atempler@emcoltd.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.emcowaterworks.com"
+			},
+			{
+				"property": "Address",
+				"value": "2253 McGarrigle Rd Nanaimo, BC V9S 4M5"
+			}
+		]
+	},
+	{
+		"id": "emcovictoria",
+		"name": "EMCO Corporation Waterworks - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Waterworks Account Manager Jeffray Tayler",
+				"cell": "250-661-3256"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-1269"
+			},
+			{
+				"property": "Email",
+				"value": "jtayler@emcoltd.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.emcowaterworks.com"
+			},
+			{
+				"property": "Address",
+				"value": "2015 Millstream Rd Lot 629, Terlson Lane Victoria, BC V9B 6E2"
+			}
+		]
+	},
+	{
+		"id": "enex",
+		"name": "ENEX Fuels Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jamie Fraser",
+				"cell": "250-883-3996"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Executive: Rod Donaldson",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-384-3639"
+			},
+			{
+				"property": "Email",
+				"value": "jamief@enexfuels.ca"
+			},
+			{
+				"property": "Email",
+				"value": "rodd@enexfuels.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.enexfuels.ca"
+			},
+			{
+				"property": "Address",
+				"value": "2906 Jacklin Road Victoria, BC V9B 3Y5, Campbell River, Courtenay, Nanaimo & Port Alberni"
+			}
+		]
+	},
+	{
+		"id": "finning",
+		"name": "Finning Limited",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Gregg Whitson",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Equipment Sales Rep-Gen Const: Kurt Feltrin",
+				"cell": "250-668-2144"
+			},
+			{
+				"property": "Bus",
+				"value": "Kurt Direct: 250-740-2063"
+			},
+			{
+				"property": "Bus",
+				"value": "250-744-1117"
+			},
+			{
+				"property": "Email",
+				"value": "kfeltrin@finning.com"
+			},
+			{
+				"property": "Address",
+				"value": "700 Vanalman Avenue Victoria, BC V8Z 7C8"
+			}
+		]
+	},
+	{
+		"id": "flynn",
+		"name": "Flynn Printing",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Mark Flynn",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-382-9811"
+			},
+			{
+				"property": "Bus",
+				"value": "250-744-1117"
+			},
+			{
+				"property": "Email",
+				"value": "service@flynnprinting.com"
+			},
+			{
+				"property": "Address",
+				"value": "944 North Park Street Victoria, BC V8T 1C6"
+			}
+		]
+	},
+	{
+		"id": "fortgarry",
+		"name": "Fort Garry Industries Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Steve VanYsseldyk",
+				"cell": "604-240-8043"
+			},
+			{
+				"property": "Bus",
+				"value": "604-888-5522"
+			},
+			{
+				"property": "Bus",
+				"value": "1-800-663-4115"
+			},
+			{
+				"property": "Email",
+				"value": "svanysseldyk@fgiltd.ca"
+			},
+			{
+				"property": "Address",
+				"value": "20246 102 Ave Langley, BC V1M 4B4"
+			}
+		]
+	},
+	{
+		"id": "fountainlangford",
+		"name": "Fountain Tire - Langford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Duane Sapelak",
+				"cell": "250-888-0262"
+			},
+			{
+				"property": "Bus",
+				"value": "250-478-2217"
+			},
+			{
+				"property": "Web",
+				"value": "www.fountaintire.com"
+			},
+			{
+				"property": "Address",
+				"value": "#105 – 2924 Jacklin Road Victoria, BC V9B 3Y5"
+			}
+		]
+	},
+	{
+		"id": "fountainvictoria",
+		"name": "Fountain Tire - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Duane Sapelak",
+				"cell": "250-888-0262"
+			},
+			{
+				"property": "Bus",
+				"value": "250-382-6184"
+			},
+			{
+				"property": "Web",
+				"value": "www.fountaintire.com"
+			},
+			{
+				"property": "Address",
+				"value": "610 Herald Street Victoria, BC V8W 1S7"
+			}
+		]
+	},
+	{
+		"id": "fourstar",
+		"name": "Four Star Waterworks Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Leon Cake",
+				"cell": "250-616-7431"
+			},
+			{
+				"property": "Bus",
+				"value": "250-954-3546"
+			},
+			{
+				"property": "Address",
+				"value": "587 Alberni Highway, Box 1181 Parksville, BC V9P 2H2"
+			}
+		]
+	},
+	{
+		"id": "geoscan",
+		"name": "GeoScan Subsurface Surveys Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "n/a",
+				"cell": "250-709-2887"
+			},
+			{
+				"property": "Bus",
+				"value": "250-891-9364"
+			},
+			{
+				"property": "Email",
+				"value": "daniel.p@geoscan.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.geoscan.ca"
+			},
+			{
+				"property": "Address",
+				"value": "Box 1396 - 255 Lake Park Rd Lake Cowichan, BC V0R 2G0"
+			}
+		]
+	},
+	{
+		"id": "gillingham",
+		"name": "Gillingham Equipment",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Pat Gillingham",
+				"cell": "250-361-6048"
+			},
+			{
+				"property": "Bus",
+				"value": "250-727-2025"
+			},
+			{
+				"property": "Email",
+				"value": "gillingham-equipment@shaw.ca"
+			},
+			{
+				"property": "Address",
+				"value": "5118 Old West Saanich Road Victoria, BC V9E 2B1"
+			}
+		]
+	},
+	{
+		"id": "golder",
+		"name": "Golder Associates Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dwayne Mackie",
+				"cell": "250-888-2544"
+			},
+			{
+				"property": "Bus",
+				"value": "250-419-4933"
+			},
+			{
+				"property": "Email",
+				"value": "dmackie@golder.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.golder.com"
+			},
+			{
+				"property": "Address",
+				"value": "2nd Floor, 3795 Carey Road, Victoria, BC V8Z 6T8"
+			}
+		]
+	},
+	{
+		"id": "westequipcr",
+		"name": "Great West Equipment - Campbell River",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "250-286-0123"
+			}
+		]
+	},
+	{
+		"id": "westequipnan",
+		"name": "Great West Equipment - Nanaimo",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Greg Eaton",
+				"cell": "250-203-1738"
+			},
+			{
+				"property": "Contact",
+				"value": "Scott Cairns",
+				"cell": "250-616-3165"
+			},
+			{
+				"property": "Bus",
+				"value": "250-716-8804"
+			},
+			{
+				"property": "Address",
+				"value": "2115 South Wellington Road Nanaimo, BC V9X 1R5"
+			}
+		]
+	},
+	{
+		"id": "hendry",
+		"name": "Hendry Swinton Mckenzie Insurance Services (West Shore Inc.)",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Loretta Copley",
+				"cell": "250-588-9445"
+			},
+			{
+				"property": "Bus",
+				"value": "250-478-5588"
+			},
+			{
+				"property": "Email",
+				"value": "lcopley@hsminsurance.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.hsminsurance.com"
+			},
+			{
+				"property": "Address",
+				"value": "963 Langford Parkway Victoria, BC V9B 0A5"
+			}
+		]
+	},
+	{
+		"id": "inland",
+		"name": "Inland Group",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "General Manager: Steve Touhey",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Product Support Representative: Daryl Bowman",
+				"cell": "250-740-5325"
+			},
+			{
+				"property": "Contact",
+				"value": "Product Support Representative: John Rainville",
+				"cell": "250-616-4952"
+			},
+			{
+				"property": "Contact",
+				"value": "Equipment Sales Representative: Mike Milner",
+				"cell": "250-741-6556"
+			},
+			{
+				"property": "Contact",
+				"value": "Truck Sales Representative: Steve Wightman",
+				"cell": "250-713-4631"
+			},
+			{
+				"property": "Bus",
+				"value": "250-758-5288"
+			},
+			{
+				"property": "Bus",
+				"value": "1-800-565-6960"
+			},
+			{
+				"property": "Email",
+				"value": "stouhey@inland-group.com"
+			},
+			{
+				"property": "Email",
+				"value": "dbowman@inland-group.com"
+			},
+			{
+				"property": "Email",
+				"value": "jrainville@inland-group.com"
+			},
+			{
+				"property": "Email",
+				"value": "mmilner@inland-group.com"
+			},
+			{
+				"property": "Email",
+				"value": "swightman@inland-group.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.inland-group.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.parkerpacific.com"
+			},
+			{
+				"property": "Address",
+				"value": "2365 Northfield Road Nanaimo, BC V9S 3C3"
+			}
+		]
+	},
+	{
+		"id": "island",
+		"name": "Island Savings Credit Union, Business Banking",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dave Campbell",
+				"cell": "778-677-6454"
+			},
+			{
+				"property": "Bus",
+				"value": "250-413-2015"
+			},
+			{
+				"property": "Email",
+				"value": "DaCampbell@islandsavings.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.islandsavings.ca"
+			},
+			{
+				"property": "Address",
+				"value": "3195 Douglas St Victoria, BC V8Z 3K3"
+			}
+		]
+	},
+	{
+		"id": "jlt",
+		"name": "JLT Canada Inc. - Insurance",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "James Clapp",
+				"cell": "250-413-2716"
+			},
+			{
+				"property": "Contact",
+				"value": "Ben Fitzpatrick",
+				"cell": "250-413-2725"
+			},
+			{
+				"property": "Email",
+				"value": "jclapp@jltcanada.com"
+			},
+			{
+				"property": "Email",
+				"value": "bfitzpatrick@jltcanada.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.jltcanada.com"
+			},
+			{
+				"property": "Address",
+				"value": "350 - 4396 West Saanich Road Victoria, BC V8Z 3E9"
+			}
+		]
+	},
+	{
+		"id": "kal",
+		"name": "Kal Tire",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Lane Jorgensen",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-6333"
+			},
+			{
+				"property": "Address",
+				"value": "2681 Sooke Rd. Victoria, BC V9B 1Y5"
+			}
+		]
+	},
+	{
+		"id": "kustom",
+		"name": "Kustom Towing (2009) Ltd. DBA All-Ways Towing",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Cheryl Parker",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-381-0100"
+			},
+			{
+				"property": "Email",
+				"value": "kustomdispatch@shaw.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.kustomtowing.ca"
+			},
+			{
+				"property": "Address",
+				"value": "Box 63, 3297 Douglas Street Victoria, BC V8Z 3K9"
+			}
+		]
+	},
+	{
+		"id": "Lehigh",
+		"name": "Lehigh Materials - Victoria Materials Depot",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "Dispach & Sales: 250-382-2973"
+			},
+			{
+				"property": "Address",
+				"value": "343 E Bay Street Victoria, BC V8T 1P5"
+			}
+		]
+	},
+	{
+		"id": "Liquid",
+		"name": "Liquid Capital West Coast Financing",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Stephen Ison/Rebekah Hutchison",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "778-265-7990"
+			},
+			{
+				"property": "Email",
+				"value": "sison@liquidcapitalcorp.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.lcwestcoastfinancing.com"
+			},
+			{
+				"property": "Address",
+				"value": "PO Box 39051, RPO James Bay Victoria, BC V8V 4X8"
+			}
+		]
+	},
+	{
+		"id": "Lombard",
+		"name": "Lombard Pre-Cast Limited Partnership",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "250-478-9581"
+			},
+			{
+				"property": "Web",
+				"value": "www.langleyconcretegroup.com"
+			},
+			{
+				"property": "Address",
+				"value": "661 Lombard Drive Victoria, BC V9C 3Y9"
+			}
+		]
+	},
+	{
+		"id": "macnanaimo",
+		"name": "Mack Sales & Service of Nanaimo Ltd. - Nanaimo",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "250-758-0185"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-866-758-0185"
+			},
+			{
+				"property": "Web",
+				"value": "www.nanaimomack.com"
+			},
+			{
+				"property": "Address",
+				"value": "2213 McCullough Road Nanaimo, BC V9S 4M7"
+			}
+		]
+	},
+	{
+		"id": "macvic",
+		"name": "Mack Sales & Service of Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dan Sarauer",
+				"cell": "778-677-0185"
+			},
+			{
+				"property": "Bus",
+				"value": "778-426-0185"
+			},
+			{
+				"property": "Email",
+				"value": "dsarauer@nanaimomack.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.victoriamack.ca"
+			},
+			{
+				"property": "Address",
+				"value": "6792 Kirkpatrick Crescent Saanichton, BC V8M 1Z9"
+			}
+		]
+	},
+	{
+		"id": "marion",
+		"name": "Marion Machine Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Gary Silveira",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-2390"
+			},
+			{
+				"property": "Email",
+				"value": "marion.machine@shaw.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1005 Dunford Ave Victoria, BC V9B 2S4"
+			}
+		]
+	},
+	{
+		"id": "macnanaimo",
+		"name": "Mack Sales & Service of Nanaimo Ltd. - Nanaimo",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "250-758-0185"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-866-758-0185"
+			},
+			{
+				"property": "Web",
+				"value": "www.nanaimomack.com"
+			},
+			{
+				"property": "Address",
+				"value": "2213 McCullough Road Nanaimo, BC V9S 4M7"
+			}
+		]
+	},
+	{
+		"id": "millstream",
+		"name": "Millstream Industrial Park Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Andy Wells",
+				"cell": "250-727-8760"
+			},
+			{
+				"property": "Bus",
+				"value": "778-432-4200"
+			},
+			{
+				"property": "Email",
+				"value": "milind@shaw.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.millstreamindustrial.com"
+			},
+			{
+				"property": "Address",
+				"value": "900 Industrial Way Victoria, BC V9B 6E2"
+			}
+		]
+	},
+	{
+		"id": "nixon",
+		"name": "Nixon Bros. Trucking Ltd",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Bill Metters",
+				"cell": "250-883-4840"
+			},
+			{
+				"property": "Bus",
+				"value": "250-385-4431"
+			},
+			{
+				"property": "Address",
+				"value": "400 Burnside Road East Victoria, BC V9A 1A8"
+			}
+		]
+	},
+	{
+		"id": "pandrduncan",
+		"name": "P & R Truck Centre - Duncan",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Andrew Polack",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-746-1515"
+			},
+			{
+				"property": "Web",
+				"value": "www.prtruckcentre.com"
+			},
+			{
+				"property": "Address",
+				"value": "3111 Cowichan Valley Hwy. Duncan, BC V9L 6A2"
+			}
+		]
+	},
+	{
+		"id": "pandrsaanichton",
+		"name": "P & R Truck Centre - Saanichton",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dave Polack",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-652-9139"
+			},
+			{
+				"property": "Web",
+				"value": "www.prtruckcentre.com"
+			},
+			{
+				"property": "Address",
+				"value": "2005 Keating X Road Saanichton, BC V8M 2A5"
+			}
+		]
+	},
+	{
+		"id": "pandrvictoria",
+		"name": "P & R Truck Centre - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Steve Johnston",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-384-0451"
+			},
+			{
+				"property": "Web",
+				"value": "www.prtruckcentre.com"
+			},
+			{
+				"property": "Address",
+				"value": "400A Burnside Road East Victoria, BC V9A 1A8"
+			}
+		]
+	},
+	{
+		"id": "pacific",
+		"name": "Pacific Coast Power Washing Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Greg Warkentine",
+				"cell": "250-888-0113"
+			},
+			{
+				"property": "Bus",
+				"value": "250-361-4544"
+			},
+			{
+				"property": "Email",
+				"value": "denise@pacificcoast.net"
+			},
+			{
+				"property": "Address",
+				"value": "PO Box 21, 3340 Tennyson Ave Victoria, BC V8Z 3P3"
+			}
+		]
+	},
+	{
+		"id": "pmindustries",
+		"name": "PM Industries Ltd. - Sidney BC",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Darrell Eigler",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Manager: Mark Salmon",
+				"cell": "250-889-1529"
+			},
+			{
+				"property": "Bus",
+				"value": "250-656-1689"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-855-656-1689"
+			},
+			{
+				"property": "Email",
+				"value": "darrell@pmindustries.ca"
+			},
+			{
+				"property": "Email",
+				"value": "marksalmon.pm@gmail.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.pmindustries.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1946 Mills Road Sidney, BC V8L 5S9"
+			}
+		]
+	},
+	{
+		"id": "pollard",
+		"name": "Pollard Equipment (Chilliwack) Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Rick Penner",
+				"cell": "250-714-6323"
+			},
+			{
+				"property": "Bus",
+				"value": "1-800-665-3272"
+			},
+			{
+				"property": "Email",
+				"value": "ripenner@uniserve.com"
+			},
+			{
+				"property": "Address",
+				"value": "c/o 3590 Hillside Avenue Nanaimo, BC V9T 2Z1"
+			}
+		]
+	},
+	{
+		"id": "radioworks",
+		"name": "RadioWorks Communications Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Stefan Hudson",
+				"cell": "250-508-1460"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-3400"
+			},
+			{
+				"property": "Email",
+				"value": "milind@shaw.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.radioworks.ca"
+			},
+			{
+				"property": "Address",
+				"value": "B7 – 555 Ardersier Road Victoria, BC V8Z 1C8"
+			}
+		]
+	},
+	{
+		"id": "rctire",
+		"name": "RC Tire and Auto - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ray and Christy Anderson",
+				"cell": "250-888-9611"
+			},
+			{
+				"property": "Bus",
+				"value": "778-677-2456"
+			},
+			{
+				"property": "Email",
+				"value": "RCTire@yahoo.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.rctire.com"
+			},
+			{
+				"property": "Address",
+				"value": "725 Industrial Way Victoria, BC V9B 6E2"
+			}
+		]
+	},
+	{
+		"id": "richlock",
+		"name": "Richlock Rentals Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Chris Philpott",
+				"cell": "250-812-1332"
+			},
+			{
+				"property": "Bus",
+				"value": "250-656-9422"
+			},
+			{
+				"property": "Email",
+				"value": "chris.philpott@richlockrentals.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.richlockrentals.com"
+			},
+			{
+				"property": "Address",
+				"value": "10115 McDonald Park Rd Sidney, BC V8L 5X5"
+			}
+		]
+	},
+	{
+		"id": "ritchie",
+		"name": "Ritchie Bros. Auctioneers",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Territory Manager, Vancouver Is./Sunshine Coast – Kyle Belton",
+				"cell": "250-802-3522"
+			},
+			{
+				"property": "Contact",
+				"value": "Regional Sales Manager BC – Lawrence Van De Leur",
+				"cell": "604-992-7705"
+			},
+			{
+				"property": "Bus",
+				"value": "Territory Bus: 604-823-2749"
+			},
+			{
+				"property": "Bus",
+				"value": "Regional Bus: 604-823-2706"
+			},
+			{
+				"property": "Email",
+				"value": "kbelton@rbauction.com"
+			},
+			{
+				"property": "Email",
+				"value": "lvandeleur@rbauction.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.rbauction.com"
+			},
+			{
+				"property": "Address",
+				"value": "42275 Industrial Way Chilliwack, BC V2R OP4"
+			}
+		]
+	},
+	{
+		"id": "ryzuk",
+		"name": "Ryzuk Geotechnical",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "250-475-3131"
+			},
+			{
+				"property": "Email",
+				"value": "mail@ryzuk.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.ryzuk.com"
+			},
+			{
+				"property": "Address",
+				"value": "28 Crease Avenue Victoria, BC V8Z 1S3"
+			}
+		]
+	},
+	{
+		"id": "scanplus",
+		"name": "ScanPlus Locating Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Douglas Wittich",
+				"cell": "250-880-1567"
+			},
+			{
+				"property": "Bus",
+				"value": "778-352-4770"
+			},
+			{
+				"property": "Email",
+				"value": "doug@scanplus.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.scanplus.ca"
+			},
+			{
+				"property": "Address",
+				"value": "5715 Sooke Rd, Sooke, BC V9Z 0C4"
+			}
+		]
+	},
+	{
+		"id": "smscr",
+		"name": "SMS Equipment Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Mike Gregory",
+				"cell": "250-203-2930"
+			},
+			{
+				"property": "Bus",
+				"value": "250-286-0694"
+			},
+			{
+				"property": "Email",
+				"value": "mgregory@smsequip.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.smsequip.com"
+			},
+			{
+				"property": "Address",
+				"value": "1790 Perkins Rd Campbell River, BC V9W 4R9"
+			}
+		]
+	},
+	{
+		"id": "smssurry",
+		"name": "SMS Equipment Inc. - Surrey",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "604-888-9700"
+			},
+			{
+				"property": "Address",
+				"value": "19520 Telegraph Trail Surrey, BC V4N 4H1"
+			}
+		]
+	},
+	{
+		"id": "suburban",
+		"name": "Suburban Motors Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Leonard Carson",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-2255"
+			},
+			{
+				"property": "Email",
+				"value": "info@suburbanmotors.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.suburbanmotors.com"
+			},
+			{
+				"property": "Address",
+				"value": "3377 Douglas Street Victoria, BC V8Z 3L4"
+			}
+		]
+	},
+	{
+		"id": "summit",
+		"name": "Summit Trailer Ltd",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Matt Fuller",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "778.344.0988"
+			},
+			{
+				"property": "Email",
+				"value": "matt@summitttrailer.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.summittrailer.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1160 Commercial Way Penticton, BC V2A 3H5"
+			}
+		]
+	},
+	{
+		"id": "td",
+		"name": "TD Commercial Banking",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Michel Cowie",
+				"cell": "250-216-8044"
+			},
+			{
+				"property": "Bus",
+				"value": "250-356-4025"
+			},
+			{
+				"property": "Email",
+				"value": "michel.cowie@td.com"
+			},
+			{
+				"property": "Address",
+				"value": "440-1070 Douglas Street Victoria, BC V8W 2C4"
+			}
+		]
+	},
+	{
+		"id": "totem",
+		"name": "Totem Towing",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dan Bird",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-3211"
+			},
+			{
+				"property": "Bus",
+				"value": "Fax Dispatch: 250-475-3213"
+			},
+			{
+				"property": "Bus",
+				"value": "Fax Administration: 250-475-9211"
+			},
+			{
+				"property": "Web",
+				"value": "www.totemtowing.com"
+			},
+			{
+				"property": "Address",
+				"value": "3333 Tennyson Ave Victoria, B. C. V8Z 3P5"
+			}
+		]
+	},
+	{
+		"id": "united",
+		"name": "United Rentals",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "James Wilson",
+				"cell": "250-883-2135"
+			},
+			{
+				"property": "Bus",
+				"value": "250-385-7555"
+			},
+			{
+				"property": "Web",
+				"value": "www.unitedrentals.com"
+			},
+			{
+				"property": "Address",
+				"value": "573 Kelvin Road Victoria, BC V8Z 1C4"
+			}
+		]
+	},
+	{
+		"id": "vermeire",
+		"name": "Vermeire Financial Services",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Don Vermeire",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Chris Vermeire",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "778-749-0692"
+			},
+			{
+				"property": "Email",
+				"value": "don@lfsg.ca"
+			},
+			{
+				"property": "Email",
+				"value": "chris@lfsg.ca"
+			},
+			{
+				"property": "Address",
+				"value": "4087 Tuxedo Dr Victoria, BC V8X 2L5"
+			}
+		]
+	},
+	{
+		"id": "wajax",
+		"name": "Wajax Industries Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Michael Wood",
+				"cell": "250-740-5212"
+			},
+			{
+				"property": "Bus",
+				"value": "250-755-2005"
+			},
+			{
+				"property": "Email",
+				"value": "mwood@wajax.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.wajaxwest.com"
+			},
+			{
+				"property": "Address",
+				"value": "2093A South Wellington Road Nanaimo, BC V9X 1R5"
+			}
+		]
+	},
+	{
+		"id": "westerraabb",
+		"name": "Westerra Equipment LP - Abbotsford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Product Manager: Ron Johnson",
+				"cell": "604-354-6083"
+			},
+			{
+				"property": "Bus",
+				"value": "604-850-7313"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-800-563-7313"
+			},
+			{
+				"property": "Email",
+				"value": "rjohnson@westerraequipment.com"
+			},
+			{
+				"property": "Address",
+				"value": "31260 South Fraser Way Abbotsford, BC V2T 6L5"
+			}
+		]
+	},
+	{
+		"id": "westerranan",
+		"name": "Westerra Equipment LP - Nanaimo",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Island Manager: Sheldon Schlesinger",
+				"cell": "250-714-3266"
+			},
+			{
+				"property": "Bus",
+				"value": "250-714-3266"
+			},
+			{
+				"property": "Email",
+				"value": "sschlesinger@westerraequipment.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.westerraequipment.com"
+			},
+			{
+				"property": "Address",
+				"value": "2130 Schoolhouse Rd Nanaimo, BC V9X 1T4"
+			}
+		]
+	},
+	{
+		"id": "westerravic",
+		"name": "Westerra Equipment LP - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Ken Erickson",
+				"cell": "250.888.9294"
+			},
+			{
+				"property": "Bus",
+				"value": "250.478.8860"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 877.478.8860"
+			},
+			{
+				"property": "Email",
+				"value": "kerickson@westerraequipment.com"
+			},
+			{
+				"property": "Address",
+				"value": "827 Station Ave Victoria, BC V9B 2S2"
+			}
+		]
+	},
+	{
+		"id": "westshore",
+		"name": "Westshore Towing Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Dave LeQuesne/Al LeQuesne",
+				"cell": "250-883-6266"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-1369"
+			},
+			{
+				"property": "Email",
+				"value": "westshoretowing@shaw.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.westshoretowing.com"
+			},
+			{
+				"property": "Address",
+				"value": "2513 Mill Hill Rd Victoria, BC V9B 4X4"
+			}
+		]
+	},
+	{
+		"id": "wilson",
+		"name": "Wilson & Proctor Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Fred Proctor",
+				"cell": "250-889-0992"
+			},
+			{
+				"property": "Bus",
+				"value": "250-385-3481"
+			},
+			{
+				"property": "Email",
+				"value": "fred@wilsonandproctor.com"
+			},
+			{
+				"property": "Address",
+				"value": "808 Devonshire Road, Victoria, BC V9A 4T4"
+			}
+		]
+	},
+	{
+		"id": "wittich",
+		"name": "Wittich Environmental Services Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Sean Wittich",
+				"cell": "250-882-4865"
+			},
+			{
+				"property": "Bus",
+				"value": "250-642-4859"
+			},
+			{
+				"property": "Email",
+				"value": "sean@wesltd.net"
+			},
+			{
+				"property": "Web",
+				"value": "www.wesltd.net"
+			},
+			{
+				"property": "Address",
+				"value": "5715 Sooke Rd, Sooke, BC V9Z 0C4"
+			}
+		]
+	},
+	{
+		"id": "yellow",
+		"name": "Yellow Sheet Construction Data Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Lori Appleton",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-480-1230"
+			},
+			{
+				"property": "Email",
+				"value": "info@yellowsheet.ca"
+			},
+			{
+				"property": "Web",
+				"value": "yellowsheet.ca"
+			},
+			{
+				"property": "Address",
+				"value": "503 Caselton Pl Victoria, BC V8Z 7Y5"
 			}
 		]
 	}
