@@ -22,9 +22,10 @@ function populateProjects(projects) {
 	var year = getUrlParam('year');
 	if(typeof(year) === 'undefined' || typeof(projects[year]) === 'undefined') return;
 
-
 	var container = $('#projects-container');
+	var carousel = $('#projects-carousel');
 	projects[year].forEach(function(project){
+		// Text details
 		var thanks = "";
 		var details = "";
 		project.details.forEach(function(detail){
@@ -46,6 +47,13 @@ function populateProjects(projects) {
 			</div>\
 		";
 		container.append(html);
+
+		// Carousel images
+		var images = "";
+		project.images.forEach(function(image, index){
+			images += "<div class='item"+(index == 0 ? " active" : "")+"' style='background-image: url(\"images/"+year+"project/"+image+"\");'></div>";
+		});
+		carousel.append("<div class='carousel-inner'>"+images+"</div>");
 	});
 }
 

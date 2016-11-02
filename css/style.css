@@ -24,42 +24,27 @@ header.navbar-custom .navbar-brand {
 /* End navbar */
 
 
+/* Hero image */
+section.hero {
+	width: 100%;
+	margin-top: 50px;
+	height: 344px;
+	overflow: hidden;
+	background-size:cover;
+}
+/* End hero image */
+
+
 /* Carousel */
-.carousel-section{
-	background-image:url('../images/landscape1.jpg');
-	backgound-size:cover;
+section.carousel {
+	max-width: 1150px;
+	margin: 50px auto 0 auto;
 	height:344px;
 }
-.carousel .container {
-	position: relative;
-	z-index: 9;
-}
-.carousel-control {
-	height: 80px;
-	margin-top: 0;
-	font-size: 120px;
-	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
-	background-color: transparent;
-	border: 0;
-	z-index: 10;
-}
-.carousel .item {
+section.carousel .item {
 	height: 344px;
-}
-.carousel-caption {
-	background-color: transparent;
-	position: static;
-	padding: 0 10px;
-	margin-top: 50px;
-}
-.carousel-caption h1,  .carousel-caption .lead {
-	margin: 0;
-	line-height: 1.25;
-	color: #fff;
-	text-shadow: 0 1px 1px rgba(0, 0, 0, .4);
-}
-.carousel-caption .btn {
-	margin-top: 10px;
+	overflow: hidden;
+	background-size:cover;
 }
 /* End carousel */
 
