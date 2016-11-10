@@ -4,7 +4,8 @@
       "title": "Sooke Minor Fastball Association",
       "details": [
         "On June 23rd the IEOA brought in bobcats, a stone slinger, gravel trucks and material to help with the revitalization of the Art Morris Park in Sooke.",
-        "Sooke Minor Fastball is a volunteer based association whose primary goal is to give all children the opportunity to participate in the sport of Fastball.  The IEOA’s support of this project will have a direct effect on the families in the community as it helped to keep the registration low enough to invite families into their Fastball program who otherwise may not have been able to afford to participate."
+        "Sooke Minor Fastball is a volunteer based association whose primary goal is to give all children the opportunity to participate in the sport of Fastball.  The IEOA’s support of this project will have a direct effect on the families in the community as it helped to keep the registration low enough to invite families into their Fastball program who otherwise may not have been able to afford to participate.",
+        "Whassup"
       ],
       "images": [
         "sookepark1.jpg",
@@ -14,17 +15,42 @@
       ],
       "thanks": [
         {
-          "equipment": "Gravel Truck and Trailer",
+          "equipment": "Gravel Trucks and Trailers",
           "donators": [
-            "Axel Trucking"
+            "Axel Trucking",
+            "Gator Trucking",
+            "Steve Lingren Trucking"
           ]
         },
         {
-          "equipment": "Gravel Truck and Trailer",
+          "equipment": "3/4 crushed rock",
           "donators": [
-            "Basic Rock Products"
+            "Basic Rock Products",
+            "Victoria Materials Depot"
+          ]
+        },
+        {
+          "equipment": "Sand",
+          "donators": [
+            "Butler Brothers Supplies",
+            "Independent Concrete",
+            "Island Crushing"
+          ]
+        },
+        {
+          "equipment": "Slinger Truck",
+          "donators": [
+            "Don Mann Excavating"
+          ]
+        },
+        {
+          "equipment": "Bobcat",
+          "donators": [
+            "Northwest Fencing",
+            "Richard's Landscaping & Excavating"
           ]
         }
+
       ]
     }
   ],
@@ -39,7 +65,7 @@
         "pearcepic1.jpg",
         "pearcepic2.jpg",
         "pearcepic3.jpg",
-        "pearcepic4.jpg"
+        "pearcepic4.JPG"
       ],
       "thanks": [
         {
@@ -54,6 +80,169 @@
           "equipment": "Roller",
           "donators": [
             "United Rentals"
+          ]
+        },
+        {
+          "equipment": "Basic Rock Products",
+          "donators": [
+            "Butler Brothers",
+            "Goldstream Rock Products",
+            "Highland Pacific",
+            "Independent Concrete",
+            "MacNutt Enterprises",
+            "Michell Excavating",
+            "Peninisula Bulldozing",
+            "Scanza Construction",
+            "Victoria Materials Depot"
+          ]
+        },
+        {
+          "equipment": "Gravel Trucks",
+          "donators": [
+            "Don Mann Excavating",
+            "H. Volk Transport",
+            "Highland Pacific",
+            "Saanichton Development",
+            "Wee Bee Hauling",
+            "Winster Trucking"
+          ]
+        },
+        {
+          "equipment": "Drain Pipe",
+          "donators": [
+            "Andrew Sheret",
+            "Corix",
+            "EMCO"
+          ]
+        },
+        {
+          "equipment": "Lowbed Moves",
+          "donators": [
+            "G & E Contracting",
+            "D Taylor",
+            "Victoria Stonescape"
+          ]
+        },
+        {
+          "equipment": "Geotechnical Services",
+          "donators": [
+            "Ryzuk Geotechnical"
+          ]
+        },
+        {
+          "equipment": "Labour",
+          "donators": [
+            "Howcon Underground"
+          ]
+        },
+        {
+          "equipment": "Paving",
+          "donators": [
+            "Capital City Paving",
+            "Five Star Paving"
+          ]
+        }
+      ]
+    }
+  ],
+  "2014": [
+    {
+      "title": "Metchosin Equestrian Society Riding Ring Upgrade Project",
+      "details": [
+        "Once again the IEOA has completed another very successful community project.  Thank you to the following companies who helped with this project.  Your support helped the residents of Pearce Crescent, and the surrounding area, develop a play area for children to exercise and socialize in a safe, fun and friendly environment.",
+        "Over the years IEOA members have completed numerous volunteer projects.  The IEOA gives us the opportunity to introduce ourselves to the community, and through our donated projects, return a benefit to the local area in which we live and work."
+      ],
+      "images": [
+        "ridingring1.jpg",
+        "ridingring2.jpg",
+        "ridingring3.jpg",
+        "ridingring4.jpg",
+        "ridingring5.jpg",
+        "riding6.jpg"
+      ],
+      "thanks": [
+        {
+          "equipment": "Excavators",
+          "donators": [
+            "H Volk Transport",
+            "R G Excavating"
+          ]
+        },
+        {
+          "equipment": "Gravel Trucks & Pup Trailer",
+          "donators": [
+            "Northridge Excavating",
+            "Michell Excavating",
+            "Axel Trucking",
+            "Cat's Eye Contracting"
+          ]
+        },
+        {
+          "equipment": "Low Bed and Labour",
+          "donators": [
+            "Scanza Construction"
+          ]
+        },
+        {
+          "equipment": "Lowbed",
+          "donators": [
+            "D Taylor Excavating"
+          ]
+        },
+        {
+          "equipment": "Skid Steer & Gravel Truck",
+          "donators": [
+            "Richard's Landscaping & Excavating"
+          ]
+        },
+        {
+          "equipment": "Discount on Materials",
+          "donators": [
+            "Lehigh Materials"
+          ]
+        }
+      ]
+    }
+  ],
+  "2015": [
+    {
+      "title": "Central Middle School Naturalized Playspace Project",
+      "details": [
+        "Once again the Island Equipment Owners Association (IEOA) has completed another very successful community project on August 8, 2015 with the excavation and berm work for the naturalized playspace at Central Middle School. Central Middle School is very grateful for the time, expertise and equipment that was donated for this project. This project has been endorsed by School District 61 and is supported by a partnership between the Ministry of Health and Ministry of Education - due to the correlation between health and achievement. This project creates a space that will allow for stress reduction, unstructured and passive play and for age appropriate social gathering."
+      ],
+      "images": [
+        "centralmiddle1.jpg",
+        "centralmiddle2.jpg",
+        "centralmiddle3.jpg",
+        "centralmiddle4.jpg",
+        "centralmiddle5.jpg"
+      ],
+      "thanks": [
+        {
+          "equipment": "Project Coordinator",
+          "donators": [
+            "Daryl Michell, Michell Excavating"
+          ]
+        },
+        {
+          "equipment": "Excavators",
+          "donators": [
+            "Michell Excavating - Brad Clark",
+            "Saanichton Development - Adrian Woods"
+          ]
+        },
+        {
+          "equipment": "Low Bed Moves",
+          "donators": [
+            "Michell Excavating - Brian Robinson",
+            "Saanichton Development",
+            "Don Mann Excavating - Tony McArthur"
+          ]
+        },
+        {
+          "equipment": "Gravel Truck",
+          "donators": [
+            "H Volk Transport - Steve Laming"
           ]
         }
       ]
