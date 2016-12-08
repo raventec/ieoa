@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hydraulic-excavators",
+    "title": "Hydraulic Excavators",
+    "subheading": "Rates shown are for working in light to medium conditions. Higher rates may be charged for extreme conditions or for outside of regular business hours. Rates may decrease for older machines.",
+    "table": {
+      "columns": ["Class", "Weight", "Digging Bucket Size", "Rate/Hr", "Examples"],
+      "rows": [
+        ["Class 1", "300-asdfs", "1/4", "$this is a long paragraph for one of the table cells", "bOBCAT"],
+        ["Class 2", "300-asdfs", "1/4", "$", "bOBdog"]
+      ]
+    }
+  },
+  {
+    "id": "skid-steer",
+    "title": "Skid Steer",
+    "subheading": "stuff",
+    "table": {
+      "columns": ["Classaa", "Weight", "Digging Bucket Size", "Rate/Hr", "Examples"],
+      "rows": [
+        ["Class 1", "300-asdfs", "1/4", "$", "bOBCAT"],
+        ["Class 2", "300-asdfs", "1/4", "$", "bOBdog"]
+      ]
+    }
+  }
+]

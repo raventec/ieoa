@@ -73,7 +73,7 @@ function populateOwners(owners){
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
 				details += " <strong>Cell: </strong>"+detail.cell;
 			}
-			details += "</li>"
+			details += "</li>";
 		});
 		owner.equipment.forEach(function(equipmentItem){
 			equipment += "<li>"+equipmentItem+"</li>";
@@ -85,6 +85,40 @@ function populateOwners(owners){
 					<div id='"+owner.id+"' class='owner-details'>\
 						Details: <ul>"+details+"</ul>\
 						Equipment: <ul>"+equipment+"</ul>\
+					</div>\
+				</div>\
+			</div>\
+		";
+		container.append(html);
+	});
+}
+
+function populateRates(rates){
+	console.log(rates);
+	var container = $('#rates-container');
+	rates.forEach(function(category){
+		var tableHeaderContent = "";
+		var tableBodyRows = "";
+		category.table.columns.forEach(function(column){
+			tableHeaderContent += "<td>"+column+"</td>";
+		});
+		category.table.rows.forEach(function(row){
+			tableBodyRows += "<tr>";
+			row.forEach(function(value){
+				tableBodyRows += "<td>"+value+"</td>";
+			});
+			tableBodyRows += "</tr>";
+		});
+		html = "\
+			<div class='row'>\
+				<div class='col-xs-12'>\
+					<div class='rates-category'>\
+						<p><strong>"+category.title+"</strong></p>\
+						<p>"+category.subheading+"</p>\
+						<a class='dealer-title' href='javascript:void(0)' onclick='toggleDetails(\""+category.id+"\");'>Show rates table</a>\
+						<div id='"+category.id+"' class='rates-category-details'>\
+							<table class='rates-table'><thead><tr>"+tableHeaderContent+"</tr></thead><tbody>"+tableBodyRows+"</tbody></table>\
+						</div>\
 					</div>\
 				</div>\
 			</div>\
@@ -109,7 +143,7 @@ function populateDealers(dealers){
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
 				details += " <strong>Cell: </strong>"+detail.cell;
 			}
-			details += "</li>"
+			details += "</li>";
 		});
 		html = "\
 			<div class='row'>\

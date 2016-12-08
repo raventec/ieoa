@@ -21,6 +21,10 @@ header.navbar-custom {
 header.navbar-custom .navbar-brand {
 	color: #FFF;
 }
+header.navbar-custom .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover,
+header.navbar-custom .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+	background-color: transparent;
+}
 /* End navbar */
 
 
@@ -34,6 +38,30 @@ section.hero {
 }
 /* End hero image */
 
+/* Rates tables */
+div.rates-category {
+	margin: 10px 0;
+}
+table.rates-table>thead {
+	font-weight: bold;
+}
+table.rates-table {
+	display: inline-block;
+	white-space: nowrap;
+	margin: 10px 20px;
+}
+table.rates-table>*>tr>td {
+	padding: 0 10px;
+}
+div.rates-category-details {
+	overflow-x: scroll;
+}
+.rates-category-details {
+	display: none;
+	background-color: #CCC;
+}
+/* End rates tables */
+
 
 /* Carousel */
 section.carousel {
@@ -45,7 +73,7 @@ section.carousel .item {
 	height: 344px;
 	overflow: hidden;
 	background-size:cover;
-	background-position: center; 
+	background-position: center;
 }
 /* End carousel */
 
