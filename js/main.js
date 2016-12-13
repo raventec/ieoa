@@ -115,7 +115,7 @@ function populateRates(rates){
 					<div class='rates-category'>\
 						<p><strong>"+category.title+"</strong></p>\
 						<p>"+category.subheading+"</p>\
-						<a class='dealer-title' href='javascript:void(0)' onclick='toggleDetails(\""+category.id+"\");'>Show rates table</a>\
+						<a class='dealer-title' href='javascript:void(0)' onclick='toggleDetails(\""+category.id+"\");'>Show Rates</a>\
 						<div id='"+category.id+"' class='rates-category-details'>\
 							<table class='rates-table'><thead><tr>"+tableHeaderContent+"</tr></thead><tbody>"+tableBodyRows+"</tbody></table>\
 						</div>\
