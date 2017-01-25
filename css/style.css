@@ -77,6 +77,23 @@ section.carousel .item {
 }
 /* End carousel */
 
+/* Media Queries */
+
+@media(max-width: 1200px){
+
+}
+
+@media(max-width: 991px){
+	.hero {
+		display:none;
+	}
+}
+
+@media(min-width: 768px){
+
+}
+
+/* End Media Queries */
 
 /* Footer */
 footer.custom-footer{
