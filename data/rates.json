@@ -140,12 +140,12 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["25 tonnes", "$119"],
-        ["30 tonnes", "$140"],
-        ["35 tonnes", "$145"],
-        ["82 tonnes", "$266"],
-        ["125 tonnes", "$373"],
-        ["over 125 tonnes", "POR*"]
+        ["25 tons", "$119"],
+        ["30 tons", "$140"],
+        ["35 tons", "$145"],
+        ["82 tons", "$266"],
+        ["125 tons", "$373"],
+        ["over 125 tons", "POR*"]
       ]
     }
   },
@@ -156,16 +156,16 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["18 tonnes", "$135"],
-        ["22 tonnes", "$145"],
-        ["30 tonnes", "$155"],
-        ["35 tonnes", "$162"],
-        ["40 tonnes", "$175"],
-        ["50 tonnes", "$203"],
-        ["60 tonnes", "$240"],
-        ["65 tonnes", "$248"],
-        ["over 65 tonnes", "POR*"],
-        ["80 tonnes", "POR*"]
+        ["18 tons", "$135"],
+        ["22 tons", "$145"],
+        ["30 tons", "$155"],
+        ["35 tons", "$162"],
+        ["40 tons", "$175"],
+        ["50 tons", "$203"],
+        ["60 tons", "$240"],
+        ["65 tons", "$248"],
+        ["over 65 tons", "POR*"],
+        ["80 tons", "POR*"]
       ]
     }
   },
@@ -176,9 +176,9 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["6 tonnes", "$115"],
-        ["20 tonnes", "$145"],
-        ["40 tonnes", "$181"]
+        ["6 tons", "$115"],
+        ["20 tons", "$145"],
+        ["40 tons", "$181"]
       ]
     }
   },
@@ -266,9 +266,9 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["20 tonnes", "$141"],
-        ["25 tonnes", "$152"],
-        ["30 tonnes", "$163"]
+        ["20 tons", "$141"],
+        ["25 tons", "$152"],
+        ["30 tons", "$163"]
       ]
     }
   },
