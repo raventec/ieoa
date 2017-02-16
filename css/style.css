@@ -1,128 +1,159 @@
 @charset "UTF-8";
 
-
 /* General layout */
+
 body {
-	font-size: 16px;
-	overflow-y: scroll;
+    font-size: 16px;
+    overflow-y: scroll;
 }
+
 main.container {
-	margin-top:50px;
-	padding: 0 25px;
+    margin-top: 50px;
+    padding: 0 25px;
 }
+
 
 /* End general layout */
 
 
 /* Navbar */
+
 header.navbar-custom {
-	background-color: #0d3e8c;
-	-webkit-font-smoothing: antialiased;
+    background-color: #0d3e8c;
+    -webkit-font-smoothing: antialiased;
 }
+
 header.navbar-custom .navbar-brand {
-	color: #FFF;
+    color: #FFF;
 }
-header.navbar-custom .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover,
-header.navbar-custom .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
-	background-color: transparent;
+
+header.navbar-custom .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover, header.navbar-custom .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:focus, .navbar-inverse .navbar-nav>.open>a:hover {
+    background-color: transparent;
 }
+
+
 /* End navbar */
 
 
 /* Hero image */
+
 section.hero {
-	width: 100%;
-	margin-top: 50px;
-	height: 344px;
-	overflow: hidden;
-	background-size:cover;
+    width: 100%;
+    margin-top: 50px;
+    height: 344px;
+    overflow: hidden;
+    background-size: cover;
 }
+
+
 /* End hero image */
 
+
 /* Rates tables */
+
 div.rates-category {
-	margin: 10px 0;
+    margin: 10px 0;
 }
+
 table.rates-table>thead {
-	font-weight: bold;
+    font-weight: bold;
 }
+
 table.rates-table {
-	display: inline-block;
-	white-space: nowrap;
-	margin: 10px 20px;
+    display: inline-block;
+    white-space: nowrap;
+    margin: 10px 20px;
 }
+
 table.rates-table>*>tr>td {
-	padding: 0 10px;
+    padding: 0 10px;
 }
+
 div.rates-category-details {
-	overflow-x: scroll;
+    overflow-x: scroll;
 }
+
 .rates-category-details {
-	display: none;
-	background-color: #CCC;
+    display: none;
+    background-color: #CCC;
 }
+
+
 /* End rates tables */
 
 
 /* Carousel */
+
 section.carousel {
-	max-width: 1150px;
-	margin: 50px auto 0 auto;
-	height:344px;
+    max-width: 1150px;
+    margin: 50px auto 0 auto;
+    height: 344px;
 }
+
 section.carousel .item {
-	height: 344px;
-	overflow: hidden;
-	background-size:cover;
-	background-position: center;
+    height: 344px;
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
 }
+
+
 /* End carousel */
+
 
 /* Media Queries */
 
-@media(max-width: 1200px){
+@media(max-width: 1200px) {}
 
+@media(max-width: 991px) {
+    .hero {
+        display: none;
+    }
 }
 
-@media(max-width: 991px){
-	.hero {
-		display:none;
-	}
-}
+@media(min-width: 768px) {}
 
-@media(min-width: 768px){
-
-}
 
 /* End Media Queries */
 
+
 /* Footer */
-footer.custom-footer{
-	color:#000;
-	background-color:#999;
-	padding:10px;
-	margin-top:50px;
+
+footer.custom-footer {
+    color: #000;
+    background-color: #999;
+    padding: 10px;
+    margin-top: 50px;
 }
+
 footer.custom-footer a:link {
-	color: #000;
+    color: #000;
 }
+
 footer.custom-footer a:visited {
-	color: #000;
+    color: #000;
 }
+
 footer.custom-footer a:active {
-	color: #000;
+    color: #000;
 }
+
 footer.custom-footer a:hover {
-	color: #000;
+    color: #000;
 }
+
+
 /* End footer */
 
 
 /* Equipment owners */
+
 .owner-details, .dealer-details {
-	display: none;
-	margin: 10px 20px;
-	background-color: #CCC;
-	padding: 20px;
+    display: none;
+    margin: 10px 20px;
+    background-color: #CCC;
+    padding: 20px;
 }
+
+
 /* End equipment owners */
