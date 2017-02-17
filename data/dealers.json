@@ -1242,6 +1242,28 @@
 		]
 	},
 	{
+		"id": "lion",
+		"name": "Lionhart Capital Ltd",
+		"details": [
+			{
+				"property": "Bus",
+				"value": "888-287-2807"
+			},
+			{
+				"property": "Fax",
+				"value": "888-287-7949"
+			},
+			{
+				"property": "Email",
+				"value": "info@lionhartcapital.com"
+			},
+			{
+				"property": "Address",
+				"value": "11396 Chalet Road, North Saanich, BC V8L 5L9"
+			}
+		]
+	},
+	{
 		"id": "Liquid",
 		"name": "Liquid Capital West Coast Financing",
 		"details": [
@@ -1359,24 +1381,28 @@
 		]
 	},
 	{
-		"id": "macnanaimo",
-		"name": "Mack Sales & Service of Nanaimo Ltd. - Nanaimo",
+		"id": "mcelhanney",
+		"name": "McElhanney Consulting Services Ltd",
 		"details": [
 			{
 				"property": "Bus",
-				"value": "250-758-0185"
+				"value": "778-746-7411"
 			},
 			{
-				"property": "Bus",
-				"value": "Toll Free: 1-866-758-0185"
+				"property": "Cell",
+				"value": "250-218-3252"
 			},
 			{
-				"property": "Web",
-				"value": "www.nanaimomack.com"
+				"property": "Fax",
+				"value": "1-855-407-3895"
+			},
+			{
+				"property": "Email",
+				"value": "iwhitehead@mcelhanney.com"
 			},
 			{
 				"property": "Address",
-				"value": "2213 McCullough Road Nanaimo, BC V9S 4M7"
+				"value": "500 - 3960 Quadra Street, Victoria, BC V8X 4A3"
 			}
 		]
 	},
@@ -1605,6 +1631,29 @@
 			{
 				"property": "Address",
 				"value": "B7 – 555 Ardersier Road Victoria, BC V8Z 1C8"
+			}
+		]
+	},
+	{
+		"id": "rbc",
+		"name": "RBC Equipment Finance Group",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jeff Owen",
+				"cell": "250-661-5127"
+			},
+			{
+				"property": "Bus",
+				"value": "250-661-5127"
+			},
+			{
+				"property": "Email",
+				"value": "jeff.owen@rbc.com"
+			},
+			{
+				"property": "Address",
+				"value": "707 Fort Street, 2nd Floor, Victoria BC V8W 3G3"
 			}
 		]
 	},

@@ -1774,6 +1774,33 @@
 			"Notes: Slinger Trucks and Single and Tandem Axle Dump Trucks"
 		]
 	}, {
+    "id": "plan",
+    "name": "PLAN Contracting",
+    "details": [{
+      "property": "Contact",
+      "value": "Sean Wittich",
+      "cell": "250-882-4865"
+    }, {
+      "property": "Bus",
+      "value": "778-425-0700"
+    }, {
+      "property": "Fax",
+      "value": "250-642-4882"
+    }, {
+      "property": "Email",
+      "value": "sean@plancontracting.ca"
+    }, {
+      "property": "Address",
+      "value": "5715 Sooke Road, Sooke, BC V9Z 0C4"
+    }],
+    "equipment": [
+      "Truck with Trailer",
+      "Compressors",
+      "Excavators",
+      "Lowbeds",
+      "Compaction Equipment"
+    ]
+  }, {
 		"id": "quick",
 		"name": "Quick Excavating Ltd.",
 		"details": [{
