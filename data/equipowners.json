@@ -626,6 +626,38 @@
 			"Notes: Rock Trucks, Wheel Loader. DG Cat"
 		]
 	}, {
+		"id": "coastal",
+		"name": "Coastal Trucking",
+		"details": [{
+			"property": "Contact",
+			"value": "Jag Basi",
+			"cell": "250-739-9380"
+		}, {
+			"property": "Bus",
+			"value": "250-245-7061"
+		}, {
+			"property": "Fax",
+			"value": "250-245-7071"
+		}, {
+			"property": "Email",
+			"value": "jag@coastaltrucking.ca"
+		}, {
+			"property": "Web",
+			"value": "www.coastaltrucking.ca"
+		}, {
+			"property": "Address",
+			"value": "PO Box 1373 Ladysmith, BC V9G 1A9"
+		}],
+		"equipment": [
+			"Truck and Trailers",
+			"Tractors",
+			"Roll Off Trucks",
+			"Flatdecks",
+			"Hiboy Tridem Trailers",
+      "Forklift",
+      "Step Deck Trailer"
+		]
+	},  {
 		"id": "donaldson",
 		"name": "Craig Donaldson Trucking",
 		"details": [{
