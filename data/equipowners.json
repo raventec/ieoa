@@ -312,6 +312,9 @@
 			"property": "Email",
 			"value": "bertsent@telus.net"
 		}, {
+			"property": "Web",
+			"value": "bertscranetrucking.ca"
+		}, {
 			"property": "Address",
 			"value": "#50 - 1492 Admirals Rd Victoria, BC V9A 2R1"
 		}],
@@ -1451,7 +1454,7 @@
 		"name": "L.B. Crane Rentals",
 		"details": [{
 			"property": "Contact",
-			"value": "Laurie Broughton",
+			"value": "Bert Broughton",
 			"cell": ""
 		}, {
 			"property": "Bus",
