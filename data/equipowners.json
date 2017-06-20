@@ -850,7 +850,34 @@
 			"Excavators",
 			"Notes: Mini Excavators/Bobcats/Sweeper"
 		]
-	}, {
+	},
+
+  {
+    "id": "djisland",
+    "name": "DJ Island Trucking Ltd.",
+    "details": [{
+      "property": "Contact",
+      "value": "Doug Archibald",
+      "cell": "250-704-8613"
+    }, {
+			"property": "Contact",
+			"value": "Julie Howard",
+			"cell": "250-858-7383"
+		}, {
+			"property": "Email",
+			"value": "DJislandtrucking@outlook.com"
+		}, {
+      "property": "Address",
+      "value": "2260 Gail Place, Sidney, BC V8L 2S2"
+    }],
+    "equipment": [
+      "Tandem Gravel Truck and Tandem Pup"
+    ]
+  },
+
+
+
+  {
 		"id": "donmann",
 		"name": "Don Mann Excavating Ltd.",
 		"details": [{
