@@ -1,150 +1,4 @@
 {
-  "2012": [
-    {
-      "title": "Sooke Minor Fastball Association",
-      "details": [
-        "On June 23rd the IEOA brought in bobcats, a stone slinger, gravel trucks and material to help with the revitalization of the Art Morris Park in Sooke.",
-        "Sooke Minor Fastball is a volunteer based association whose primary goal is to give all children the opportunity to participate in the sport of Fastball.  The IEOA’s support of this project will have a direct effect on the families in the community as it helped to keep the registration low enough to invite families into their Fastball program who otherwise may not have been able to afford to participate.",
-        "Whassup"
-      ],
-      "images": [
-        "sookepark1.jpg",
-        "sookepark2.jpg",
-        "sookepark3.jpg",
-        "sookepark4.jpg"
-      ],
-      "thanks": [
-        {
-          "equipment": "Gravel Trucks and Trailers",
-          "donators": [
-            "Axel Trucking",
-            "Gator Trucking",
-            "Steve Lingren Trucking"
-          ]
-        },
-        {
-          "equipment": "3/4 crushed rock",
-          "donators": [
-            "Basic Rock Products",
-            "Victoria Materials Depot"
-          ]
-        },
-        {
-          "equipment": "Sand",
-          "donators": [
-            "Butler Brothers Supplies",
-            "Independent Concrete",
-            "Island Crushing"
-          ]
-        },
-        {
-          "equipment": "Slinger Truck",
-          "donators": [
-            "Don Mann Excavating"
-          ]
-        },
-        {
-          "equipment": "Bobcat",
-          "donators": [
-            "Northwest Fencing",
-            "Richard's Landscaping & Excavating"
-          ]
-        }
-
-      ]
-    }
-  ],
-  "2013": [
-    {
-      "title": "Pearce Crecent Play Area",
-      "details": [
-        "Once again the IEOA has completed another very successful community project.  Thank you to the following companies who helped with this project.  Your support helped the residents of Pearce Crescent, and the surrounding area, develop a play area for children to exercise and socialize in a safe, fun and friendly environment.",
-        "Over the years IEOA members have completed numerous volunteer projects.  The IEOA gives us the opportunity to introduce ourselves to the community, and through our donated projects, return a benefit to the local area in which we live and work."
-      ],
-      "images": [
-        "pearcepic1.jpg",
-        "pearcepic2.jpg",
-        "pearcepic3.jpg",
-        "pearcepic4.JPG"
-      ],
-      "thanks": [
-        {
-          "equipment": "Excavators",
-          "donators": [
-            "Don Mann Excavating",
-            "R G Excavating",
-            "Victoria Stonescape"
-          ]
-        },
-        {
-          "equipment": "Roller",
-          "donators": [
-            "United Rentals"
-          ]
-        },
-        {
-          "equipment": "Basic Rock Products",
-          "donators": [
-            "Butler Brothers",
-            "Goldstream Rock Products",
-            "Highland Pacific",
-            "Independent Concrete",
-            "MacNutt Enterprises",
-            "Michell Excavating",
-            "Peninisula Bulldozing",
-            "Scanza Construction",
-            "Victoria Materials Depot"
-          ]
-        },
-        {
-          "equipment": "Gravel Trucks",
-          "donators": [
-            "Don Mann Excavating",
-            "H. Volk Transport",
-            "Highland Pacific",
-            "Saanichton Development",
-            "Wee Bee Hauling",
-            "Winster Trucking"
-          ]
-        },
-        {
-          "equipment": "Drain Pipe",
-          "donators": [
-            "Andrew Sheret",
-            "Corix",
-            "EMCO"
-          ]
-        },
-        {
-          "equipment": "Lowbed Moves",
-          "donators": [
-            "G & E Contracting",
-            "D Taylor",
-            "Victoria Stonescape"
-          ]
-        },
-        {
-          "equipment": "Geotechnical Services",
-          "donators": [
-            "Ryzuk Geotechnical"
-          ]
-        },
-        {
-          "equipment": "Labour",
-          "donators": [
-            "Howcon Underground"
-          ]
-        },
-        {
-          "equipment": "Paving",
-          "donators": [
-            "Capital City Paving",
-            "Five Star Paving"
-          ]
-        }
-      ]
-    }
-  ],
   "2014": [
     {
       "title": "Metchosin Equestrian Society Riding Ring Upgrade Project",
@@ -243,6 +97,144 @@
           "equipment": "Gravel Truck",
           "donators": [
             "H Volk Transport - Steve Laming"
+          ]
+        }
+      ]
+    }
+  ],
+  "2016": [
+    {
+      "title": "Victoria Motorcycle Club",
+      "details": [
+        "On Saturday October 22, 2016 the Island Equipment Owners Association (IEOA) converged on the Victoria Motorcycle Club property in Metchosin for the day. The service road was re-graded and a proper ditch created to help provide better access for emergency vehicles and patrons. The parking lot was expanded and graded with fresh roadbases added and rolled to create a much improved surface for everyone who uses the club."
+      ],
+      "images": [
+        "motorcycle1.jpg",
+        "motorcycle2.jpg",
+        "motorcycle3.jpg",
+        "motorcycle4.jpg",
+        "motorcycle5.jpg",
+        "motorcycle6.jpg"
+      ],
+      "thanks": [
+        {
+          "equipment": "Project Coordinator",
+          "donators": [
+            "H Volk Transport - Mark Volk"
+          ]
+        },
+        {
+          "equipment": "Excavators",
+          "donators": [
+            "True Line Contracting - Mike Hornick",
+            "Scansa Construction - Kip Gronnestad",
+            "Argus Excavating - Darren Bohnet"
+          ]
+        },
+        {
+          "equipment": "Roller",
+          "donators": [
+            "Excel Contracting - Paulo Soares"
+          ]
+        },
+        {
+          "equipment": "Operator",
+          "donators": [
+            "Townsend Construction - Don Phelps"
+          ]
+        },
+        {
+          "equipment": "Low Bed Moves",
+          "donators": [
+            "Don Mann Excavating - Monty Fitz",
+            "Taylor Heavy Haul - Brian Wong",
+            "Scansa Construction - Kip Gronnestad"
+          ]
+        },
+        {
+          "equipment": "Gravel Trucks",
+          "donators": [
+            "Draycor Construction - Kevin Parker",
+            "Gator Trucking - Brian Scotney",
+            "Creed's Trucking - Glen Creed",
+            "Rozon Trucking - Rick Rozon",
+            "Steve Lingren Trucking - Steve Lingren",
+            "Dave Rodstrom Trucking - Dave Rodstrom",
+            "Axel Trucking - Alex Anderson"
+          ]
+        },
+        {
+          "equipment": "Gravel Supplied By",
+          "donators": [
+            "Draycor Construction - Kevin Parker"
+          ]
+        }
+      ]
+    }
+  ],
+  "2016b": [
+    {
+      "title": "Peninsula Soccer Association Parking Lot Improvement Project",
+      "details": [
+        "On Saturday August 27, 2016 the Island Equipment Owners Association (IEOA) gathered at the Peninsula Soccer Association parking lot at Blue Heron Park in North Saanich for the day. The gravel driveway and parking lots were graded and rolled and new RAP was added to create a much improved surface for the hundreds of families that use the soccer fields. The nonprofit organization is very grateful for the time, expertise and equipment that was donated for this project and pleased with the way it all turned out."
+      ],
+      "images": [
+        "soccer1.jpg",
+        "soccer2.jpg",
+        "soccer3.jpg",
+        "soccer4.jpg"
+      ],
+      "thanks": [
+        {
+          "equipment": "Project Coordinator",
+          "donators": [
+            "Northridge Equipment - Tracie Cownden and Mike Cownden"
+          ]
+        },
+        {
+          "equipment": "Project Assistants",
+          "donators": [
+            "TC-1 Contracting - Richard Mounce",
+            "H Volk Transport - Mark Volk",
+            "Howcon Underground - Stuart Howarth and helpers"
+          ]
+        },
+        {
+          "equipment": "Grader",
+          "donators": [
+            "Jacob Bros - Jason Jacob and Trevor Tremblay"
+          ]
+        },
+        {
+          "equipment": "Roller",
+          "donators": [
+            "Wee Bee Hauling - Todd Wilson"
+          ]
+        },
+        {
+          "equipment": "Low Bed Moves",
+          "donators": [
+            "Don Mann Excavating - Monty Fitz",
+            "Jacob Bros - Jason Jacob and Trevor Tremblay"
+          ]
+        },
+        {
+          "equipment": "Gravel Trucks",
+          "donators": [
+            "Adam Szekely Trucking - Adam Szekely",
+            "Allterra and South Island Resource Mgmt - Ray Lam and Shawna Ashbee",
+            "Don Mann Excavating - Monty Fitz",
+            "JTM Trucking - John TerMul",
+            "Mason Trucking - Sharon",
+            "Michell Excavating - Karen Wiggins",
+            "Saanichton Development - Adrian Woods"
+          ]
+        },
+        {
+          "equipment": "Gravel Supplied By",
+          "donators": [
+            "Basic Rock Products - Andy Mackin and Sean Gibbs",
+            "Island Asphalt - Cory Sangha"
           ]
         }
       ]
