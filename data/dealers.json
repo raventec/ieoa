@@ -2113,33 +2113,6 @@
 		]
 	},
 	{
-		"id": "westshore",
-		"name": "Westshore Towing Ltd.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Dave LeQuesne/Al LeQuesne",
-				"cell": "250-883-6266"
-			},
-			{
-				"property": "Bus",
-				"value": "250-474-1369"
-			},
-			{
-				"property": "Email",
-				"value": "westshoretowing@shaw.ca"
-			},
-			{
-				"property": "Web",
-				"value": "www.westshoretowing.com"
-			},
-			{
-				"property": "Address",
-				"value": "2513 Mill Hill Rd Victoria, BC V9B 4X4"
-			}
-		]
-	},
-	{
 		"id": "wilson",
 		"name": "Wilson & Proctor Ltd.",
 		"details": [

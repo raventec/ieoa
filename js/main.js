@@ -67,7 +67,7 @@ function populateOwners(owners){
 			if(detail.property === "Email"){
 				value = "<a href='mailto:"+detail.value+"'>"+detail.value+"</a>";
 			}else if(detail.property === "Web"){
-				value = "<a href='http://"+detail.value+"'>"+detail.value+"</a>";
+				value = "<a href='http://"+detail.value+"' target='_blank'>"+detail.value+"</a>";
 			}
 			details += "<li><strong>"+detail.property+": </strong>"+value;
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){

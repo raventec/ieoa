@@ -1,23 +1,5 @@
 [
-  {
-		"id": "a_forbes",
-		"name": "A. Forbes Contracting Ltd.",
-		"details": [{
-				"property": "Contact",
-				"value": "Dave Angus",
-				"cell": "250.727.8172"
-			}, {
-				"property": "Email",
-				"value": "angusdave@shaw.ca"
-			}, {
-				"property": "Address",
-				"value": "758 Egret Close Victoria, BC V9B 0R1"
-			}
-		],
-		"equipment": [
-			"Trucks"
-		]
-	}, {
+ {
 		"id": "szekely",
 		"name": "Adam Szekely Trucking",
 		"details": [{
@@ -2582,33 +2564,6 @@
 			"Rubber Tired Loaders",
 			"Excavators",
 			"Screeners"
-		]
-	}, {
-		"id": "york",
-		"name": "York Excavating Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Fred York",
-			"cell": "250-857-0360"
-		}, {
-			"property": "Bus",
-			"value": "250-478-7178"
-		}, {
-			"property": "Fax",
-			"value": "250-478-4776"
-		}, {
-			"property": "Email",
-			"value": "yorkexcavating@shaw.ca"
-		}, {
-			"property": "Address",
-			"value": "1784 Millstream Rd Victoria, BC V9B 6E4"
-		}],
-		"equipment": [
-			"Trucks",
-			"Rubber Tired Backhoes",
-			"Bulldozer Blade",
-			"Compaction Equipment",
-			"Excavators"
 		]
 	}
 ]
