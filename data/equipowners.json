@@ -256,28 +256,6 @@
 			"Notes: Crawler Carrier/Mini Excavators"
 		]
 	}, {
-		"id": "berry",
-		"name": "Berryman Construction",
-		"details": [{
-			"property": "Contact",
-			"value": "Steve Berryman",
-			"cell": "250-634-8478"
-		}, {
-			"property": "Bus",
-			"value": "250-652-0249"
-		}, {
-			"property": "Email",
-			"value": "berrymanconstruction@hotmail.com"
-		}, {
-			"property": "Address",
-			"value": "2812 Dooley Rd Victoria, BC V8Y 1R7"
-		}],
-		"equipment": [
-			"Trucks",
-			"Excavators",
-			"Notes: Bobcat Skidsteer, Bobcat Mini Excavator"
-		]
-	}, {
 		"id": "berts",
 		"name": "Bert’s Enterprises",
 		"details": [{
