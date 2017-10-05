@@ -2272,6 +2272,23 @@
 			"Notes: Cat 320, Cat 325 and can have more equipment on Island depending on work load, Contaminated Soil and Demolition Disposal"
 		]
 	}, {
+    "id": "tito",
+    "name": "Tito's Slinger Service",
+    "details": [{
+      "property": "Contact",
+      "value": "Cory Richards",
+      "cell": "778-584-4283"
+    }, {
+      "property": "Email",
+      "value": "info@titosslinger.com"
+    }, {
+      "property": "Address",
+      "value": "2250 Henry Ave Sidney, BC V8L 2B2"
+    }],
+    "equipment": [
+      "Slinger Truck"
+      ]
+  }, {
 		"id": "townsend",
 		"name": "Townsend Bros. Construction Ltd.",
 		"details": [{
