@@ -68,10 +68,12 @@ function populateOwners(owners){
 				value = "<a href='mailto:"+detail.value+"'>"+detail.value+"</a>";
 			}else if(detail.property === "Web"){
 				value = "<a href='http://"+detail.value+"' target='_blank'>"+detail.value+"</a>";
+			}if(detail.property === "Bus"){
+				value = "<a href='tel:"+detail.value+"'>"+detail.value+"</a>";
 			}
 			details += "<li><strong>"+detail.property+": </strong>"+value;
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
-				details += " <strong>Cell: </strong>"+detail.cell;
+				details += " <strong>Cell: </strong><a href='tel:"+detail.cell+"'>"+detail.cell+"</a>";
 			}
 			details += "</li>";
 		});
@@ -138,10 +140,12 @@ function populateDealers(dealers){
 				value = "<a href='mailto:"+detail.value+"'>"+detail.value+"</a>";
 			}else if(detail.property === "Web"){
 				value = "<a href='http://"+detail.value+"' target='_blank'>"+detail.value+"</a>";
-			}
+			}if(detail.property === "Bus"){
+			value = "<a href='tel:"+detail.value+"'>"+detail.value+"</a>";
+		}
 			details += "<li><strong>"+detail.property+": </strong>"+value;
 			if(detail.property === "Contact" && typeof(detail.cell) !== 'undefined'){
-				details += " <strong>Cell: </strong>"+detail.cell;
+				details += " <strong>Cell: </strong><a href='tel:"+detail.cell+"'>"+detail.cell+"</a>";
 			}
 			details += "</li>";
 		});
