@@ -367,26 +367,8 @@
 			}
 		]
 	},
-	{
-		"id": "coast",
-		"name": "Coast Industrial Parts Ltd.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Steve Tarr",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-475-3202"
-			},
-			{
-				"property": "Address",
-				"value": "562 Dupplin Rd Victoria, BC V8Z 1C1"
-			}
-		]
-	},
-	{
+
+{
 		"id": "coastal",
 		"name": "Coastal Mountain Fuels",
 		"details": [
@@ -1024,6 +1006,32 @@
 			}
 		]
 	},
+
+	{
+		"id": "green",
+		"name": "Green Line Hose & Fittings",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Steve Tarr",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-3202"
+			},
+			{
+				"property": "Fax",
+				"value": "250-475-3204"
+			},
+			{
+				"property": "Address",
+				"value": "562 Dupplin Rd Victoria, BC V8Z 1C1"
+			}
+		]
+	},
+
+
 	{
 		"id": "hendry",
 		"name": "Hendry Swinton Mckenzie Insurance Services (West Shore Inc.)",
