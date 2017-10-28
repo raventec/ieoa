@@ -119,7 +119,12 @@ p.dues {
     }
 }
 
-@media(min-width: 768px) {}
+@media(min-width: 992px) {
+    .modal-lg {
+      width: 900px;
+      margin: 30px auto;
+    }
+}
 
 
 /* End Media Queries */
