@@ -1070,7 +1070,7 @@
 			},
 			{
 				"property": "Contact",
-				"value": "Product Support Representative: Daryl Bowman",
+				"value": "Product Support Representative: Micheal Backman",
 				"cell": "250-740-5325"
 			},
 			{
@@ -1102,7 +1102,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "dbowman@inland-group.com"
+				"value": "mbackman@inland-group.com"
 			},
 			{
 				"property": "Email",
@@ -1977,38 +1977,6 @@
 			{
 				"property": "Address",
 				"value": "573 Kelvin Road Victoria, BC V8Z 1C4"
-			}
-		]
-	},
-	{
-		"id": "vermeire",
-		"name": "Vermeire Financial Services",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Don Vermeire",
-				"cell": "n/a"
-			},
-			{
-				"property": "Contact",
-				"value": "Chris Vermeire",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "778-749-0692"
-			},
-			{
-				"property": "Email",
-				"value": "don@lfsg.ca"
-			},
-			{
-				"property": "Email",
-				"value": "chris@lfsg.ca"
-			},
-			{
-				"property": "Address",
-				"value": "4087 Tuxedo Dr Victoria, BC V8X 2L5"
 			}
 		]
 	},

@@ -127,10 +127,6 @@ p.dues {
 .drop {
   display: inline-block;
 }
-.drop img {
-  width: 60%;
-  height: 60%;
-}
 
 .center {
   text-align: center;
@@ -146,7 +142,7 @@ p.dues {
   text-align: center;
 }
 
-.king {
+.roadking {
   padding-bottom: 10px;
 
 }

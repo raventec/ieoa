@@ -2282,6 +2282,11 @@
       "property": "Email",
       "value": "info@titosslinger.com"
     }, {
+			"property": "Web",
+			"value": "www.titosslinger.com"
+		},
+
+    {
       "property": "Address",
       "value": "2250 Henry Ave Sidney, BC V8L 2B2"
     }],
