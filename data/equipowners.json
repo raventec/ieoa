@@ -764,27 +764,6 @@
 			"Truck with Trailer"
 		]
 	}, {
-		"id": "thomas",
-		"name": "Dave Thomas Trucking Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Dave Thomas",
-			"cell": "250-727-8927"
-		}, {
-			"property": "Bus",
-			"value": "250-652-5852"
-		}, {
-			"property": "Fax",
-			"value": "250-652-4409"
-		}, {
-			"property": "Address",
-			"value": "1490 Kersey Road Brentwood Bay, BC V8M 1J5"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
-	}, {
 		"id": "diggerdale",
 		"name": "Digger Dale Contracting Ltd.",
 		"details": [{
@@ -914,27 +893,6 @@
 			"Lowbeds",
 			"Screeners",
 			"Notes: Quad Trailer/sweepers/diesel gen sets, Crusher"
-		]
-	}, {
-		"id": "ellwood",
-		"name": "Ellwood Lake Contracting",
-		"details": [{
-			"property": "Contact",
-			"value": "Laurie Ellard",
-			"cell": "250-213-8740"
-		}, {
-			"property": "Bus",
-			"value": "250-479-4594"
-		}, {
-			"property": "Fax",
-			"value": "250-479-4593"
-		}, {
-			"property": "Address",
-			"value": "284 View Royal Avenue Victoria, BC V9B 1A9"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
 		]
 	}, {
 		"id": "excel",
@@ -1452,6 +1410,9 @@
 		}, {
 			"property": "Email",
 			"value": "lbcrane@telus.net"
+		}, {
+			"property": "Web",
+			"value": "www.lbcrane.ca"
 		}, {
 			"property": "Address",
 			"value": "#50 - 1492 Admirals Rd Victoria, BC V9A 2R1"
@@ -2255,14 +2216,20 @@
 		"name": "Tervita Corporation",
 		"details": [{
 			"property": "Contact",
-			"value": "Alex Morriss",
-			"cell": ""
+			"value": "Mike Torney",
+			"cell": "250-818-5410"
 		}, {
 			"property": "Bus",
 			"value": "250-915-2010"
 		}, {
 			"property": "Fax",
 			"value": "778-747-2952"
+		}, {
+			"property": "Email",
+			"value": "m.torney@tervita.com"
+		}, {
+			"property": "Web",
+			"value": "www.tervita.com/"
 		}, {
 			"property": "Address",
 			"value": "893 Van Isle Way Victoria, BC V9B 5R8"

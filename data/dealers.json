@@ -101,7 +101,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Mobile Parts Sales: Tim Fink",
+				"value": "Mobile Parts Sales: Craig Dyson",
 				"cell": "250-889-1046"
 			},
 			{
@@ -120,7 +120,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "tfink@berksintertruck.com"
+				"value": "cdyson@berksintertruck.com"
 			},
 			{
 				"property": "Email",
@@ -243,35 +243,7 @@
 				"value": "2061 Mills Road West, Sidney, BC V8L 5X2"
 			}
 		]
-	},
-	{
-		"id": "camosun",
-		"name": "Camosun College - Heavy Duty Mechanical Shop",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Robert Glover",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-655-0432"
-			},
-			{
-				"property": "Email",
-				"value": "queries@csttdrivertraining.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.csttdrivertraining.com"
-			},
-			{
-				"property": "Address",
-				"value": "PO Box 20098 Sidney, BC V8L 5C9"
-			}
-		]
-	},
-	{
+	}, {
 		"id": "canadian",
 		"name": "Canadian Western Bank",
 		"details": [
@@ -314,33 +286,6 @@
 			{
 				"property": "Address",
 				"value": "825 Hillman Road Victoria, BC V9C 3Z3"
-			}
-		]
-	},
-	{
-		"id": "cif",
-		"name": "CIF Composites Inc.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Brian Lewthwaite",
-				"cell": "250-888-5688"
-			},
-			{
-				"property": "Bus",
-				"value": "250-652-6313"
-			},
-			{
-				"property": "Email",
-				"value": "brianl@cifcomposites.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.cifcomposites.com/"
-			},
-			{
-				"property": "Address",
-				"value": "1810 Verling Ave Victoria, BC V8M 1X6"
 			}
 		]
 	},
@@ -401,12 +346,15 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Ron Gertzen",
+				"value": "Ashley Rogers",
 				"cell": "n/a"
 			},
 			{
 				"property": "Bus",
 				"value": "250-474-2801"
+			}, {
+				"property": "Email",
+				"value": "arogers@cmfuels.ca"
 			},
 			{
 				"property": "Address",
@@ -574,37 +522,6 @@
 		]
 	},
 	{
-		"id": "drive",
-		"name": "Drive Products Inc.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Dale Scott",
-				"cell": "604-341-3455"
-			},
-			{
-				"property": "Bus",
-				"value": "604-888-4464"
-			},
-			{
-				"property": "Bus",
-				"value": "Toll Free: 1-800-473-1717 Ext 4515"
-			},
-			{
-				"property": "Email",
-				"value": "dscott@driveproducts.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.driveproducts.com"
-			},
-			{
-				"property": "Address",
-				"value": "19150-96th Ave Surrey, BC V4N 3R3"
-			}
-		]
-	},
-	{
 		"id": "emery",
 		"name": "E.H. Emery Electric Ltd.",
 		"details": [
@@ -720,7 +637,7 @@
 			{
 				"property": "Contact",
 				"value": "Account Executive: Rod Donaldson",
-				"cell": "n/a"
+				"cell": "250-883-3996"
 			},
 			{
 				"property": "Bus",
@@ -919,29 +836,6 @@
 			{
 				"property": "Address",
 				"value": "Box 1396 - 255 Lake Park Rd Lake Cowichan, BC V0R 2G0"
-			}
-		]
-	},
-	{
-		"id": "gillingham",
-		"name": "Gillingham Equipment",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Pat Gillingham",
-				"cell": "250-361-6048"
-			},
-			{
-				"property": "Bus",
-				"value": "250-727-2025"
-			},
-			{
-				"property": "Email",
-				"value": "gillingham-equipment@shaw.ca"
-			},
-			{
-				"property": "Address",
-				"value": "5118 Old West Saanich Road Victoria, BC V9E 2B1"
 			}
 		]
 	},
@@ -1195,7 +1089,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Lane Jorgensen",
+				"value": "Nash Sinha",
 				"cell": "n/a"
 			},
 			{
@@ -1264,6 +1158,10 @@
 			{
 				"property": "Email",
 				"value": "info@lionhartcapital.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.lionhartcapital.com"
 			},
 			{
 				"property": "Address",
@@ -1371,7 +1269,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Gary Silveira",
+				"value": "Shahram Fazeli",
 				"cell": "n/a"
 			},
 			{
@@ -1787,8 +1685,8 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Douglas Wittich",
-				"cell": "250-880-1567"
+				"value": "Michael Cooper",
+				"cell": "250-889-0875"
 			},
 			{
 				"property": "Bus",
@@ -1796,7 +1694,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "doug@scanplus.ca"
+				"value": "mcooper@scanplus.ca"
 			},
 			{
 				"property": "Web",
@@ -1909,8 +1807,13 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Michel Cowie",
-				"cell": "250-216-8044"
+				"value": "Eric Halpenny",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Jill Moores",
+				"cell": "n/a"
 			},
 			{
 				"property": "Bus",
@@ -1918,7 +1821,11 @@
 			},
 			{
 				"property": "Email",
-				"value": "michel.cowie@td.com"
+				"value": "eric.halpenny@td.com"
+			},
+			{
+				"property": "Email",
+				"value": "jill.moores@td.com"
 			},
 			{
 				"property": "Address",
@@ -2067,8 +1974,8 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Ken Erickson",
-				"cell": "250.888.9294"
+				"value": "Bob Mitchell",
+				"cell": "250-668-0343"
 			},
 			{
 				"property": "Bus",
@@ -2080,7 +1987,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "kerickson@westerraequipment.com"
+				"value": "rmitchell@westerraequipment.com"
 			},
 			{
 				"property": "Address",
