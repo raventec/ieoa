@@ -1168,35 +1168,7 @@
 				"value": "11396 Chalet Road, North Saanich, BC V8L 5L9"
 			}
 		]
-	},
-	{
-		"id": "Liquid",
-		"name": "Liquid Capital West Coast Financing",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Stephen Ison/Rebekah Hutchison",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "778-265-7990"
-			},
-			{
-				"property": "Email",
-				"value": "sison@liquidcapitalcorp.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.lcwestcoastfinancing.com"
-			},
-			{
-				"property": "Address",
-				"value": "PO Box 39051, RPO James Bay Victoria, BC V8V 4X8"
-			}
-		]
-	},
-	{
+	}, {
 		"id": "Lombard",
 		"name": "Lombard Pre-Cast Limited Partnership",
 		"details": [
@@ -1861,6 +1833,37 @@
 			{
 				"property": "Address",
 				"value": "3333 Tennyson Ave Victoria, B. C. V8Z 3P5"
+			}
+		]
+	},
+	{
+		"id": "tractortime",
+		"name": "Tractor Time Equipment (2015) Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Nick Moss",
+				"cell": "250-588-2195"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-3301"
+			},
+			{
+				"property": "Fax",
+				"value": "250-474-3301"
+			},
+			{
+				"property": "Email",
+				"value": "info@tractortime.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.tractortime.com"
+			},
+			{
+				"property": "Address",
+				"value": "4377C Metchosin Road Victoria, BC V9C 3Z4"
 			}
 		]
 	},
