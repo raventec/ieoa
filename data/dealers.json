@@ -313,36 +313,9 @@
 		]
 	},
 
-{
-		"id": "coastal",
-		"name": "Coastal Mountain Fuels",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Ron Gertzen",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-753-0278"
-			},
-			{
-				"property": "Email",
-				"value": "rgertzen@cmfuels.ca"
-			},
-			{
-				"property": "Web",
-				"value": "www.cmfuels.ca"
-			},
-			{
-				"property": "Address",
-				"value": "1609 Stewart Ave Nanaimo, BC V9S 4E4"
-			}
-		]
-	},
 	{
 		"id": "sooke",
-		"name": "Coastal Mountain Fuels - Sooke Location",
+		"name": "Coastal Mountain Fuels - Hatley Park",
 		"details": [
 			{
 				"property": "Contact",
@@ -353,6 +326,9 @@
 				"property": "Bus",
 				"value": "250-474-2801"
 			}, {
+				"property": "Web",
+				"value": "www.cmfuels.ca"
+						},{
 				"property": "Email",
 				"value": "arogers@cmfuels.ca"
 			},

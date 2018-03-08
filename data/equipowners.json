@@ -735,6 +735,9 @@
 			"value": "Dave Courser",
 			"cell": "250-896-9922"
 		}, {
+			"property": "Email",
+			"value": "dctruck@shaw.ca"
+		},{
 			"property": "Address",
 			"value": "536 Woodend Rd Victoria, BC V9C 0G4"
 		}],
