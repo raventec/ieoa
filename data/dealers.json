@@ -111,8 +111,13 @@
 			},
 			{
 				"property": "Contact",
-				"value": "Sales Representative: Dan GruBCJr.",
+				"value": "Sales Representative: Dan Grubac Jr.",
 				"cell": "250-616-7310"
+			},
+			{
+				"property": "Contact",
+				"value": "Sales Representative: Shawn Miller",
+				"cell": "250-327-2067"
 			},
 			{
 				"property": "Bus",
@@ -128,7 +133,11 @@
 			},
 			{
 				"property": "Email",
-				"value": "junior.gruBCberksintertruck.com"
+				"value": "junior.grubac@berksintertruck.com"
+			},
+			{
+				"property": "Email",
+				"value": "smiller@berksintertruck.com"
 			},
 			{
 				"property": "Web",
@@ -1664,12 +1673,21 @@
 				"cell": "250-203-2930"
 			},
 			{
+				"property": "Contact",
+				"value": "Product Support Sales Representative - Bob Mitchell",
+				"cell": "778-384-0182"
+			},
+			{
 				"property": "Bus",
 				"value": "250-286-0694"
 			},
 			{
 				"property": "Email",
 				"value": "jheath@smsequip.com"
+			},
+			{
+				"property": "Email",
+				"value": "bmitchell@smsequip.com"
 			},
 			{
 				"property": "Web",
@@ -1951,11 +1969,6 @@
 		"id": "westerravic",
 		"name": "Westerra Equipment LP - Victoria",
 		"details": [
-			{
-				"property": "Contact",
-				"value": "Bob Mitchell",
-				"cell": "250-668-0343"
-			},
 			{
 				"property": "Bus",
 				"value": "250.478.8860"
