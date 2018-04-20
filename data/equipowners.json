@@ -2332,7 +2332,7 @@
 		"details": [{
 			"property": "Contact",
 			"value": "Matt MacKinnon",
-			"cell": "250-883-7754"
+			"cell": "N/A"
 		}, {
 			"property": "Bus",
 			"value": "778-400-6484"
@@ -2351,7 +2351,7 @@
 		}],
 		"equipment": [
 			"Mobile Crane/Crane Trucks",
-			"Notes: Hiab 1055 7000 lb @ 63 ft, with 175X-5 jib 2200 lb @ 100 ft."
+			"Truck with Trailer"
 		]
 	}, {
 		"id": "viccontracting",
