@@ -1256,6 +1256,33 @@
 			"Screeners"
 		]
 	}, {
+		"id": "diversified",
+		"name": "Island diversified Concrete Ltd.",
+		"details": [{
+			"property": "Contact",
+			"value": "Rod Owen-Flood",
+			"cell": "250-361-5708"
+		}, {
+			"property": "Bus",
+			"value": "778-677-7700"
+		},{
+			"property": "Fax",
+			"value": "250-478-5299"
+		}, {
+			"property": "Email",
+			"value": " rof@idconcreteltd.ca"
+		}, {
+			"property": "Web",
+			"value": "www.idconcreteltd.ca"
+		}, {
+			"property": "Address",
+			"value": "795 Industrial Way Victoria, BC V9B 0E8"
+		}],
+		"equipment": [
+      "Trucks",
+			"Notes: Small Batch Ready Mix Trucks, Precast Concrete, Gravel Mart"
+		]
+	},{
 		"id": "jacobbro",
 		"name": "Jacob Bros. Construction Ltd.",
 		"details": [{
@@ -1980,6 +2007,36 @@
 			"Notes: Tractor Trailer"
 		]
 	}, {
+		"id": "saamoa",
+		"name": "Saamoa Holdings Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Ted Litster",
+			"cell": "250-880-0352"
+		}, {
+			"property": "Bus",
+			"value": "250-478-4460"
+		}, {
+			"property": "Email",
+			"value": "saamoa@shaw.ca"
+		},
+    {
+			"property": "Address",
+			"value": "5200 Rocky Point Road, Victoria BC V9C 4G7"
+		}],
+		"equipment": [
+			"Trucks",
+			"Truck with Trailer",
+			"Rubber Tired Backhoes",
+      "Skid Steer",
+      "Wheel Loader",
+      "Compaction Equipment",
+      "Excavators",
+			"Notes: 3 Axle Pup Trailer, Soil Screeners, Blade Cat"
+		]
+	},
+
+  {
 		"id": "saanich",
 		"name": "Saanich Trucking",
 		"details": [{

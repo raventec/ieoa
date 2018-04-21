@@ -1339,6 +1339,29 @@
 		]
 	},
 	{
+		"id": "pandrlangford",
+		"name": "P & R Truck Centre - Langford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Emily Polack",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-915-0350"
+			},
+			{
+				"property": "Web",
+				"value": "www.prtruckcentre.com"
+			},
+			{
+				"property": "Address",
+				"value": "2095 Millstream Road, Victoria BC V9B 6H4"
+			}
+		]
+	},
+	{
 		"id": "pandrsaanichton",
 		"name": "P & R Truck Centre - Saanichton",
 		"details": [
