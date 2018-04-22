@@ -1257,7 +1257,7 @@
 		]
 	}, {
 		"id": "diversified",
-		"name": "Island diversified Concrete Ltd.",
+		"name": "Island Diversified Concrete Ltd.",
 		"details": [{
 			"property": "Contact",
 			"value": "Rod Owen-Flood",
@@ -2389,7 +2389,7 @@
 		"details": [{
 			"property": "Contact",
 			"value": "Matt MacKinnon",
-			"cell": "N/A"
+			"cell": ""
 		}, {
 			"property": "Bus",
 			"value": "778-400-6484"
