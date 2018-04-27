@@ -62,9 +62,11 @@ function populateOwners(owners, query){
 	var container = $('#owners-container');
 	var filtered = ""; // Will be big ol' HTML string
 	var truckOwners = validQuery(query) ? owners.filter(function(owner) {
-		return owner.equipment.some(function(equip) {
-			return equip.toLowerCase().includes(query);
-		})
+		var equipMatch = owner.equipment.some(function(equip) {
+			return equip.toLowerCase().includes(query.toLowerCase());
+		});
+		var nameMatch = owner.name.toLowerCase().includes(query.toLowerCase());
+		return equipMatch || nameMatch;
 	}) : owners;
 	truckOwners.forEach(function(owner){
 		var details = "";
