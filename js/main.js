@@ -1,5 +1,6 @@
-var getJson = function getJson(file, callback){
+var getJson = function getJson(file, callback) {
 	$.getJSON("data/"+file, function(json) {
+		window.jsonData = json;
 		callback(json);
 	});
 };
@@ -57,9 +58,15 @@ function populateProjects(projects) {
 	});
 }
 
-function populateOwners(owners){
+function populateOwners(owners, query){
 	var container = $('#owners-container');
-	owners.forEach(function(owner){
+	var filtered = ""; // Will be big ol' HTML string
+	var truckOwners = validQuery(query) ? owners.filter(function(owner) {
+		return owner.equipment.some(function(equip) {
+			return equip.toLowerCase().includes(query);
+		})
+	}) : owners;
+	truckOwners.forEach(function(owner){
 		var details = "";
 		var equipment = "";
 		owner.details.forEach(function(detail){
@@ -91,12 +98,12 @@ function populateOwners(owners){
 				</div>\
 			</div>\
 		";
-		container.append(html);
+		filtered += html;
 	});
+	container.html(filtered);
 }
 
 function populateRates(rates){
-	console.log(rates);
 	var container = $('#rates-container');
 	rates.forEach(function(category){
 		var tableHeaderContent = "";
@@ -162,3 +169,32 @@ function populateDealers(dealers){
 		container.append(html);
 	});
 }
+
+function search() {
+	var query = document.getElementById("searchInput").value;
+	populateOwners(window.jsonData, query);
+}
+
+function validQuery(query) {
+	return typeof query !== 'undefined' && query !== "";
+}
+
+window.onload = function() {
+	var searchInput = document.getElementById("searchInput");
+	var searchButton = document.getElementById("searchButton");
+	var resetButton = document.getElementById("resetButton");
+
+	searchInput.addEventListener("keyup", function(event) {
+	  event.preventDefault();
+	  if (event.keyCode === 13) {
+			search();
+	  }
+	});
+	searchButton.onclick = function() {
+		search();
+	};
+	resetButton.onclick = function() {
+		searchInput.value = "";
+		search();
+	};
+};

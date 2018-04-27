@@ -209,5 +209,31 @@ footer.custom-footer a:hover {
     padding: 20px;
 }
 
+.searchContainer {
+  height: 35px;
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 20px;
+
+}
+
+.searchComponent {
+  margin-right: 10px;
+  vertical-align: middle;
+  box-sizing: border-box;
+  border: 1px solid black;
+  height: 100%;
+  border-radius: 5px;
+}
+
+input.searchComponent {
+  flex-grow: 1;
+  max-width: 400px;
+  padding-left: 10px;
+}
+
+button.searchComponent:hover {
+  background-color: #DDD;
+}
 
 /* End equipment owners */
