@@ -388,6 +388,35 @@
 			"Screeners"
 		]
 	}, {
+		"id": "camtrux",
+		"name": "Camtrux CCTV Pipe Inspections & Traffic Control Services",
+		"details": [{
+			"property": "Contact",
+			"value": "Grace Darling",
+			"cell": "n/a"
+		}, {
+			"property": "Camera Truck",
+			"value": "250-891-2237"
+		}, {
+			"property": "Traffic Control",
+			"value": "778-533-1279"
+		}, {
+			"property": "Email",
+			"value": "info@camtrux.com"
+		},{
+			"property": "Email",
+			"value": "flagging@camtrux.com"
+		},{
+			"property": "Web",
+			"value": "www.camtrux.com"
+		},{
+			"property": "Address",
+			"value": "27088 - 772 Goldstream Ave, Victoria, BC V9B 2X4"
+		}],
+		"equipment": [
+
+		]
+	}, {
 		"id": "canutility",
 		"name": "Canadian Utility Construction Corp.",
 		"details": [{
