@@ -1329,6 +1329,10 @@
 				"value": "250-746-1515"
 			},
 			{
+				"property": "Fax",
+				"value": "250-746-8064"
+			},
+			{
 				"property": "Web",
 				"value": "www.prtruckcentre.com"
 			},
@@ -1350,6 +1354,10 @@
 			{
 				"property": "Bus",
 				"value": "250-915-0350"
+			},
+			{
+				"property": "Fax",
+				"value": "250-915-0451"
 			},
 			{
 				"property": "Web",
@@ -1375,6 +1383,10 @@
 				"value": "250-652-9139"
 			},
 			{
+				"property": "Fax",
+				"value": "250-652-9130"
+			},
+			{
 				"property": "Web",
 				"value": "www.prtruckcentre.com"
 			},
@@ -1398,12 +1410,43 @@
 				"value": "250-384-0451"
 			},
 			{
+				"property": "Fax",
+				"value": "250-384-5306"
+			},
+			{
 				"property": "Web",
 				"value": "www.prtruckcentre.com"
 			},
 			{
 				"property": "Address",
 				"value": "400A Burnside Road East Victoria, BC V9A 1A8"
+			}
+		]
+	},
+	{
+		"id": "pandrnanaimo",
+		"name": "P & R Truck Centre - Nanaimo",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Karl Wiese",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-756-0026"
+			},
+			{
+				"property": "Fax",
+				"value": "250-756-0626"
+			},
+			{
+				"property": "Web",
+				"value": "www.prtruckcentre.com"
+			},
+			{
+				"property": "Address",
+				"value": "2073 Boxwood Road, Nanaimo, BC V9S 5X9"
 			}
 		]
 	},

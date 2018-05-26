@@ -1258,8 +1258,8 @@
 		"name": "Island Asphalt Company",
 		"details": [{
 			"property": "Contact",
-			"value": "Cory Sangha",
-			"cell": ""
+			"value": "Kevin Won",
+			"cell": "250-883-3069"
 		}, {
 			"property": "Bus",
 			"value": "250-652-9211"
@@ -1268,7 +1268,7 @@
 			"value": "250-652-9270"
 		}, {
 			"property": "Email",
-			"value": "mail@islandpaving.com"
+			"value": "kwon@islandpaving.com"
 		}, {
 			"property": "Address",
 			"value": "VICTORIA MAIN PO, PO Box 1324 Victoria, BC V8W 2W3"
@@ -1282,7 +1282,8 @@
 			"Graders",
 			"Excavators",
 			"Lowbeds",
-			"Screeners"
+			"Screeners",
+      "Notes: Milling machine, Sweeper"
 		]
 	}, {
 		"id": "diversified",
