@@ -20,6 +20,39 @@
 
       ]
     }
+  }, {
+    "id": "hydraulic-hammer-attachment",
+    "title": "Hydraulic Hammer Attachment for Excavators",
+    "subheading": "",
+    "table": {
+      "columns": ["Capacity (ft-lbs)", "Energy Class (lb)", "Excavator Weight (lb)", "Rate/Hr"],
+      "rows": [
+        ["1000", "1100", "13000", "$73"],
+        ["1500", "1600", "22000", "$84"],
+        ["2000", "2200", "25000", "$94"],
+        ["3000", "3300", "38000", "$104"],
+        ["4000", "4400", "45000", "$115"],
+        ["5000", "5500", "50000", "$125"],
+        ["6000", "6600", "60000", "$136"],
+        ["7500", "8100", "70000", "$146"],
+        ["9000", "9600", "78000", "$156"],
+        ["10000", "10600", "85000", "$167"],
+        ["11000", "11600", "90000", "$177"]
+      ]
+    }
+  },
+  {
+    "id": "hydraulic-compactor-attachment",
+    "title": "Hydraulic Compactor Attachment for Excavators",
+    "subheading": "",
+    "table": {
+      "columns": ["Weight", "Rate/Hr"],
+      "rows": [
+        ["5 tonne (or rubber-tired backhoe)", "$20"],
+        ["7-10 tonne", "$25"],
+        ["20 tonne", "$35"]
+      ]
+    }
   },
   {
     "id": "skid-steer",
@@ -292,6 +325,20 @@
       "columns": ["Type", "Rate/Hr"],
       "rows": [
         ["Track Jaw Crusher", "$319"]
+      ]
+    }
+  },
+  {
+    "id": "labour",
+    "title": "Labour",
+    "subheading": "",
+    "table": {
+      "columns": ["", "Rate/Hr"],
+      "rows": [
+        ["Foreman", "$95"],
+        ["Pipelayer", "$70"],
+        ["Grademan", "$70"],
+        ["Labourer", "$55"]
       ]
     }
   },
