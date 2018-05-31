@@ -183,31 +183,7 @@
 		]
 	},
 
-  {
-		"id": "be",
-		"name": "B & E Contracting Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Owen Elkington",
-			"cell": "250-321-2175"
-		}, {
-			"property": "Contact",
-			"value": "Kylan Baumeler",
-			"cell": "250-516-7796"
-		}, {
-			"property": "Address",
-			"value": "10395 Bowerbank Road, Sidney, BC V8L 3L6"
-		}],
-		"equipment": [
-			"Excavators",
-      "Single Axle Trucks",
-      "Tandem Trucks",
-      "Compaction Equipment",
-      "Bobcat/Skidsteer",
-      "Trailer Mounted Hydrovac",
-			"Flatdeck Equipment Trailers"
-		]
-	}, {
+ {
 		"id": "basic",
 		"name": "Basic Rock Products Ltd.",
 		"details": [{
@@ -414,7 +390,8 @@
 			"value": "27088 - 772 Goldstream Ave, Victoria, BC V9B 2X4"
 		}],
 		"equipment": [
-
+      "Camera Truck",
+      "Lane Closure Truck for traffic control"
 		]
 	}, {
 		"id": "canutility",
@@ -2094,7 +2071,31 @@
 			"Excavators",
 			"Notes: Skidsteer loader, small excavator"
 		]
-	}, {
+	},
+
+  {
+    "id": "sacred",
+    "name": "Sacred Coast Construction Ltd.",
+    "details": [{
+      "property": "Contact",
+      "value": "Owen Elkington",
+      "cell": "250-321-2175"
+    }, {
+      "property": "Address",
+      "value": "4700 Badger Place, Victoria BC V9C 4B9"
+    }],
+    "equipment": [
+      "Excavators",
+      "Single Axle Trucks",
+      "Tandem Trucks",
+      "Pup Trailer",
+      "Compaction Equipment",
+      "Bobcat/Skidsteer",
+      "Flatdeck Equipment Trailers"
+    ]
+  },
+
+   {
 		"id": "sanichton",
 		"name": "Saanichton Development Ltd",
 		"details": [{
