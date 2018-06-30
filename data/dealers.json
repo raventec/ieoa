@@ -1537,6 +1537,37 @@
 		]
 	},
 	{
+		"id": "prefindustrial",
+		"name": "Preferred Industrial",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Adam Effertz",
+				"cell": "250-634-0876"
+			},
+			{
+				"property": "Bus",
+				"value": "604-231-6030"
+			},
+			{
+				"property": "Fax",
+				"value": "604-247-1610"
+			},
+			{
+				"property": "Email",
+				"value": "adam@preferredindustrial.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.preferredindustrial.com"
+			},
+			{
+				"property": "Address",
+				"value": "3002 Colquitz Ave, Victoria, BC V9A 2M3"
+			}
+		]
+	},
+	{
 		"id": "radioworks",
 		"name": "RadioWorks Communications Inc.",
 		"details": [
