@@ -798,33 +798,6 @@
 		]
 	},
 	{
-		"id": "geoscan",
-		"name": "GeoScan Subsurface Surveys Inc.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "n/a",
-				"cell": "250-709-2887"
-			},
-			{
-				"property": "Bus",
-				"value": "250-891-9364"
-			},
-			{
-				"property": "Email",
-				"value": "daniel.p@geoscan.ca"
-			},
-			{
-				"property": "Web",
-				"value": "www.geoscan.ca"
-			},
-			{
-				"property": "Address",
-				"value": "Box 1396 - 255 Lake Park Rd Lake Cowichan, BC V0R 2G0"
-			}
-		]
-	},
-	{
 		"id": "golder",
 		"name": "Golder Associates Ltd.",
 		"details": [
