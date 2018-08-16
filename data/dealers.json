@@ -507,6 +507,37 @@
 		]
 	},
 	{
+		"id": "cummins",
+		"name": "Cummins Sales & Service",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Raj Lal",
+				"cell": "604-785-7993"
+			},
+			{
+				"property": "Bus",
+				"value": "604-882-5000"
+			},
+			{
+				"property": "Fax",
+				"value": "604-882-5080"
+			},
+			{
+				"property": "Email",
+				"value": "raj.s.lal@cummins.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.cummins.com"
+			},
+			{
+				"property": "Address",
+				"value": "18452 - 96th Ave Surrey, BC V4N 3P8"
+			}
+		]
+	},
+	{
 		"id": "emery",
 		"name": "E.H. Emery Electric Ltd.",
 		"details": [
