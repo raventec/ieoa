@@ -1155,26 +1155,7 @@
 			"Notes: Service Truck"
 		]
 	},
-
-	{
-		"id": "hydroforce",
-		"name": "Hydroforce Excavating Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Geoff Dibben",
-			"cell": "250-360-7630"
-		}, {
-			"property": "Email",
-			"value": "geodibb@gmail.com"
-		}, {
-			"property": "Address",
-			"value": "1460 White Pine Terrace Victoria, BC V9B 6J3"
-		}],
-		"equipment": [
-			"Trucks",
-			"Notes: 5 Ton Dump Truck / Combination Hydrovac/Flush Trucks / Straight Hydrovac Vacuum Truck"
-		]
-	}, {
+ {
 		"id": "independent",
 		"name": "Independent Concrete Ltd.",
 		"details": [{
