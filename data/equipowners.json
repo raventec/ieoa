@@ -904,6 +904,26 @@
 			"Notes: Quad Trailer/sweepers/diesel gen sets, Crusher"
 		]
 	}, {
+		"id": "escocia",
+		"name": "Escocia Contracting",
+		"details": [{
+			"property": "Contact",
+			"value": "Justin McCormack",
+			"cell": "250-885-2011"
+		}, {
+			"property": "Email",
+			"value": "justin.julianna@yahoo.ca"
+		}, {
+			"property": "Address",
+			"value": "5194 Sooke Road, Sooke BC, V9Z 1J6"
+		}],
+		"equipment": [
+			"Trucks",
+			"Truck with Trailer",
+			"Notes: 2 axel pony trailer"
+		]
+	},
+  {
 		"id": "excel",
 		"name": "Excel Contracting Ltd.",
 		"details": [{
