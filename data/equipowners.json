@@ -2050,10 +2050,7 @@
 		"details": [{
 			"property": "Contact",
 			"value": "Lee Smith",
-			"cell": ""
-		}, {
-			"property": "Bus",
-			"value": "250-880-1669"
+			"cell": "250-880-1669"
 		}, {
 			"property": "Fax",
 			"value": "250-656-3770"
@@ -2069,8 +2066,9 @@
 		}],
 		"equipment": [
 			"Trucks",
+      "Truck and Trailer",
 			"Excavators",
-			"Notes: Skidsteer loader, small excavator"
+			"Notes: Skidsteer loader, small excavator, 5 tonne Bin Truck"
 		]
 	},
 

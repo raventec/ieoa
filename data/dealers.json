@@ -1301,6 +1301,33 @@
 		]
 	},
 	{
+		"id": "nextgen",
+		"name": "NexGen Hearing - Industrial Division",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Sarah Simmons",
+				"cell": "250-590-1835"
+			},
+			{
+				"property": "Bus",
+				"value": "250-385-4431"
+			},
+			{
+				"property": "Email",
+				"value": "simmons@nexgenhearing.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.saanichtruckingandexcavating.com"
+			},
+			{
+				"property": "Address",
+				"value": "201 - 4500 West Saanich Road Victoria, BC V8Z 3G2"
+			}
+		]
+	},
+	{
 		"id": "nixon",
 		"name": "Nixon Bros. Trucking Ltd",
 		"details": [
@@ -1650,7 +1677,7 @@
 	},
 	{
 		"id": "richlock",
-		"name": "Richlock Rentals Ltd.",
+		"name": "Richlock Rentals Ltd. (Now known as) Sunbelt Rentals Ltd",
 		"details": [
 			{
 				"property": "Contact",
