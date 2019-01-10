@@ -48,6 +48,11 @@ section.hero {
 
 /* End hero image */
 
+.jumbotron {
+	background-color: #afb3b6;
+	color: #000;
+}
+
 /* Responsive image */
 
 img.respect-parent {
