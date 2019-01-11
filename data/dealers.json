@@ -192,12 +192,12 @@
 			},
 			{
 				"property": "Contact",
-				"value": "Product Support Sales: Dave Jensen",
+				"value": "Territory Manager: Dave Jensen",
 				"cell": "250-668-2894"
 			},
 			{
 				"property": "Contact",
-				"value": "Construction Worksite Products Sales Rep: Luke Diggles",
+				"value": "Territory Manager: Luke Diggles",
 				"cell": "250-713-9297"
 			},
 			{
@@ -211,6 +211,14 @@
 			{
 				"property": "Email",
 				"value": "wlade@brandt.ca"
+			},
+			{
+				"property": "Email",
+				"value": " rsarich@brandt.ca"
+			},
+			{
+				"property": "Email",
+				"value": "djensen@brandt.ca"
 			},
 			{
 				"property": "Email",
