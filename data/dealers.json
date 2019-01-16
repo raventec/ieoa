@@ -338,18 +338,16 @@
 				"property": "Contact",
 				"value": "Ashley Rogers",
 				"cell": "n/a"
-			},
-			{
+			}, {
 				"property": "Bus",
 				"value": "250-474-2801"
+			}, {
+	"property": "Email",
+	"value": "arogers@cmfuels.ca"
 			}, {
 				"property": "Web",
 				"value": "www.cmfuels.ca"
 						},{
-				"property": "Email",
-				"value": "arogers@cmfuels.ca"
-			},
-			{
 				"property": "Address",
 				"value": "2231 Sooke Rd Victoria, BC V9B 1W8"
 			}
@@ -1327,7 +1325,7 @@
 			},
 			{
 				"property": "Web",
-				"value": "www.saanichtruckingandexcavating.com"
+				"value": "www.nexgenhearing.com"
 			},
 			{
 				"property": "Address",

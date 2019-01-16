@@ -315,8 +315,8 @@
 		"name": "Butler Bros. Supplies Ltd.",
 		"details": [{
 			"property": "Contact",
-			"value": "Tony Martens",
-			"cell": "250-883-1908"
+			"value": "Gord Bowcott",
+			"cell": "250-883-2322"
 		}, {
 			"property": "Bus",
 			"value": "250-652-4484"
@@ -325,8 +325,11 @@
 			"value": "250-652-4486"
 		}, {
 			"property": "Email",
-			"value": "tony@butlerbros.bc.ca"
+			"value": "gord.bowcott@butlerbros.bc.ca"
 		}, {
+			"property": "Web",
+			"value": "www.butlerbros.bc.ca"
+		},{
 			"property": "Address",
 			"value": "Box 7000 Saanichton, BC V8M 2C5"
 		}],
@@ -949,6 +952,43 @@
 			"Excavators"
 		]
 	}, {
+		"id": "finishline",
+		"name": "Finish Line Transport Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Matt Mansell",
+			"cell": "250-818-4709"
+		}, {
+			"property": "Contact",
+			"value": "Sheila Mansell",
+			"cell": "N/A"
+		}, {
+			"property": "Bus",
+			"value": "250-478-2389"
+		}, {
+			"property": "Fax",
+			"value": "250-478-2380"
+		}, {
+			"property": "Email",
+			"value": "matt@fltl.ca"
+		}, {
+			"property": "Email",
+			"value": "sheila@fltl.ca"
+		},{
+			"property": "Web",
+			"value": "www.finishlinetransport.ca"
+		},{
+			"property": "Address",
+			"value": "4709 Barrow Road Victoria, BC V9C 4C6"
+		}],
+		"equipment": [
+			"Trucks",
+			"Compressors",
+			"Compaction Equipment",
+			"Rubber Tired Loaders",
+			"Graders"
+		]
+	}, {
 		"id": "fivestar",
 		"name": "Five Star Paving Co. Ltd.",
 		"details": [{
@@ -1488,6 +1528,26 @@
 			"Notes: Pup & Quad Trailers"
 		]
 	}, {
+    "id": "langfordarborist",
+    "name": "Langford Arborist",
+    "details": [{
+			"property": "Contact",
+			"value": "Cole Langford",
+			"cell": "250-882-6843"
+		}, {
+			"property": "Email",
+			"value": "langfordbrothersarb@gmail.com"
+		},{
+      "property": "Web",
+      "value": "www.langfordbrothersarb.com"
+    }, {
+      "property": "Address",
+      "value": "530 Selwyn Heights Victoria, BC V9B 3L5"
+    }],
+    "equipment": [
+      "Vermeer Skid tx 925"
+      ]
+  }, {
 		"id": "blujay",
 		"name": "Little Bluejay Contracting Co. Ltd.",
 		"details": [{
