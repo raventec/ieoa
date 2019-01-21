@@ -163,6 +163,9 @@ p.dues {
     .hero {
         display: none;
     }
+    .jumbotron {
+      margin-top: 2em
+    }
 }
 
 @media(min-width: 992px) {
