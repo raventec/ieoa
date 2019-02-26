@@ -982,7 +982,7 @@
 			"value": "4709 Barrow Road Victoria, BC V9C 4C6"
 		}],
 		"equipment": [
-	
+
 		]
 	}, {
 		"id": "fivestar",
@@ -1327,41 +1327,6 @@
 			"Notes: Small Batch Ready Mix Trucks, Precast Concrete, Gravel Mart"
 		]
 	},{
-		"id": "jacobbro",
-		"name": "Jacob Bros. Construction Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Jason Jacob",
-			"cell": "250-480-9373"
-		}, {
-			"property": "Bus",
-			"value": "604-541-0303"
-		}, {
-			"property": "Fax",
-			"value": "604-541-0343"
-		}, {
-			"property": "Email",
-			"value": "Jason@jacobbros.ca"
-		}, {
-			"property": "Address",
-			"value": "#101 - 19162 - 22nd Ave Surrey, BC V3S 3S6"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer",
-			"Rubber Tired Backhoes",
-			"Bulldozer Blade",
-			"Compressors",
-			"Compaction Equipment",
-			"Crushers",
-			"Rubber Tired Loaders",
-			"Mobile Crane/Crane Trucks",
-			"Graders",
-			"Excavators",
-			"Lowbeds",
-			"Screeners"
-		]
-	}, {
 		"id": "jencam",
 		"name": "Jencam Transport Ltd.",
 		"details": [{
@@ -2520,6 +2485,28 @@
 			"Trucks",
 			"Graders",
 			"Excavators"
+		]
+	}, {
+		"id": "victoriadrain",
+		"name": "Victoria Drain Services Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Dave",
+			"cell": "250-882-4222"
+		}, {
+			"property": "Bus",
+			"value": "250-818-1609"
+		}, {
+			"property": "Web",
+			"value": "www.victoriadrains.com"
+		}, {
+			"property": "Address",
+			"value": "31 Regina Ave Victoria, BC V8Z 1H8"
+		}],
+		"equipment": [
+			"Camera CCTV units",
+			"Flusher/Sucker Combo trucks",
+			"re-ling Laterals installations"
 		]
 	}, {
 		"id": "viclandscape",

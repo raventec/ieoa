@@ -69,6 +69,21 @@
 		]
 	},
 	{
+		"id": "akin",
+		"name": "Akin Construction",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Andrew Robertson",
+				"cell": "778-584-3436"
+			},
+			{
+				"property": "Address",
+				"value": "3180 Metchosin Road Victoria, BC V9C 2A3"
+			}
+		]
+	},
+	{
 		"id": "andrew",
 		"name": "Andrew Sheret Ltd.",
 		"details": [
@@ -775,8 +790,8 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Duane Sapelak",
-				"cell": "250-888-0262"
+				"value": "Mike Daughty",
+				"cell": "250-896-2917"
 			},
 			{
 				"property": "Bus",
@@ -789,29 +804,6 @@
 			{
 				"property": "Address",
 				"value": "#105 – 2924 Jacklin Road Victoria, BC V9B 3Y5"
-			}
-		]
-	},
-	{
-		"id": "fountainvictoria",
-		"name": "Fountain Tire - Victoria",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Duane Sapelak",
-				"cell": "250-888-0262"
-			},
-			{
-				"property": "Bus",
-				"value": "250-382-6184"
-			},
-			{
-				"property": "Web",
-				"value": "www.fountaintire.com"
-			},
-			{
-				"property": "Address",
-				"value": "610 Herald Street Victoria, BC V8W 1S7"
 			}
 		]
 	},
@@ -895,32 +887,6 @@
 			}
 		]
 	},
-
-	{
-		"id": "green",
-		"name": "Green Line Hose & Fittings",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Steve Tarr",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-475-3202"
-			},
-			{
-				"property": "Fax",
-				"value": "250-475-3204"
-			},
-			{
-				"property": "Address",
-				"value": "562 Dupplin Rd Victoria, BC V8Z 1C1"
-			}
-		]
-	},
-
-
 	{
 		"id": "hendry",
 		"name": "Hendry Swinton Mckenzie Insurance Services (West Shore Inc.)",
