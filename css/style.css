@@ -147,13 +147,29 @@ p.dues {
   text-align: center;
 }
 
-.roadking {
-  padding-bottom: 10px;
-
-}
-
 /* Convoy */
 
+/* Convoy Food Drive */
+
+.splash {
+  padding: 2em;
+  max-width: 1650px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lora {
+  font-family: 'Lora', serif;
+  font-size:18;
+}
+
+.roadking {
+  padding-bottom: 10px;
+  float: left;
+  padding: 1em;
+}
+
+/* End Convoy Food Drive */
 
 /* Media Queries */
 
