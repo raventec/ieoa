@@ -138,6 +138,37 @@
 			"Notes: 2 axel pony trailer"
 		]
 	}, {
+ 		"id": "asi",
+ 		"name": "ASI Contracting",
+ 		"details": [{
+ 			"property": "Contact",
+ 			"value": "Mike Ferguson",
+ 			"cell": "250-889-9353"
+ 		}, {
+ 			"property": "Bus",
+ 			"value": "250-590-3867"
+ 		}, {
+ 			"property": "Email",
+ 			"value": "mike@asicontracting.ca"
+ 		}, {
+ 			"property": "Web",
+ 			"value": "asicontracting.ca"
+ 		},{
+ 			"property": "Address",
+ 			"value": "670 A Stebbings Road, Shawnigan Lake, BC V0R 2W3"
+ 		}],
+ 		"equipment": [
+      "Trucks",
+      "Trucks with Trailers",
+      "Hook Trucks",
+      "Skidsteer",
+      "Bulldozers",
+      "Mini Excavators",
+      "Excavators",
+      "Sweeper Truck",
+      "Bins"
+ 		]
+ 	}, {
 		"id": "aubrey",
 		"name": "Aubrey’s Enterprises Ltd.",
 		"details": [{
@@ -1490,7 +1521,7 @@
 		]
 	}, {
     "id": "langfordarborist",
-    "name": "Langford Arborist",
+    "name": "Langford Brothers Arborist",
     "details": [{
 			"property": "Contact",
 			"value": "Cole Langford",
@@ -2089,6 +2120,7 @@
 			"Trucks",
       "Truck and Trailer",
 			"Excavators",
+      "Rubber Tired Backhoes",
 			"Notes: Skidsteer loader, small excavator, 5 tonne Bin Truck"
 		]
 	},

@@ -80,6 +80,9 @@
 			{
 				"property": "Address",
 				"value": "3180 Metchosin Road Victoria, BC V9C 2A3"
+			}, {
+				"property": "Email",
+				"value": "akinrobertson7@gmail.com"
 			}
 		]
 	},
@@ -557,8 +560,33 @@
 				"value": "18452 - 96th Ave Surrey, BC V4N 3P8"
 			}
 		]
-	},
-	{
+	},{
+		"id": "dynamic",
+		"name": "Dynamic Capital Equipment Finance",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jeff Mosdell",
+				"cell": "250-740-0712"
+			},
+			{
+				"property": "Bus",
+				"value": "250-860-4486"
+			},
+			{
+				"property": "Email",
+				"value": "jmosdell@dynamic-capital.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.dynamic-capital.ca"
+			},
+			{
+				"property": "Address",
+				"value": "Suite #208 - 1824 Gordon Drive, Kelowna BC V1Y 0E2"
+			}
+		]
+	},{
 		"id": "emery",
 		"name": "E.H. Emery Electric Ltd.",
 		"details": [
