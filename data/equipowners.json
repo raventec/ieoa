@@ -1276,29 +1276,6 @@
 			"Notes: Ready Mix Trucks, Batch Plants"
 		]
 	}, {
-		"id": "ipi",
-		"name": "IPI Tech Inc.",
-		"details": [{
-			"property": "Contact",
-			"value": "Charlie Walcot",
-			"cell": "250-203-4742"
-		}, {
-			"property": "Bus",
-			"value": "250-598-6161"
-		}, {
-			"property": "Email",
-			"value": "ipitech@shaw.ca"
-		}, {
-			"property": "Web",
-			"value": "www.ipitech.ca"
-		}, {
-			"property": "Address",
-			"value": "#3 – 4224 Commerce Circle Victoria BC V8Z 6N6"
-		}],
-		"equipment": [
-			"Notes: Vactor Trucks, Flushers, CCTV trucks"
-		]
-	}, {
 		"id": "islandasph",
 		"name": "Island Asphalt Company",
 		"details": [{
