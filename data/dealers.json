@@ -346,9 +346,29 @@
 				"value": "3364 Burns Avenue Victoria, BC V8Z 3P2"
 			}
 		]
-	},
-
-	{
+	}, 	{
+			"id": "comins",
+			"name": "Coastal Community Insurance Services (2007) Ltd",
+			"details": [
+				{
+					"property": "Contact",
+					"value": "Yvonne Jones",
+					"cell": "250-616-3214"
+				}, {
+					"property": "Fax",
+					"value": "250-748-3652"
+				}, {
+		"property": "Email",
+		"value": "yvonne.jones@cccu.ca"
+				}, {
+					"property": "Web",
+					"value": "www.cccu.ca"
+							},{
+					"property": "Address",
+					"value": "111 - 59 Wharf Street, Nanaimo, BC V9R 2X3"
+				}
+			]
+		}, {
 		"id": "sooke",
 		"name": "Coastal Mountain Fuels - Hatley Park",
 		"details": [
