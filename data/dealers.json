@@ -1694,35 +1694,7 @@
 				"value": "725 Industrial Way Victoria, BC V9B 6E2"
 			}
 		]
-	},
-	{
-		"id": "richlock",
-		"name": "Richlock Rentals Ltd. (Now known as) Sunbelt Rentals Ltd",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Chris Philpott",
-				"cell": "250-812-1332"
-			},
-			{
-				"property": "Bus",
-				"value": "250-474-5744"
-			},
-			{
-				"property": "Email",
-				"value": "chris.philpott@sunbeltrentals.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.sunbeltrentals.com"
-			},
-			{
-				"property": "Address",
-				"value": "10115 McDonald Park Rd Sidney, BC V8L 5X5"
-			}
-		]
-	},
-	{
+	}, {
 		"id": "ritchie",
 		"name": "Ritchie Bros. Auctioneers",
 		"details": [
@@ -1849,6 +1821,29 @@
 		]
 	},
 	{
+		"id": "spectrum",
+		"name": "Spectrum Appraisal",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Robert Knezacek",
+				"cell": "250-896-4528"
+			},
+			{
+				"property": "Email",
+				"value": "Robert@SpectrumAppraisal.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.spectrumappraisal.ca"
+			},
+			{
+				"property": "Address",
+				"value": "300 - 848 Courtney St, Victoria BC V8W 1C4"
+			}
+		]
+	},
+	{
 		"id": "suburban",
 		"name": "Suburban Motors Ltd.",
 		"details": [
@@ -1899,6 +1894,99 @@
 			{
 				"property": "Address",
 				"value": "1160 Commercial Way Penticton, BC V2A 3H5"
+			}
+		]
+	},
+	{
+		"id": "sunbeltlangford",
+		"name": "Sunbelt Rentals - Langford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Reece Richmond",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-5744"
+			},
+			{
+				"property": "Fax",
+				"value": "250-474-5785"
+			},
+			{
+				"property": "Email",
+				"value": "pcm7055@sunbeltrentals.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sunbeltrentals.ca"
+			},
+			{
+				"property": "Address",
+				"value": "2994 Jacklin Road Langford, BC V9B 3Y8"
+			}
+		]
+	},
+	{
+		"id": "sunbeltsidney",
+		"name": "Sunbelt Rentals - Sidney",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jamie Allan",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-656-9422"
+			},
+			{
+				"property": "Fax",
+				"value": "250-656-9424"
+			},
+			{
+				"property": "Email",
+				"value": "pcm7054@sunbeltrentals.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sunbeltrentals.ca"
+			},
+			{
+				"property": "Address",
+				"value": "10115 McDonald Park Road Sidney, BC V8L 5X5"
+			}
+		]
+	},
+	{
+		"id": "sunbeltvictoria",
+		"name": "Sunbelt Rentals - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Nathan McDonald",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-360-1962"
+			},
+			{
+				"property": "Fax",
+				"value": "250-360-1916"
+			},
+			{
+				"property": "Email",
+				"value": "pcm7059@sunbeltrentals.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sunbeltrentals.ca"
+			},
+			{
+				"property": "Address",
+				"value": "402 Garbally Road Victoria, BC V8T 2K1"
 			}
 		]
 	},
