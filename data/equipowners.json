@@ -1537,28 +1537,7 @@
 			"Lowbeds",
 			"Notes: End Dump/Trailers"
 		]
-	}, {
-		"id": "lopeter",
-		"name": "Lopeter Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Doug Lopeter",
-			"cell": ""
-		}, {
-			"property": "Bus",
-			"value": "250-592-5343"
-		}, {
-			"property": "Fax",
-			"value": "250-598-5354"
-		}, {
-			"property": "Address",
-			"value": "2348 Florence Street Victoria, BC V8R 5E8"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
-	},
+	}, 
 	{
 		"id": "mrcrane",
 		"name": "M.R. Crane Service Ltd.",
@@ -1684,14 +1663,14 @@
 		"name": "McRae’s Environmental Services",
 		"details": [{
 			"property": "Contact",
-			"value": "Island Operations: Keith LeBrun",
+			"value": "Island Operations Manager: Matthew Mossey",
 			"cell": "250-883-7867"
 		}, {
 			"property": "Bus",
 			"value": "250-479-3205"
 		}, {
 			"property": "Email",
-			"value": "islandoperations@mcraesenviro.com"
+			"value": "mmossey@mcraesenviro.com"
 		}, {
 			"property": "Web",
 			"value": "www.mcraes-enviro.com"
@@ -2235,7 +2214,8 @@
 		}],
 		"equipment": [
 			"Trucks",
-			"Truck with Trailer"
+			"Truck with Trailer",
+      "Excavators"
 		]
 	}, {
 		"id": "stonepacific",

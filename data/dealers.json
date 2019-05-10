@@ -1530,12 +1530,12 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Darrell Eigler",
-				"cell": "n/a"
+				"value": "Rick Wardle",
+				"cell": "250-883-4756"
 			},
 			{
 				"property": "Contact",
-				"value": "Manager: Mark Salmon",
+				"value": "Sales: Mark Salmon",
 				"cell": "250-889-1529"
 			},
 			{
@@ -1548,19 +1548,19 @@
 			},
 			{
 				"property": "Email",
-				"value": "darrell@pmindustries.ca"
+				"value": "rickw@pmindustries.ca"
 			},
 			{
 				"property": "Email",
-				"value": "marksalmon.pm@gmail.com"
+				"value": "marks@pmindustries.ca"
 			},
 			{
 				"property": "Web",
-				"value": "www.pmindustries.ca"
+				"value": "www.truckprovictoria.com"
 			},
 			{
 				"property": "Address",
-				"value": "1946 Mills Road Sidney, BC V8L 5S9"
+				"value": "1785 Mills Road Sidney, BC V8L 5S9"
 			}
 		]
 	},
@@ -1700,16 +1700,16 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Regional Sales Manager BC – Lawrence Van De Leur",
-				"cell": "604-992-7705"
+				"value": "Kevin Nolan",
+				"cell": "250-802-3522"
 			},
 			{
 				"property": "Bus",
-				"value": "Regional Bus: 604-823-2706"
+				"value": "604-823-2706"
 			},
 			{
 				"property": "Email",
-				"value": "lvandeleur@rbauction.com"
+				"value": "knolan@rbauction.com"
 			},
 			{
 				"property": "Web",
