@@ -906,8 +906,17 @@
 		"name": "Great West Equipment - Campbell River",
 		"details": [
 			{
+				"property": "Contact",
+				"value": "Sales: Tanner Holmes",
+				"cell": "250-202-0597"
+			},
+			{
 				"property": "Bus",
 				"value": "250-286-0123"
+			},
+			{
+				"property": "Address",
+				"value": "2011 – 14th Ave, Campbell River, BC, V9W 4J2"
 			}
 		]
 	},
@@ -917,13 +926,13 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Greg Eaton",
+				"value": "Sales: Greg Eaton",
 				"cell": "250-203-1738"
 			},
 			{
 				"property": "Contact",
-				"value": "Scott Cairns",
-				"cell": "250-616-3165"
+				"value": "Branch Manager: Greg Hansen",
+				"cell": "250-668-5763"
 			},
 			{
 				"property": "Bus",
