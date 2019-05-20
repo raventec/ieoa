@@ -780,7 +780,7 @@
 	},
 	{
 		"id": "flynn",
-		"name": "Flynn Printing",
+		"name": "Flynn Digital Plus",
 		"details": [
 			{
 				"property": "Contact",
@@ -792,12 +792,12 @@
 				"value": "250-382-9811"
 			},
 			{
-				"property": "Bus",
-				"value": "250-744-1117"
+				"property": "Email",
+				"value": "flynndigital@gmail.com"
 			},
 			{
-				"property": "Email",
-				"value": "service@flynnprinting.com"
+				"property": "Web",
+				"value": "www.flynndigitalplus.com"
 			},
 			{
 				"property": "Address",
@@ -1231,17 +1231,8 @@
 		"name": "Mack Sales & Service of Victoria",
 		"details": [
 			{
-				"property": "Contact",
-				"value": "Dan Sarauer",
-				"cell": "778-677-0185"
-			},
-			{
 				"property": "Bus",
 				"value": "778-426-0185"
-			},
-			{
-				"property": "Email",
-				"value": "dsarauer@nanaimomack.ca"
 			},
 			{
 				"property": "Web",
@@ -1249,7 +1240,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2920 Amy Road, Langford BC V9B 0B2"
+				"value": "2930 Amy Road, Langford BC V9B 0B2"
 			}
 		]
 	},
@@ -2121,17 +2112,8 @@
 		"name": "Wajax Industries Ltd.",
 		"details": [
 			{
-				"property": "Contact",
-				"value": "Michael Wood",
-				"cell": "250-740-5212"
-			},
-			{
 				"property": "Bus",
 				"value": "250-755-2005"
-			},
-			{
-				"property": "Email",
-				"value": "mwood@wajax.com"
 			},
 			{
 				"property": "Web",
@@ -2235,33 +2217,6 @@
 			{
 				"property": "Address",
 				"value": "808 Devonshire Road, Victoria, BC V9A 4T4"
-			}
-		]
-	},
-	{
-		"id": "wittich",
-		"name": "Wittich Environmental Services Ltd.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Sean Wittich",
-				"cell": "250-882-4865"
-			},
-			{
-				"property": "Bus",
-				"value": "250-642-4859"
-			},
-			{
-				"property": "Email",
-				"value": "sean@wesltd.net"
-			},
-			{
-				"property": "Web",
-				"value": "www.wesltd.net"
-			},
-			{
-				"property": "Address",
-				"value": "5715 Sooke Rd, Sooke, BC V9Z 0C4"
 			}
 		]
 	},

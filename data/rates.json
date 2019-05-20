@@ -6,17 +6,17 @@
     "table": {
       "columns": ["Class", "Weight", "Digging Bucket Size", "Rate/Hr", "Examples"],
       "rows": [
-        ["Class 1", "3000 - 6000 lbs (1.4 tonnes to 2.75 tones)", "1/4 Yard", "$93", "Bobcat 324 E26, Deere 17D, ZTS, Cat 301, Hitachi  ZX17U"],
-        ["Class 2", "6000 - 9000 lbs (2.75 tonnes to 4 tonnes)", "3/8 Yard", "$108", "Deere 27D 35D, Cat 303.5, Bobcat E32 E35 331, Hitachi ZX27U ZX35U"],
-        ["Class 3", "9000 - 13,000 lbs (4 tonnes to 6 tonnes)", "7/16 Yard", "$112", "Deere 50D/G, Cat 304E 305E, Hitachi ZX50U, Bobcat E42 E45 E50 E55"],
-        ["Class 4", "13,000 - 20,000 lbs (6 tonnes to 9.5 tonnes)", "1/2 Yard", "$119", "Deere 80C 75G, Hitachi EX80 ZX75US, Cat 307C 308E2, Bobcat E80"],
-        ["Class 5", "20,000 to 30,000 lbs (9.5 tonnes to 14 tonnes)", "3/4 Yard", "$128", "Deere120D, Hitachi ZX130-5, Komatsu PC120, Cat 312E"],
-        ["Class 6", "30,000 to 42,000 lbs (14 tonnes to 19 tonnes)", "7/8 Yard", "$136", "Deere 160G, Hitachi ZX130, ZX135US, Komatsu PC 60, PC138USLC, Cat 314E CR, 315C"],
-        ["Class 7", "42,000 to 52,000 lbs (20 tonnes to 23 tonnes)", "1 Yard", "$151", "Cat 320E, 321D, Deere 200D, 210G, 225D, 245G, Hitachi ZX200, ZX210LC-5, Kobelco 200 or 210, Komatsu PC200 or PC228, Volvo EC210"],
-        ["Class 8", "52,000 to 56,000 lbs (23 tonnes to 24 tonnes)", "1-1/4 Yard", "$163", "Deere 240D, 250G, Komatsu PC220, PC240LC, Cat 322, 324D, Hitachi ZX240, ZX250LC-5, Volvo EC240"],
-        ["Class 9", "56,000 to 62,000 lbs (25 tonnes to 28 tonnes)", "1-3/8 Yard", "$170", "Cat 325, 329D, Deere 270D, 290G, Hitachi ZX270, ZX290LC, Komatsu PC270"],
-        ["Class 10", "62,000 to 72,000 lbs (28 tonnes to 32 tonnes)", "1-1/2 Yard", "$190", "Deere 350D, 350G, Cat 330C, 329E, 336D, Hitachi ZX350-5, Komatsu PC300, PC360LC or 308, Volvo EC290"],
-        ["Class 11", "96,000 to 102,999 lbs (43 tonnes to 46 tonnes)", "", "$263", "Deere 450D, 470G, Hitachi ZX450, ZX470LC-5, Cat 345C, 345D"]
+        ["Class 1", "3000 - 6000 lbs (1.4 tonnes to 2.75 tones)", "1/4 Yard", "$97", "Bobcat 324 E26, Deere 17D, ZTS, Cat 301, Hitachi  ZX17U"],
+        ["Class 2", "6000 - 9000 lbs (2.75 tonnes to 4 tonnes)", "3/8 Yard", "$112", "Deere 27D 35D, Cat 303.5, Bobcat E32 E35 331, Hitachi ZX27U ZX35U"],
+        ["Class 3", "9000 - 13,000 lbs (4 tonnes to 6 tonnes)", "7/16 Yard", "$116", "Deere 50D/G, Cat 304E 305E, Hitachi ZX50U, Bobcat E42 E45 E50 E55"],
+        ["Class 4", "13,000 - 20,000 lbs (6 tonnes to 9.5 tonnes)", "1/2 Yard", "$124", "Deere 80C 75G, Hitachi EX80 ZX75US, Cat 307C 308E2, Bobcat E80"],
+        ["Class 5", "20,000 to 30,000 lbs (9.5 tonnes to 14 tonnes)", "3/4 Yard", "$133", "Deere120D, Hitachi ZX130-5, Komatsu PC120, Cat 312E"],
+        ["Class 6", "30,000 to 42,000 lbs (14 tonnes to 19 tonnes)", "7/8 Yard", "$141", "Deere 160G, Hitachi ZX130, ZX135US, Komatsu PC 60, PC138USLC, Cat 314E CR, 315C"],
+        ["Class 7", "42,000 to 52,000 lbs (20 tonnes to 23 tonnes)", "1 Yard", "$157", "Cat 320E, 321D, Deere 200D, 210G, 225D, 245G, Hitachi ZX200, ZX210LC-5, Kobelco 200 or 210, Komatsu PC200 or PC228, Volvo EC210"],
+        ["Class 8", "52,000 to 56,000 lbs (23 tonnes to 24 tonnes)", "1-1/4 Yard", "$170", "Deere 240D, 250G, Komatsu PC220, PC240LC, Cat 322, 324D, Hitachi ZX240, ZX250LC-5, Volvo EC240"],
+        ["Class 9", "56,000 to 62,000 lbs (25 tonnes to 28 tonnes)", "1-3/8 Yard", "$177", "Cat 325, 329D, Deere 270D, 290G, Hitachi ZX270, ZX290LC, Komatsu PC270"],
+        ["Class 10", "62,000 to 72,000 lbs (28 tonnes to 32 tonnes)", "1-1/2 Yard", "$198", "Deere 350D, 350G, Cat 330C, 329E, 336D, Hitachi ZX350-5, Komatsu PC300, PC360LC or 308, Volvo EC290"],
+        ["Class 11", "96,000 to 102,999 lbs (43 tonnes to 46 tonnes)", "", "$274", "Deere 450D, 470G, Hitachi ZX450, ZX470LC-5, Cat 345C, 345D"]
 
       ]
     }
@@ -27,17 +27,17 @@
     "table": {
       "columns": ["Capacity (ft-lbs)", "Energy Class (lb)", "Excavator Weight (lb)", "Rate/Hr"],
       "rows": [
-        ["1000", "1100", "13000", "$73"],
-        ["1500", "1600", "22000", "$84"],
-        ["2000", "2200", "25000", "$94"],
-        ["3000", "3300", "38000", "$104"],
-        ["4000", "4400", "45000", "$115"],
-        ["5000", "5500", "50000", "$125"],
-        ["6000", "6600", "60000", "$136"],
-        ["7500", "8100", "70000", "$146"],
-        ["9000", "9600", "78000", "$156"],
-        ["10000", "10600", "85000", "$167"],
-        ["11000", "11600", "90000", "$177"]
+        ["1000", "1100", "13000", "$76"],
+        ["1500", "1600", "22000", "$87"],
+        ["2000", "2200", "25000", "$98"],
+        ["3000", "3300", "38000", "$108"],
+        ["4000", "4400", "45000", "$120"],
+        ["5000", "5500", "50000", "$130"],
+        ["6000", "6600", "60000", "$141"],
+        ["7500", "8100", "70000", "$152"],
+        ["9000", "9600", "78000", "$162"],
+        ["10000", "10600", "85000", "$174"],
+        ["11000", "11600", "90000", "$184"]
       ]
     }
   },
@@ -48,9 +48,9 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["5 tonne (or rubber-tired backhoe)", "$20"],
-        ["7-10 tonne", "$25"],
-        ["20 tonne", "$35"]
+        ["5 tonne (or rubber-tired backhoe)", "$21"],
+        ["7-10 tonne", "$26"],
+        ["20 tonne", "$36"]
       ]
     }
   },
@@ -61,9 +61,9 @@
     "table": {
       "columns": ["Bucket Size (inches)", "Horse Power", "Front End (Bucket) Operating Load", "Rate/Hr"],
       "rows": [
-        ["44-50", "under 35 HP", "under 1000 lbs", "$74"],
-        ["68", "35-60 HP", "1000-2000 lbs", "$82"],
-        ["74", "60-85 HP", "2000-3000 lbs", "$94"]
+        ["44-50", "under 35 HP", "under 1000 lbs", "$77"],
+        ["68", "35-60 HP", "1000-2000 lbs", "$85"],
+        ["74", "60-85 HP", "2000-3000 lbs", "$98"]
       ]
     }
   },
@@ -74,10 +74,10 @@
     "table": {
       "columns": ["Bucket Size (inches)", "Horse Power", "Front End (Bucket) Operating Load", "Rate/Hr"],
       "rows": [
-        ["44-50", "under 41 HP", "under 1100 lbs", "$81"],
-        ["68-74", "41-75 HP", "1100-2230 lbs", "$97"],
-        ["74-80", "75-85 HP", "2230-3000 lbs", "$100"],
-        ["80-84", "85-99 HP", "3000-3225 lbs", "$103"]
+        ["44-50", "under 41 HP", "under 1100 lbs", "$84"],
+        ["68-74", "41-75 HP", "1100-2230 lbs", "$101"],
+        ["74-80", "75-85 HP", "2230-3000 lbs", "$104"],
+        ["80-84", "85-99 HP", "3000-3225 lbs", "$107"]
       ]
     }
   },
@@ -88,8 +88,8 @@
     "table": {
       "columns": ["Class", "Horse Power", "Digging Depth", "Rate/Hr"],
       "rows": [
-        ["Class 1", "80-100 HP", "18 Ft", "$109"],
-        ["Class 2", "100-108 HP", "19Ft 6 in", "$124"]
+        ["Class 1", "80-100 HP", "18 Ft", "$113"],
+        ["Class 2", "100-108 HP", "19Ft 6 in", "$129"]
       ]
     }
   },
@@ -100,10 +100,10 @@
     "table": {
       "columns": ["Class", "Weight", "Horse Power", "Rate/Hr"],
       "rows": [
-        ["Class 1", "under 18000 lbs", "under 80 HP", "$129"],
-        ["Class 2", "18,500 - 32,000 lbs", "80 - 125 HP", "$151"],
-        ["Class 3", "32,000 - 60,000 lbs", "125 - 220 HP", "$187"],
-        ["Class 4", "60,000 - 89,000 lbs", "220 - 290 HP", "$267"],
+        ["Class 1", "under 18000 lbs", "under 80 HP", "$134"],
+        ["Class 2", "18,500 - 32,000 lbs", "80 - 125 HP", "$157"],
+        ["Class 3", "32,000 - 60,000 lbs", "125 - 220 HP", "$194"],
+        ["Class 4", "60,000 - 89,000 lbs", "220 - 290 HP", "$278"],
         ["Class 5", "over 90,000", "over 290 HP", "POR*"]
       ]
     }
@@ -115,11 +115,11 @@
     "table": {
       "columns": ["Class", "Bucket Size (Struck)", "Horse Power", "Rate/Hr"],
       "rows": [
-        ["Class 1", "under 1-3/4 Yards", "under 90 HP", "$121"],
-        ["Class 2", "2-1/2 Yards", "90 - 130 HP", "$136"],
-        ["Class 3", "3 Yards", "130 - 150 HP", "$164"],
-        ["Class 4", "3-1/2 - 4 Yards", "150 - 200 HP", "$180"],
-        ["Class 5", "4-1/2 - 5 Yards", "200 - 250 HP", "$211"],
+        ["Class 1", "under 1-3/4 Yards", "under 90 HP", "$126"],
+        ["Class 2", "2-1/2 Yards", "90 - 130 HP", "$141"],
+        ["Class 3", "3 Yards", "130 - 150 HP", "$171"],
+        ["Class 4", "3-1/2 - 4 Yards", "150 - 200 HP", "$187"],
+        ["Class 5", "4-1/2 - 5 Yards", "200 - 250 HP", "$219"],
         ["Class 6", "over 6 Yards", "250 HP", "POR*"]
       ]
     }
@@ -131,9 +131,9 @@
     "table": {
       "columns": ["Class", "Operating Weight", "Rate/Hr"],
       "rows": [
-        ["Class 1", "up to 4.9 metric tonnes", "$121"],
-        ["Class 2", "5 - 7.9 metric tonnes", "$129"],
-        ["Class 3", "8 - 11.9 metric tonnes", "$145"],
+        ["Class 1", "up to 4.9 metric tonnes", "$126"],
+        ["Class 2", "5 - 7.9 metric tonnes", "$134"],
+        ["Class 3", "8 - 11.9 metric tonnes", "$151"],
         ["Class 4", "over 12 metric tonnes", "POR*"]
       ]
     }
@@ -145,10 +145,10 @@
     "table": {
       "columns": ["Class", "Horse Power", "Rate/Hr"],
       "rows": [
-        ["Class 1", "under 80 HP", "$121"],
-        ["Class 2", "85 - 95 HP", "$136"],
-        ["Class 3", "125 - 135 HP", "$145"],
-        ["Class 4", "135 - 150 HP", "$164"]
+        ["Class 1", "under 80 HP", "$126"],
+        ["Class 2", "85 - 95 HP", "$141"],
+        ["Class 3", "125 - 135 HP", "$151"],
+        ["Class 4", "135 - 150 HP", "$171"]
       ]
     }
   },
@@ -159,10 +159,10 @@
     "table": {
       "columns": ["Type", "Man Power", "Rate/Hr"],
       "rows": [
-        ["250 CFM Compressor (includes blaster's equipment & Insurance)", "<br>1 Driller<br>1 Driller/Powderman", "<br>$110<br>$110"],
-        ["250 Compressor (includes blaster's equipment & Insurance)", "<br>2 Drillers<br>1 Driller/Powderman", "<br>$172<br>$172"],
-        ["", "<br>Labourer or Powderman assistant<br>One Powderman, Truck and equipment", "<br>$63<br>$110"],
-        ["", "<br>Commando 120 mini drill<br>Self-contained hydraulic drill - 15 - 17.5 kw<br>Self-contained hydraulic drill - 17.5 kw plus<br>Compressor Rental 250/800", "<br>$203<br>$276<br>$328<br>POR*"]
+        ["250 CFM Compressor (includes blaster's equipment & Insurance)", "<br>1 Driller<br>1 Driller/Powderman", "<br>$114<br>$114"],
+        ["250 Compressor (includes blaster's equipment & Insurance)", "<br>2 Drillers<br>1 Driller/Powderman", "<br>$179<br>$179"],
+        ["", "<br>Labourer or Powderman assistant<br>One Powderman, Truck and equipment", "<br>$66<br>$114"],
+        ["", "<br>Commando 120 mini drill<br>Self-contained hydraulic drill - 15 - 17.5 kw<br>Self-contained hydraulic drill - 17.5 kw plus<br>Compressor Rental 250/800", "<br>$211<br>$287<br>$341<br>POR*"]
       ]
     }
   },
@@ -173,11 +173,11 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["25 tons", "$124"],
-        ["30 tons", "$146"],
-        ["35 tons", "$151"],
-        ["82 tons", "$277"],
-        ["125 tons", "$388"],
+        ["25 tons", "$129"],
+        ["30 tons", "$152"],
+        ["35 tons", "$157"],
+        ["82 tons", "$288"],
+        ["125 tons", "$404"],
         ["over 125 tons", "POR*"]
       ]
     }
@@ -189,15 +189,15 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["18 tons", "$151"],
-        ["22 tons", "$167"],
-        ["30 tons", "$177"],
-        ["35 tons", "$188"],
-        ["40 tons", "$198"],
-        ["50 tons", "$240"],
-        ["60 tons", "$260"],
-        ["65 tons", "$271"],
-        ["80 tons", "$292"],
+        ["18 tons", "$157"],
+        ["22 tons", "$174"],
+        ["30 tons", "$184"],
+        ["35 tons", "$196"],
+        ["40 tons", "$206"],
+        ["50 tons", "$250"],
+        ["60 tons", "$270"],
+        ["65 tons", "$282"],
+        ["80 tons", "$304"],
         ["over 80 tons", "POR*"]
       ]
     }
@@ -209,9 +209,9 @@
     "table": {
       "columns": ["Weight", "Rate/Hr"],
       "rows": [
-        ["6 tons", "$120"],
-        ["20 tons", "$162"],
-        ["40 tons", "$198"]
+        ["6 tons", "$125"],
+        ["20 tons", "$168"],
+        ["40 tons", "$206"]
       ]
     }
   },
@@ -222,12 +222,12 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["20 tonnes", "$118"],
-        ["30 tonnes", "$121"],
-        ["40 tonnes", "$134"],
-        ["50 tonnes", "$164"],
+        ["20 tonnes", "$123"],
+        ["30 tonnes", "$126"],
+        ["40 tonnes", "$139"],
+        ["50 tonnes", "$171"],
         ["Over 50 tonnes", "POR*"],
-        ["Pilot Cars", "$74-80"]
+        ["Pilot Cars", "$77-83"]
       ]
     }
   },
@@ -238,11 +238,11 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["4-1/2 metric tonnes", "$102"],
-        ["6-1/2 metric tonnes", "$116"],
-        ["9 metric tonnes", "$125"],
-        ["10 metric tonnes", "$136"],
-        ["15 metric tonnes", "$146"]
+        ["4-1/2 metric tonnes", "$106"],
+        ["6-1/2 metric tonnes", "$121"],
+        ["9 metric tonnes", "$130"],
+        ["10 metric tonnes", "$141"],
+        ["15 metric tonnes", "$152"]
       ]
     }
   },
@@ -253,9 +253,9 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["Tandem c/w 20 yard bin", "$102"],
-        ["Tandem c/w 40 yard bin", "$106"],
-        ["Tandem c/w demo trailer", "$148"]
+        ["Tandem c/w 20 yard bin", "$106"],
+        ["Tandem c/w 40 yard bin", "$110"],
+        ["Tandem c/w demo trailer", "$154"]
       ]
     }
   },
@@ -266,16 +266,16 @@
     "table": {
       "columns": ["Type", "Weight", "Rate/Hr"],
       "rows": [
-        ["Single axle","7 -8 metric tonnes", "$92"],
-        ["Tandem","13 - 14 metric tonnes", "$108"],
-        ["Tridem","20 metric tonnes", "$116"],
-        ["Tandem and pup","25 - 27 metric tonnes", "$145"],
-        ["Tandem and tri-axle pup","29 - 31 metric tonnes", "$151"],
-        ["Tandem and tri-axle end dump","31 - 33 metric tonnes", "$152"],
-        ["Tandem and tri-axle transfer","31 - 33 metric tonnes", "$160"],
-        ["Tridem and tridem pup","35 metric tonnes", "$162"],
-        ["Tridem and four axle transfer","40 - 45 metric tonnes", "$173"],
-        ["Tandem and four axle end dump","", "$173"]
+        ["Single axle","7 -8 metric tonnes", "$96"],
+        ["Tandem","13 - 14 metric tonnes", "$112"],
+        ["Tridem","20 metric tonnes", "$121"],
+        ["Tandem and pup","25 - 27 metric tonnes", "$151"],
+        ["Tandem and tri-axle pup","29 - 31 metric tonnes", "$157"],
+        ["Tandem and tri-axle end dump","31 - 33 metric tonnes", "$158"],
+        ["Tandem and tri-axle transfer","31 - 33 metric tonnes", "$166"],
+        ["Tridem and tridem pup","35 metric tonnes", "$168"],
+        ["Tridem and four axle transfer","40 - 45 metric tonnes", "$180"],
+        ["Tandem and four axle end dump","", "$180"]
       ]
     }
   },
@@ -286,9 +286,9 @@
     "table": {
       "columns": ["Type", "Capacity", "Rate/Hr"],
       "rows": [
-        ["Three axle","approx. 6 cubic meters", "$110"],
-        ["Four axle","approx. 8 cubic meters", "$129"],
-        ["Tridem","approx. 10 cubic meters", "$158"]
+        ["Three axle","approx. 6 cubic meters", "$114"],
+        ["Four axle","approx. 8 cubic meters", "$134"],
+        ["Tridem","approx. 10 cubic meters", "$164"]
       ]
     }
   },
@@ -299,9 +299,9 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["20 tons", "$152"],
-        ["25 tons", "$164"],
-        ["30 tons", "$176"]
+        ["20 tons", "$158"],
+        ["25 tons", "$171"],
+        ["30 tons", "$183"]
       ]
     }
   },
@@ -312,8 +312,8 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["Tandem Axle Slinger", "$136"],
-        ["Tridem", "$141"]
+        ["Tandem Axle Slinger", "$141"],
+        ["Tridem", "$147"]
       ]
     }
   },
@@ -324,7 +324,7 @@
     "table": {
       "columns": ["Type", "Rate/Hr"],
       "rows": [
-        ["Track Jaw Crusher", "$319"]
+        ["Track Jaw Crusher", "$332"]
       ]
     }
   },
@@ -335,10 +335,10 @@
     "table": {
       "columns": ["", "Rate/Hr"],
       "rows": [
-        ["Foreman", "$95"],
-        ["Pipelayer", "$70"],
-        ["Grademan", "$70"],
-        ["Labourer", "$55"]
+        ["Foreman", "$99"],
+        ["Pipelayer", "$73"],
+        ["Grademan", "$73"],
+        ["Labourer", "$57"]
       ]
     }
   },
@@ -349,17 +349,17 @@
     "table": {
       "columns": ["Capacity Energy Class ft-lbs lb", "Excavator Weight", "Rate/Hr"],
       "rows": [
-        ["1000 1100","13000", "$73"],
-        ["1500 1600","22000", "$84"],
-        ["2000 2200","25000", "$94"],
-        ["3000 3300","38000", "$104"],
-        ["4000 4400","45000", "$115"],
-        ["5000 5500","50000", "$125"],
-        ["6000 6600","60000", "$136"],
-        ["7500 8100","70000", "$146"],
-        ["9000 9600","78000", "$156"],
-        ["10000 10600","85000", "$167"],
-        ["11000 11600","90000", "$177"]
+        ["1000 1100","13000", "$76"],
+        ["1500 1600","22000", "$87"],
+        ["2000 2200","25000", "$98"],
+        ["3000 3300","38000", "$108"],
+        ["4000 4400","45000", "$120"],
+        ["5000 5500","50000", "$130"],
+        ["6000 6600","60000", "$141"],
+        ["7500 8100","70000", "$152"],
+        ["9000 9600","78000", "$162"],
+        ["10000 10600","85000", "$174"],
+        ["11000 11600","90000", "$184"]
       ]
     }
   }
