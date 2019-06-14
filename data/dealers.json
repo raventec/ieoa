@@ -392,165 +392,6 @@
 		]
 	},
 	{
-		"id": "corixcourtenay",
-		"name": "Corix Water Products - Courtenay",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "V.I. Operational Manager/Branch Mgr: Blair Stanger",
-				"cell": "250-218-4364"
-			},
-			{
-				"property": "Contact",
-				"value": "Account Manager: Holland Baker",
-				"cell": "250-898-1285"
-			},
-			{
-				"property": "Bus",
-				"value": "250-334-3200"
-			},
-			{
-				"property": "Email",
-				"value": "blair.stanger@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "holland.baker@corix.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.corix.com"
-			},
-			{
-				"property": "Address",
-				"value": "#2 – 2683 Moray Avenue Courtenay, BC V9N 8M9"
-			}
-		]
-	},
-	{
-		"id": "corixduncan",
-		"name": "Corix Water Products - Duncan",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Branch Manager: Chad Clark",
-				"cell": "250-709-1885"
-			},
-			{
-				"property": "Contact",
-				"value": "Account Manager: Kevin Arscott",
-				"cell": "250-713-5696"
-			},
-			{
-				"property": "Contact",
-				"value": "Vancouver Island Sales Manager/Account Manager: Neall Rowlings",
-				"cell": "250-510-6747"
-			},
-			{
-				"property": "Bus",
-				"value": "250-746-8877"
-			},
-			{
-				"property": "Email",
-				"value": "chad.clark@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "kevin.arscott@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "neall.rowlings@corix.com"
-			},
-			{
-				"property": "Address",
-				"value": "2622 Beverly Street Duncan, BC V9L 3C7"
-			}
-		]
-	},
-	{
-		"id": "corixlangford",
-		"name": "Corix Water Products - Langford",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Vice-President Western Canada: Murray Stewart",
-				"cell": "250-480-9055"
-			},
-			{
-				"property": "Contact",
-				"value": "Branch Manager: Cameron Herron",
-				"cell": "250-213-2357"
-			},
-			{
-				"property": "Contact",
-				"value": "Account Manager: Don Sheldrick",
-				"cell": "250-213-8341"
-			},
-			{
-				"property": "Contact",
-				"value": "Account Manager: Gary O'Neill",
-				"cell": "250-480-8112"
-			},
-			{
-				"property": "Bus",
-				"value": "250-474-3980"
-			},
-			{
-				"property": "Email",
-				"value": "murray.stewart@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "cameron.herron@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "don.sheldrick@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": " gary.oneill@corix.com"
-			},
-			{
-				"property": "Address",
-				"value": "859 Orono Avenue Langford, BC V9B 2T9"
-			}
-		]
-	},
-	{
-		"id": "corixvictoria",
-		"name": "Corix Water Products - Victoria",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Branch Manager: Don Davis",
-				"cell": "250-361-5887"
-			},
-			{
-				"property": "Contact",
-				"value": "Accounts Manager: Kieran McDonagh",
-				"cell": "778-679-0053"
-			},
-			{
-				"property": "Bus",
-				"value": "250-475-0055"
-			},
-			{
-				"property": "Email",
-				"value": "don.davis@corix.com"
-			},
-			{
-				"property": "Email",
-				"value": "kieran.mcdonagh@corix.com"
-			},
-			{
-				"property": "Address",
-				"value": "27 Crease Avenue Victoria, BC V8Z 1S4"
-			}
-		]
-	},
-	{
 		"id": "cummins",
 		"name": "Cummins Sales & Service",
 		"details": [
@@ -968,6 +809,165 @@
 			{
 				"property": "Address",
 				"value": "963 Langford Parkway Victoria, BC V9B 0A5"
+			}
+		]
+	},
+	{
+		"id": "iconixcourtenay",
+		"name": "Iconix Waterworks - Courtenay",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Mgr: Grant Hudson",
+				"cell": "250-218-6977"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Holland Baker",
+				"cell": "250-898-1285"
+			},
+			{
+				"property": "Bus",
+				"value": "250-334-3200"
+			},
+			{
+				"property": "Email",
+				"value": "grant.hudson@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "holland.baker@iconixww.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.iconixww.com"
+			},
+			{
+				"property": "Address",
+				"value": "#2 – 2683 Moray Avenue Courtenay, BC V9N 8M9"
+			}
+		]
+	},
+	{
+		"id": "iconixduncan",
+		"name": "Iconix Waterworks - Duncan",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Manager: Chad Clark",
+				"cell": "250-709-1885"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Kevin Arscott",
+				"cell": "250-713-5696"
+			},
+			{
+				"property": "Contact",
+				"value": "Island Regional Sales Manager: Neall Rowlings",
+				"cell": "250-510-6747"
+			},
+			{
+				"property": "Bus",
+				"value": "250-746-8877"
+			},
+			{
+				"property": "Email",
+				"value": "chad.clark@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "kevin.arscott@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "neall.rowlings@iconixww.com"
+			},
+			{
+				"property": "Address",
+				"value": "2622 Beverly Street Duncan, BC V9L 3C7"
+			}
+		]
+	},
+	{
+		"id": "iconixlangford",
+		"name": "Iconix Waterworks - Langford",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Vice-President Western Canada: Tim Bordian",
+				"cell": "250-715-6068"
+			},
+			{
+				"property": "Contact",
+				"value": "Branch Manager: Cameron Herron",
+				"cell": "250-213-2357"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Don Sheldrick",
+				"cell": "250-213-8341"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Kieran McDonagh",
+				"cell": "778-679-0053"
+			},
+			{
+				"property": "Bus",
+				"value": "250-474-3980"
+			},
+			{
+				"property": "Email",
+				"value": "tim.bordian@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "cameron.herron@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "don.sheldrick@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": " kieranmcdonaugh@iconixww.com"
+			},
+			{
+				"property": "Address",
+				"value": "859 Orono Avenue Langford, BC V9B 2T9"
+			}
+		]
+	},
+	{
+		"id": "iconixvictoria",
+		"name": "Iconix Waterworks - Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Manager: David Harriman",
+				"cell": "250-208-7095"
+			},
+			{
+				"property": "Contact",
+				"value": "Account Manager: Don Davis",
+				"cell": "250-361-5887"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-0055"
+			},
+			{
+				"property": "Email",
+				"value": "david.Harriman@iconixww.com"
+			},
+			{
+				"property": "Email",
+				"value": "don.davis@iconixww.com"
+			},
+			{
+				"property": "Address",
+				"value": "27 Crease Avenue Victoria, BC V8Z 1S4"
 			}
 		]
 	},
