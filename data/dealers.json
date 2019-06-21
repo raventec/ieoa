@@ -87,8 +87,8 @@
 		]
 	},
 	{
-		"id": "andrew",
-		"name": "Andrew Sheret Ltd.",
+		"id": "andrewvic",
+		"name": "Andrew Sheret Ltd. - Victoria",
 		"details": [
 			{
 				"property": "Contact",
@@ -110,6 +110,104 @@
 			{
 				"property": "Address",
 				"value": "101-895 Langford Pkwy Langford BC V8B 4V5"
+			}
+		]
+	},
+	{
+		"id": "andrewnan",
+		"name": "Andrew Sheret Ltd. - Nanaimo",
+		"details": [
+			{
+				"property": "Contact",
+				"value": " Branch Manager - Parm Khattra",
+				"cell": "250-713-0348"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Waterworks - Jeff Saunders",
+				"cell": "250-713-4153"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Pump Sales - Paul Starr",
+				"cell": "250-715-6748"
+			},
+			{
+				"property": "Bus",
+				"value": "250-758-7383"
+			},
+			{
+				"property": "Fax",
+				"value": "250-758-5213"
+			},
+			{
+				"property": "Email",
+				"value": "Parm.Khattra@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Jeff.Saunders@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Paul.Starr@sheret.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sheret.com"
+			},
+			{
+				"property": "Address",
+				"value": "2545 McCullough rd Nanaimo, BC V9S 4M9"
+			}
+		]
+	},
+	{
+		"id": "andrewcourt",
+		"name": "Andrew Sheret Ltd. - Courtney",
+		"details": [
+			{
+				"property": "Contact",
+				"value": " Branch Manager - Mike Odale",
+				"cell": "250-703-1195"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Waterworks - Keith Harvey",
+				"cell": "250-703-3361"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Irrigation Sales - Andrew Templer",
+				"cell": "250-207-5327"
+			},
+			{
+				"property": "Bus",
+				"value": "250-334-33353"
+			},
+			{
+				"property": "Fax",
+				"value": "250-334-3313"
+			},
+			{
+				"property": "Email",
+				"value": "Mike.Oldale@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Keith.Harvey@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Andrew.Templer@sheret.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sheret.com"
+			},
+			{
+				"property": "Address",
+				"value": "699 - 29th Street Courtenay, BC  V9N 7Y3 "
 			}
 		]
 	},
