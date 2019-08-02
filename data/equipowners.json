@@ -1,5 +1,39 @@
 [
- {
+  {
+ 		"id": "4MBobcat",
+ 		"name": "4M Bobcat & Trucking Ltd",
+ 		"details": [{
+ 			"property": "Contact",
+ 			"value": " Dave McClimon",
+ 			"cell": "250-744-0394"
+ 		}, {
+			"property": "Bus",
+			"value": "250-642-4922"
+		}, {
+			"property": "Fax",
+			"value": "250-642-5168"
+		}, {
+ 			"property": "Email",
+ 			"value": "dmcclimon@telus.net"
+ 		}, {
+			"property": "Web",
+			"value": "sookeexcavating.com"
+		},{
+ 			"property": "Address",
+ 			"value": "6110 Kirby Road Sooke BC V9Z 0X6"
+ 		}],
+ 		"equipment": [
+ 			"Trucks & Pup Trailers",
+ 			"Excavators",
+      "Mini Excavators",
+      "Bobcat",
+      "Crushing Equipment",
+      "Screening Equipment",
+      "Fire Truck",
+      "Quarry Materials",
+      "Top Soil Materials"
+ 		]
+ 	}, {
 		"id": "szekely",
 		"name": "Adam Szekely Trucking",
 		"details": [{
@@ -539,24 +573,6 @@
 			"Notes: Pony trailer, single axle dump truck"
 		]
 	}, {
-		"id": "cherry",
-		"name": "Cherry Point Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Ken Boyd",
-			"cell": "250-246-8192"
-		}, {
-			"property": "Bus",
-			"value": "250-748-1717"
-		}, {
-			"property": "Address",
-			"value": "1429 Cherry Point Road Cowichan Bay, BC V0R 1N2"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
-	}, {
 		"id": "chew",
 		"name": "Chew Excavating Ltd.",
 		"details": [{
@@ -897,7 +913,6 @@
 			"Mobile Crane/Crane Trucks",
 			"Excavators",
 			"Lowbeds"
-
 		]
 	}, {
 		"id": "draycor",
@@ -938,6 +953,28 @@
 			"Notes: Quad Trailer/sweepers/diesel gen sets, Crusher"
 		]
 	}, {
+		"id": "drhoe",
+		"name": "Dr. Hoe Excavating & Utilities Inc",
+		"details": [{
+			"property": "Contact",
+			"value": "Dallas Robertson",
+			"cell": "778-677-9418"
+		}, {
+			"property": "Email",
+			"value": " Dallas@drhoe.ca"
+		}, {
+			"property": "Web",
+			"value": "Drhoe.ca"
+		},{
+			"property": "Address",
+			"value": "2175 Spirit Ridge Drive Victoria BC V9B 0B5"
+		}],
+		"equipment": [
+			"Excavators",
+			"Mini Excavators",
+			"Bin Truck"
+		]
+	},{
 		"id": "escocia",
 		"name": "Escocia Contracting",
 		"details": [{
@@ -1131,6 +1168,30 @@
 			"Screeners"
 		]
 	}, {
+		"id": "GVServices",
+		"name": "Greater Victoria Services",
+		"details": [{
+			"property": "Contact",
+			"value": "Darian Gondor",
+			"cell": "250-893-3064"
+		}, {
+			"property": "Email",
+			"value": "info@victoriaservices.ca"
+		}, {
+			"property": "Web",
+			"value": "www.victoriaservices.ca"
+		},{
+			"property": "Address",
+			"value": "3370 Rolston Cres. Victoria BC V8Z 4P1"
+		}],
+		"equipment": [
+			"Dump Trucks",
+			"Bin Trucks",
+			"Roller",
+			"Skidsteer",
+			"Excavators 2-12 Ton"
+		]
+	},{
 		"id": "hvolk",
 		"name": "H. Volk Transport Ltd.",
 		"details": [{
@@ -1333,52 +1394,6 @@
 		"equipment": [
       "Trucks",
 			"Notes: Small Batch Ready Mix Trucks, Precast Concrete, Gravel Mart"
-		]
-	},{
-		"id": "jencam",
-		"name": "Jencam Transport Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Ron Basi",
-			"cell": "250-480-8101"
-		}, {
-			"property": "Bus",
-			"value": "250-655-8266"
-		}, {
-			"property": "Fax",
-			"value": "250-655-8234"
-		}, {
-			"property": "Email",
-			"value": "cstt.jencam@shaw.ca"
-		}, {
-			"property": "Address",
-			"value": "2061 Mills Rd West Sidney, BC V8L 5X2"
-		}],
-		"equipment": [
-			"Trucks",
-			"Lowbeds",
-			"Notes: semi trucks, end dump trailers, equipment trailer"
-		]
-	}, {
-		"id": "mchattie",
-		"name": "Jim McHattie Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Jim McHattie",
-			"cell": "250-380-8560"
-		}, {
-			"property": "Bus",
-			"value": "250-652-1411"
-		}, {
-			"property": "Fax",
-			"value": "250-652-1406"
-		}, {
-			"property": "Address",
-			"value": "1094 Sluggett Road Brentwood Bay, BC V8M 1J1"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
 		]
 	}, {
 		"id": "humphries",
@@ -2339,28 +2354,6 @@
 			"Notes: Cat 320, Cat 325 and can have more equipment on Island depending on work load, Contaminated Soil and Demolition Disposal"
 		]
 	}, {
-    "id": "tito",
-    "name": "Tito's Slinger Service",
-    "details": [{
-      "property": "Contact",
-      "value": "Cory Richards",
-      "cell": "778-584-4283"
-    }, {
-      "property": "Email",
-      "value": "info@titosslinger.com"
-    }, {
-			"property": "Web",
-			"value": "www.titosslinger.com"
-		},
-
-    {
-      "property": "Address",
-      "value": "2250 Henry Ave Sidney, BC V8L 2B2"
-    }],
-    "equipment": [
-      "Slinger Truck"
-      ]
-  }, {
 		"id": "townsend",
 		"name": "Townsend Bros. Construction Ltd.",
 		"details": [{
