@@ -261,3 +261,29 @@ button.searchComponent:hover {
 }
 
 /* End equipment owners */
+
+/* Convoy */
+.drop {
+  display: inline-block;
+}
+.drop img {
+  width: 60%;
+  height: 60%;
+}
+
+.center {
+  text-align: center;
+}
+
+.locations {
+  font-weight: bold;
+}
+
+.city-header {
+  background-color: #0d3e8c;
+  color: white;
+  text-align: center;
+}
+
+
+/* Convoy */
