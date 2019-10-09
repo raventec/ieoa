@@ -573,6 +573,20 @@
 			"Notes: Pony trailer, single axle dump truck"
 		]
 	}, {
+		"id": "cherry",
+		"name": "Cherry Point",
+		"details": [{
+			"property": "Contact",
+			"value": "Ken Boyd",
+			"cell": "250-246-8192"
+		}, {
+			"property": "Address",
+			"value": "1429 Cherry Point Road Cowichan Bay, BC V0R 1N2"
+		}],
+		"equipment": [
+			"Truck and Pup"
+		]
+	},{
 		"id": "chew",
 		"name": "Chew Excavating Ltd.",
 		"details": [{
@@ -849,7 +863,6 @@
 			"Notes: Mini Excavators/Bobcats/Sweeper"
 		]
 	},
-
   {
     "id": "djisland",
     "name": "DJ Island Trucking Ltd.",
@@ -973,6 +986,26 @@
 			"Excavators",
 			"Mini Excavators",
 			"Bin Truck"
+		]
+	},{
+		"id": "ellwood",
+		"name": "Ellwood Lake Contracting",
+		"details": [{
+			"property": "Contact",
+			"value": "Laurie Ellard",
+			"cell": "250-213-8740"
+		}, {
+			"property": "Bus",
+			"value": "250-479-4594"
+		},{
+			"property": "Fax",
+			"value": "250-479-4593"
+		},{
+			"property": "Address",
+			"value": "284 View Royal Avenue Victoria, BC V9B 1A9"
+		}],
+		"equipment": [
+			"Truck and Pup"
 		]
 	},{
 		"id": "escocia",
@@ -1844,6 +1877,30 @@
 			"Notes: Slinger Trucks and Single and Tandem Axle Dump Trucks"
 		]
 	}, {
+		"id": "PEN",
+		"name": "P.E.N. Enterprises",
+		"details": [{
+			"property": "Contact",
+			"value": "Norman James",
+			"cell": "780-512-3308"
+		}, {
+			"property": "Bus",
+			"value": "778-678-1677"
+		}, {
+			"property": "Email",
+			"value": "jamescn@telus.net"
+		}, {
+			"property": "Address",
+			"value": "3315 Camrose Court Victoria, BC V8P 5N9"
+		}],
+		"equipment": [
+			"Truck and Pup",
+      "Excavator",
+      "Loader",
+      "20' Tilt Equipment Trailer",
+			"Notes: Contract excavator and truck driver, Swamp Mats for rent or sale"
+		]
+	},{
     "id": "plan",
     "name": "PLAN Contracting",
     "details": [{
@@ -1896,6 +1953,28 @@
 			"Notes: Equipment Trailer, mini, midsize and fullsize excavators"
 		]
 	}, {
+		"id": "raptor",
+		"name": "Raptor Excavating Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Rajan Rai",
+			"cell": "250-891-7645"
+		}, {
+			"property": "Email",
+			"value": "raj@raptorx.ca"
+		}, {
+			"property": "Web",
+			"value": "raptorx.ca"
+		},{
+			"property": "Address",
+			"value": "1119 Finney Rd, Victoria BC V9C 2Z8"
+		}],
+		"equipment": [
+			"Single Axel bin truck",
+			"Excavators (attachments: auger, breaker, tilt bucket, rake)",
+			"KC70 Track Dump"
+		]
+	},{
 		"id": "rgexcav",
 		"name": "R G Excavating Ltd.",
 		"details": [{

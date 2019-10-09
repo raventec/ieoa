@@ -839,6 +839,35 @@
 				"value": "2nd Floor, 3795 Carey Road, Victoria, BC V8Z 6T8"
 			}
 		]
+	},{
+		"id": "gotraffic",
+		"name": "GOtraffic Management",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Sophie Desvaux de Marigny",
+				"cell": "604-317-9560"
+			},
+			{
+				"property": "Bus",
+				"value": "250-217-1760"
+			},{
+				"property": "Fax",
+				"value": "604-444-3788"
+			},
+			{
+				"property": "Email",
+				"value": "sdemaringy@gotraffic.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.theuniversalgroup.ca"
+			},
+			{
+				"property": "Address",
+				"value": "1027 Pandora Ave, Victoria BC V8V 3P6"
+			}
+		]
 	},
 	{
 		"id": "westequipcr",
@@ -1364,7 +1393,38 @@
 				"value": "1005 Dunford Ave Victoria, BC V9B 2S4"
 			}
 		]
-	},
+	}, 	{
+			"id": "maxxam",
+			"name": "Maxxam Insurance",
+			"details": [
+				{
+					"property": "Contact",
+					"value": "Gina Scullion",
+					"cell": "250-858-2600"
+				},
+				{
+					"property": "Bus",
+					"value": "250-391-8809"
+				},
+				{
+					"property": "Fax",
+					"value": "250-391-8879"
+				},
+				{
+					"property": "Email",
+					"value": "GinaS@maxxaminsurance.com"
+				},
+				{
+					"property": "Web",
+					"value": "www.maxxamemployeeservices.com"
+				},
+
+				{
+					"property": "Address",
+					"value": "867 Goldstream Ave, Victoria, BC V9B 2X8"
+				}
+			]
+		},
 	{
 		"id": "mcelhanney",
 		"name": "McElhanney Consulting Services Ltd",
@@ -1619,6 +1679,29 @@
 			{
 				"property": "Address",
 				"value": "PO Box 21, 3340 Tennyson Ave Victoria, BC V8Z 3P3"
+			}
+		]
+	},
+	{
+		"id": "peel",
+		"name": "Peel Financial Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jamey Farr",
+				"cell": "778-966-3273"
+			},
+			{
+				"property": "Email",
+				"value": "jamey@peelfinancial.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.peelfinancial.ca"
+			},
+			{
+				"property": "Address",
+				"value": "Head Office: 180 Wilkinson Rd, Brampton ON L6T 4W8"
 			}
 		]
 	},
@@ -2285,7 +2368,32 @@
 				"value": "808 Devonshire Road, Victoria, BC V9A 4T4"
 			}
 		]
-	},
+	},{
+			"id": "xtend",
+			"name": "Xtend Rentals and Safety",
+			"details": [
+				{
+					"property": "Contact",
+					"value": "Bill Robinson",
+					"cell": "250-618-9192"
+				},
+				{
+					"property": "Bus",
+					"value": "250-924-2024"
+				},
+				{
+					"property": "Email",
+					"value": "xtendrentals@gmail.com"
+				},{
+					"property": "Web",
+					"value": "www.xtendrentals.com"
+				},
+				{
+					"property": "Address",
+					"value": "Unit 101 - 1030 Oyster Bay Drive, Ladysmith BC V9G 1A1"
+				}
+			]
+		},
 	{
 		"id": "yellow",
 		"name": "Yellow Sheet Construction Data Ltd.",
