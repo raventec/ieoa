@@ -195,7 +195,9 @@ hr {
 
 /* Media Queries */
 
-@media(max-width: 1200px) {}
+@media(max-width: 1200px) {
+
+}
 
 @media(max-width: 991px) {
     .hero {
@@ -203,9 +205,9 @@ hr {
 
     }
 
+}
+
 @media(max-width: 991px) {
-    .tlhero {
-        display: none;
 
     .jumbotron {
       margin-top: 2em
