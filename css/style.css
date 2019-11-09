@@ -149,14 +149,20 @@ p.dues {
 
 /* Convoy */
 
-/* Convoy Food Drive */
+/* Convoy Food Drive Info Page*/
 
-.splash {
-  padding: 2em;
-  max-width: 1650px;
-  margin-left: auto;
-  margin-right: auto;
+.truckinfo {
+  text-align: center;
 }
+
+p. .foodbank {
+  height: 60px;
+  width: auto;
+}
+
+
+/* End Convoy Food Drive Info Page */
+
 
 .lora {
   font-family: 'Lora', serif;
@@ -167,6 +173,14 @@ p.dues {
   padding-bottom: 10px;
   float: left;
   padding: 1em;
+}
+
+section.containerinfo {
+  width: 100%;
+}
+
+hr {
+  border-top: 1px solid blue;
 }
 
 /* End Convoy Food Drive */
