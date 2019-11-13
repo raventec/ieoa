@@ -50,7 +50,9 @@ section.tlhero {
     margin-top: 50px;
     height: 450px;
     overflow: hidden;
-    background-size: cover;
+    background-size: 100% 140%;
+    background-repeat: no-repeat;
+
 }
 
 

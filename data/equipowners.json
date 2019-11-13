@@ -987,27 +987,7 @@
 			"Mini Excavators",
 			"Bin Truck"
 		]
-	},{
-		"id": "ellwood",
-		"name": "Ellwood Lake Contracting",
-		"details": [{
-			"property": "Contact",
-			"value": "Laurie Ellard",
-			"cell": "250-213-8740"
-		}, {
-			"property": "Bus",
-			"value": "250-479-4594"
-		},{
-			"property": "Fax",
-			"value": "250-479-4593"
-		},{
-			"property": "Address",
-			"value": "284 View Royal Avenue Victoria, BC V9B 1A9"
-		}],
-		"equipment": [
-			"Truck and Pup"
-		]
-	},{
+	}, {
 		"id": "escocia",
 		"name": "Escocia Contracting",
 		"details": [{
