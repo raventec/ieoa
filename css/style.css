@@ -206,8 +206,13 @@ hr {
         display: none;
 
     }
-
 }
+
+@media(max-width: 991px) {
+    .tlhero {
+        display: none;
+
+    }
 
 @media(max-width: 991px) {
 
