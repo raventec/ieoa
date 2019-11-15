@@ -93,7 +93,7 @@ function populateOwners(owners, query){
 			<div class='row'>\
 				<div class='col-xs-12'>\
 					<a class='owner-title' href='javascript:void(0)' onclick='toggleDetails(\""+owner.id+"\");'>"+owner.name+"</a>\
-					<div id='"+owner.id+"' class='owner-details'>\
+					<div id='"+owner.id+"' class='owner-details' style='display:none'>\
 						Details: <ul>"+details+"</ul>\
 						Equipment: <ul>"+equipment+"</ul>\
 					</div>\
@@ -162,7 +162,7 @@ function populateDealers(dealers){
 			<div class='row'>\
 				<div class='col-xs-12'>\
 					<a class='dealer-title' href='javascript:void(0)' onclick='toggleDetails(\""+dealer.id+"\");'>"+dealer.name+"</a>\
-					<div id='"+dealer.id+"' class='dealer-details'>\
+					<div id='"+dealer.id+"' class='dealer-details' style='display:none'>\
 						Details: <ul>"+details+"</ul>\
 					</div>\
 				</div>\
