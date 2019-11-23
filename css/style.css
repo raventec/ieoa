@@ -171,6 +171,12 @@ p. .foodbank {
   width: auto;
 }
 
+.sponsor {
+  max-width: 100%;
+  max-height: auto;
+  padding-top: 2em;
+
+}
 
 /* End Convoy Food Drive Info Page */
 
@@ -215,7 +221,7 @@ hr {
 
     }
 
-}  
+}
 
 @media(max-width: 991px) {
 
