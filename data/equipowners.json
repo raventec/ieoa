@@ -263,7 +263,7 @@
 			"value": "250-652-1320"
 		}, {
 			"property": "Email",
-			"value": "basicrock@shaw.ca"
+			"value": "sgibbs@telus.net"
 		}, {
 			"property": "Address",
 			"value": "840 Industrial Way Victoria, BC V9B 6E2"
@@ -1588,17 +1588,18 @@
 			"value": "Mike Calabrese",
 			"cell": "250-888-2721"
 		}, {
-			"property": "Fax",
-			"value": "250-590-2260"
-		}, {
 			"property": "Email",
-			"value": "mrcraneservices@hotmail.com"
+			"value": "mike@mrcrane.ca"
+		}, {
+			"property": "Web",
+			"value": "www.mrcrane.ca"
 		}, {
 			"property": "Address",
-			"value": "511 Crestwood Court Victoria, BC V9B 6J3"
+			"value": "660 Lorimer Place, Victoria BC V9B 6G3"
 		}],
 		"equipment": [
 			"Mobile Crane/Crane Trucks",
+      "Tower Cranes",
 			"Graders",
 			"Excavators",
 			"Lowbeds",
@@ -1899,8 +1900,8 @@
     "name": "PLAN Contracting",
     "details": [{
       "property": "Contact",
-      "value": "Sean Wittich",
-      "cell": "250-882-4865"
+      "value": "Doug Wittich",
+      "cell": "250-880-1567"
     }, {
       "property": "Bus",
       "value": "778-425-0700"
@@ -1909,7 +1910,7 @@
       "value": "250-642-4882"
     }, {
       "property": "Email",
-      "value": "sean@plancontracting.ca"
+      "value": "info@plancontracting.ca"
     }, {
       "property": "Address",
       "value": "5715 Sooke Road, Sooke, BC V9Z 0C4"

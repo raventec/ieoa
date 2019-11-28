@@ -1775,16 +1775,16 @@
 				"property": "Contact",
 				"value": "Stefan Hudson",
 				"cell": "250-508-1460"
-			},
-			{
+			}, {
 				"property": "Bus",
 				"value": "250-475-3400"
-			},
-			{
+			}, {
+				"property": "Fax",
+				"value": "250-475-3444"
+			}, {
 				"property": "Email",
-				"value": "milind@shaw.ca"
-			},
-			{
+				"value": "sales@radioworks.ca"
+			}, {
 				"property": "Web",
 				"value": "www.radioworks.ca"
 			},
@@ -2145,27 +2145,16 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Eric Halpenny",
-				"cell": "n/a"
-			},
-			{
-				"property": "Contact",
 				"value": "Jill Moores",
 				"cell": "n/a"
 			},
 			{
 				"property": "Bus",
 				"value": "250-356-4025"
-			},
-			{
-				"property": "Email",
-				"value": "eric.halpenny@td.com"
-			},
-			{
+			}, {
 				"property": "Email",
 				"value": "jill.moores@td.com"
-			},
-			{
+			}, {
 				"property": "Address",
 				"value": "440-1070 Douglas Street Victoria, BC V8W 2C4"
 			}
@@ -2177,8 +2166,11 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Dan Bird",
+				"value": "Ryan Coney",
 				"cell": "n/a"
+			}, {
+				"property": "Email",
+				"value": "ryanc@totemtowing.com"
 			},
 			{
 				"property": "Bus",
