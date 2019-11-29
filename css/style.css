@@ -144,10 +144,6 @@ p.dues {
   display: inline-block;
 }
 
-.center {
-  text-align: center;
-}
-
 .locations {
   font-weight: bold;
 }
@@ -162,13 +158,8 @@ p.dues {
 
 /* Convoy Food Drive Info Page*/
 
-.truckinfo {
-  text-align: center;
-}
-
-p. .foodbank {
-  height: 60px;
-  width: auto;
+.foodbank {
+  padding-top: 10px;
 }
 
 .sponsor {
