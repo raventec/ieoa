@@ -410,15 +410,11 @@
 			{
 				"property": "Contact",
 				"value": "Cam Prenevost",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-474-5497"
+				"cell": "250-886-8506"
 			},
 			{
 				"property": "Address",
-				"value": "825 Hillman Road Victoria, BC V9C 3Z3"
+				"value": "825 A Hillman Road Victoria, BC V9C 3Z3"
 			}
 		]
 	},
@@ -1918,7 +1914,25 @@
 				"value": "5715 Sooke Rd, Sooke, BC V9Z 0C4"
 			}
 		]
-	},
+	}, 	{
+			"id": "smart",
+			"name": "SmartWash Victoria",
+			"details": [
+				{
+					"property": "Contact",
+					"value": "Cody Brown",
+					"cell": "250-886-1186"
+				},
+				{
+					"property": "Email",
+					"value": "info@smartwashvictoria.com"
+				},
+				{
+					"property": "Web",
+					"value": "www.smartwashvictoria.com"
+				}
+			]
+		},
 	{
 		"id": "smscr",
 		"name": "SMS Equipment Inc.",

@@ -716,24 +716,6 @@
       "Forklift",
       "Step Deck Trailer"
 		]
-	},  {
-		"id": "donaldson",
-		"name": "Craig Donaldson Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Craig Donaldson",
-			"cell": "250-216-5882"
-		}, {
-			"property": "Bus",
-			"value": "250-478-5754"
-		}, {
-			"property": "Address",
-			"value": "540 Westwind Drive Victoria, BC V9B 2Z5"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
 	}, {
 		"id": "creed",
 		"name": "Creed’s Trucking",
@@ -1896,6 +1878,31 @@
 			"Notes: Contract excavator and truck driver, Swamp Mats for rent or sale"
 		]
 	},{
+    "id": "pirate",
+    "name": "Pirate Excavating",
+    "details": [{
+      "property": "Contact",
+      "value": "Joseph Brann",
+      "cell": "N/A"
+    }, {
+      "property": "Bus",
+      "value": "250-818-2522"
+    }, {
+      "property": "Email",
+      "value": "joe@piratex.ca"
+    }, {
+      "property": "Web",
+      "value": "www.piratex.ca"
+    }],
+    "equipment": [
+      "Trucks",
+      "Excavators",
+      "Tri Axle Dump Truck",
+      "Slinger",
+      "Crane Truck",
+      "Water Truck"
+    ]
+  },{
     "id": "plan",
     "name": "PLAN Contracting",
     "details": [{
