@@ -1475,8 +1475,8 @@
 		]
 	},
 	{
-		"id": "nexgen",
-		"name": "NexGen Hearing - Industrial Division",
+		"id": "nexgensouth",
+		"name": "NexGen Hearing - South Island Industrial Division",
 		"details": [
 			{
 				"property": "Contact",
@@ -1498,6 +1498,33 @@
 			{
 				"property": "Address",
 				"value": "201 - 4500 West Saanich Road Victoria, BC V8Z 3G2"
+			}
+		]
+	},
+	{
+		"id": "nexgennorth",
+		"name": "NexGen Hearing - North Island Industrial Division",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Glen Bye",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-287-2410"
+			},
+			{
+				"property": "Email",
+				"value": "gbye@nexgenhearing.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.nexgenhearing.com"
+			},
+			{
+				"property": "Address",
+				"value": "325 B 11th Street, Courtenay, BC V9N 1S4"
 			}
 		]
 	},
