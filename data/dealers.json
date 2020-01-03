@@ -463,8 +463,8 @@
 				}
 			]
 		}, {
-		"id": "sooke",
-		"name": "Coastal Mountain Fuels - Hatley Park",
+		"id": "mountainfuels",
+		"name": "Coastal Mountain Fuels",
 		"details": [
 			{
 				"property": "Contact",
@@ -472,7 +472,7 @@
 				"cell": "n/a"
 			}, {
 				"property": "Bus",
-				"value": "250-474-2801"
+				"value": "250-746-4313"
 			}, {
 	"property": "Email",
 	"value": "arogers@cmfuels.ca"
@@ -481,7 +481,7 @@
 				"value": "www.cmfuels.ca"
 						},{
 				"property": "Address",
-				"value": "2231 Sooke Rd Victoria, BC V9B 1W8"
+				"value": "2935 Jacob Rd, Duncan, BC, V9L6W4"
 			}
 		]
 	},
