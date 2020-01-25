@@ -1095,6 +1095,37 @@
 		]
 	},
 	{
+		"id": "surface",
+		"name": "Industrial Surface Technologies Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Wayne Bueckert",
+				"cell": "250-204-0187"
+			},
+			{
+				"property": "Bus",
+				"value": "250-287-2291"
+			},
+			{
+				"property": "Fax",
+				"value": "250-287-7222"
+			},
+			{
+				"property": "Email",
+				"value": "wayne@istech.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.istech.ca"
+			},
+			{
+				"property": "Address",
+				"value": "2100 - 15th Avenue, Campbell River, BC V9W 4K4"
+			}
+		]
+	},
+	{
 		"id": "inland",
 		"name": "Inland Group",
 		"details": [
