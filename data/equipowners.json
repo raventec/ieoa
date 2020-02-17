@@ -1113,27 +1113,6 @@
 			"Notes: Track Crusher, Trench shoring, Road plates"
 		]
 	}, {
-		"id": "gator",
-		"name": "Gator Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Brian Scotney",
-			"cell": "250-883-1721"
-		}, {
-			"property": "Bus",
-			"value": "250-474-5715"
-		}, {
-			"property": "Fax",
-			"value": "250-590-2203"
-		}, {
-			"property": "Address",
-			"value": "885 Finlayson Arm Rd Victoria, BC V9B 6E6"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
-	}, {
 		"id": "goodwill",
 		"name": "Goodwill Investments Ltd.",
 		"details": [{

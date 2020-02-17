@@ -484,38 +484,7 @@
 				"value": "2935 Jacob Rd, Duncan, BC, V9L6W4"
 			}
 		]
-	},
-	{
-		"id": "cummins",
-		"name": "Cummins Sales & Service",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Raj Lal",
-				"cell": "604-785-7993"
-			},
-			{
-				"property": "Bus",
-				"value": "604-882-5000"
-			},
-			{
-				"property": "Fax",
-				"value": "604-882-5080"
-			},
-			{
-				"property": "Email",
-				"value": "raj.s.lal@cummins.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.cummins.com"
-			},
-			{
-				"property": "Address",
-				"value": "18452 - 96th Ave Surrey, BC V4N 3P8"
-			}
-		]
-	},{
+	}, {
 		"id": "dynamic",
 		"name": "Dynamic Capital Equipment Finance",
 		"details": [
@@ -2319,26 +2288,7 @@
 				"value": "573 Kelvin Road Victoria, BC V8Z 1C4"
 			}
 		]
-	},
-	{
-		"id": "wajax",
-		"name": "Wajax Industries Ltd.",
-		"details": [
-			{
-				"property": "Bus",
-				"value": "250-755-2005"
-			},
-			{
-				"property": "Web",
-				"value": "www.wajaxwest.com"
-			},
-			{
-				"property": "Address",
-				"value": "2093A South Wellington Road Nanaimo, BC V9X 1R5"
-			}
-		]
-	},
-	{
+	}, {
 		"id": "westerraabb",
 		"name": "Westerra Equipment LP - Abbotsford",
 		"details": [
