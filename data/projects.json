@@ -239,5 +239,79 @@
         }
       ]
     }
+  ],
+
+  "2019": [
+    {
+      "title": "BC SPCA Wild Animal Rehabilitation Centre (Wild ARC) Project",
+      "details": [
+        "On Monday December 30, 2019 the Island Equipment Owners Association (IEOA) project coordinators and volunteers gathered at the Wild ARC property on Malloch Road in Metchosin for the day. The drive way into the animal recovery centre was upgraded by widening it and covering it with fresh roadbase and finishing with a roller for compaction. A proper parking area was created to help provide more parking for the many volunteer and clinic administration vehicles who attend to the wounded animals everyday as well as the public bringing supplies as well as animals in need of care."
+      ],
+      "images": [
+        "wildarc1.jpg",
+        "wildarc6.jpg",
+        "wildarc4.jpg",
+        "wildarc5.jpg",
+        "wildarc10.jpg"
+      ],
+      "thanks": [
+        {
+          "equipment": "Project Coordinator",
+          "donators": [
+            "K. Wilson Contracting - Keith Wilson",
+            "Excel Contracting Ltd. - Paulo Soares",
+            "Coastal Mountain Fuels - Ashley Rogers"
+          ]
+        },
+        {
+          "equipment": "Excavators and Operators",
+          "donators": [
+            "K. Wilson Contracting - Keith Wilson",
+            "Don Mann Excavating - Trent McClure"
+            ]
+        },
+        {
+          "equipment": "Roller and Operators",
+          "donators": [
+            "Sunrise Machinery Inc. - Harold Perepalkin"
+          ]
+        },
+        {
+          "equipment": "Gravel Trucks",
+          "donators": [
+            "Creed's Trucking - Glen Creed",
+            "NAN Site Servicing Ltd. - Nirmal Johal",
+            "Steve Lingren Trucking - Steve Lingren",
+            "Northridge Excavating Ltd. - Mike Cownden"
+
+          ]
+        },
+        {
+          "equipment": "Gravel Loads Sponsored by:",
+          "donators": [
+            "Draycor Construction Ltd. - Darrel Murray",
+            "Coastal Mountain Fuels - Ashley Rogers",
+            "Canadian Utility Construction Corp - Chris Putney",
+            "K. Wilson Contracting - Keith Wilson",
+            "NAN Site servicing - Nirmal Johal",
+            "Northridge Excavating Ltd - Mike Cownden"
+          ]
+        },
+        {
+          "equipment": "Clean Fill and Wood Disposal Loads Sponsored by:",
+          "donators": [
+            "Capital City Paving - Dave Boudewyn",
+            "Little Bluejay Contracting Co. Ltd. - Don Jay"
+            ]
+        },
+        {
+          "equipment": "Gravel Supplied By",
+          "donators": [
+            "Basic Rock Products - Andy Mackin and Sean Gibbs",
+            "Island Asphalt - Cory Sangha"
+          ]
+        }
+      ]
+    }
   ]
 }
