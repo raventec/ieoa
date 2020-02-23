@@ -118,11 +118,11 @@ div.rates-category-details {
 section.carousel {
     max-width: 1150px;
     margin: 50px auto 0 auto;
-    height: 344px;
+    height: 500px;
 }
 
 section.carousel .item {
-    height: 344px;
+    height: 500px;
     overflow: hidden;
     background-size: cover;
     background-position: center;
