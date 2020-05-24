@@ -47,16 +47,16 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Earl Morris",
-				"cell": "250-812-2529"
+				"value": "Ashley Rogers",
+				"cell": "778-268-0083"
 			},
 			{
 				"property": "Bus",
-				"value": "855-844-3835"
+				"value": "250-478-5893"
 			},
 			{
 				"property": "Email",
-				"value": "emorris@afdpetroleum.com"
+				"value": "arogers@afdpetroleum.com"
 			},
 			{
 				"property": "Web",
@@ -64,7 +64,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2015 Millstream Avenue Victoria, BC V9B 6E2"
+				"value": "646 Industrial Way, Victoria BC V9B 6E2"
 			}
 		]
 	},
@@ -490,16 +490,16 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Jeff Mosdell",
-				"cell": "250-740-0712"
+				"value": "Erik Benson",
+				"cell": "780-817-6661"
 			},
 			{
 				"property": "Bus",
-				"value": "250-860-4486"
+				"value": "250-860-1496"
 			},
 			{
 				"property": "Email",
-				"value": "jmosdell@dynamic-capital.ca"
+				"value": "ebenson@dynamic-capital.ca"
 			},
 			{
 				"property": "Web",
@@ -2011,29 +2011,6 @@
 		]
 	},
 	{
-		"id": "spectrum",
-		"name": "Spectrum Appraisal",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Robert Knezacek",
-				"cell": "250-896-4528"
-			},
-			{
-				"property": "Email",
-				"value": "Robert@SpectrumAppraisal.ca"
-			},
-			{
-				"property": "Web",
-				"value": "www.spectrumappraisal.ca"
-			},
-			{
-				"property": "Address",
-				"value": "300 - 848 Courtney St, Victoria BC V8W 1C4"
-			}
-		]
-	},
-	{
 		"id": "suburban",
 		"name": "Suburban Motors Ltd.",
 		"details": [
@@ -2382,7 +2359,36 @@
 				"value": "808 Devonshire Road, Victoria, BC V9A 4T4"
 			}
 		]
-	},{
+	},
+	{
+		"id": "wilsonbeck",
+		"name": "Wilson M Beck Insurance Inc.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "James Clapp",
+				"cell": "250-889-4644"
+			},
+			{
+				"property": "Contact",
+				"value": "Ben Fitzpatrick",
+				"cell": "250-888-8721"
+			},
+			{
+				"property": "Email",
+				"value": "jclapp@wmbeck.com"
+			},
+			{
+				"property": "Email",
+				"value": "bfitzpatrick@wmbeck.com"
+			},
+			{
+				"property": "Address",
+				"value": "350 - 4396 West Saanich Road Victoria, BC V8Z 3E9"
+			}
+		]
+	},
+	{
 			"id": "xtend",
 			"name": "Xtend Rentals and Safety",
 			"details": [
