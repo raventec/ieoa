@@ -92,8 +92,23 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Steve Clarke",
-				"cell": "250-889-9636"
+				"value": "Branch Manager - Peter Kiewiet",
+				"cell": "250-360-7405"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Waterworks - Steve Clarke",
+				"cell": "250-889-9363"
+			},
+			{
+				"property": "Contact",
+				"value": "Inside Commercial Pump Sales - Steve DeFrel",
+				"cell": "250-915-1000"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Irrigation Sales - David Joynson",
+				"cell": "250-208-1321"
 			},
 			{
 				"property": "Bus",
@@ -101,7 +116,19 @@
 			},
 			{
 				"property": "Email",
+				"value": "Peter.Kiewiet@sheret.com"
+			},
+			{
+				"property": "Email",
 				"value": "steve.clarke@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Steve.deFrel@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "david.joynson@sheret.com"
 			},
 			{
 				"property": "Web",
@@ -158,7 +185,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2545 McCullough rd Nanaimo, BC V9S 4M9"
+				"value": "2545 McCullough Rd Nanaimo, BC V9S 4M9"
 			}
 		]
 	},
@@ -183,7 +210,7 @@
 			},
 			{
 				"property": "Bus",
-				"value": "250-334-33353"
+				"value": "250-334-3353"
 			},
 			{
 				"property": "Fax",
@@ -441,28 +468,6 @@
 			}
 		]
 	}, 	{
-			"id": "comins",
-			"name": "Coastal Community Insurance Services (2007) Ltd",
-			"details": [
-				{
-					"property": "Contact",
-					"value": "Yvonne Jones",
-					"cell": "250-616-3214"
-				}, {
-					"property": "Fax",
-					"value": "250-748-3652"
-				}, {
-		"property": "Email",
-		"value": "yvonne.jones@cccu.ca"
-				}, {
-					"property": "Web",
-					"value": "www.cccu.ca"
-							},{
-					"property": "Address",
-					"value": "111 - 59 Wharf Street, Nanaimo, BC V9R 2X3"
-				}
-			]
-		}, {
 		"id": "mountainfuels",
 		"name": "Coastal Mountain Fuels",
 		"details": [
@@ -1189,38 +1194,6 @@
 			{
 				"property": "Address",
 				"value": "3195 Douglas St Victoria, BC V8Z 3K3"
-			}
-		]
-	},
-	{
-		"id": "jlt",
-		"name": "JLT Canada Inc. - Insurance",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "James Clapp",
-				"cell": "250-413-2716"
-			},
-			{
-				"property": "Contact",
-				"value": "Ben Fitzpatrick",
-				"cell": "250-413-2725"
-			},
-			{
-				"property": "Email",
-				"value": "jclapp@jltcanada.com"
-			},
-			{
-				"property": "Email",
-				"value": "bfitzpatrick@jltcanada.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.jltcanada.com"
-			},
-			{
-				"property": "Address",
-				"value": "350 - 4396 West Saanich Road Victoria, BC V8Z 3E9"
 			}
 		]
 	},
@@ -2362,7 +2335,7 @@
 	},
 	{
 		"id": "wilsonbeck",
-		"name": "Wilson M Beck Insurance Inc.",
+		"name": "Wilson M Beck Insurance Services Inc.",
 		"details": [
 			{
 				"property": "Contact",
