@@ -102,7 +102,7 @@
 			},
 			{
 				"property": "Contact",
-				"value": "Inside Commercial Pump Sales - Steve DeFrel",
+				"value": "Inside Commercial Pump Sales - Steve deFrel",
 				"cell": "250-915-1000"
 			},
 			{
@@ -113,6 +113,10 @@
 			{
 				"property": "Bus",
 				"value": "250-915-1000"
+			},
+			{
+				"property": "Fax",
+				"value": "250-915-1002"
 			},
 			{
 				"property": "Email",
@@ -136,7 +140,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "101-895 Langford Pkwy Langford BC V8B 4V5"
+				"value": "101-895 Langford Pkwy Langford BC V9B 4V5"
 			}
 		]
 	},
@@ -195,7 +199,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": " Branch Manager - Mike Odale",
+				"value": " Branch Manager - Mike Oldale",
 				"cell": "250-703-1195"
 			},
 			{
@@ -239,6 +243,45 @@
 		]
 	},
 	{
+		"id": "andrewcamp",
+		"name": "Andrew Sheret Ltd. - Campbell River",
+		"details": [
+			{
+				"property": "Contact",
+				"value": " Branch Manager - Dave Roemer",
+				"cell": "250-202-0890"
+			},
+			{
+				"property": "Contact",
+				"value": "Outside Waterworks - Dan Holling",
+				"cell": "250-203-1777"
+			},
+			{
+				"property": "Bus",
+				"value": "250-287-9571"
+			},
+			{
+				"property": "Fax",
+				"value": "250-287-2332"
+			},
+			{
+				"property": "Email",
+				"value": "Dave.Roemer@sheret.com"
+			},
+			{
+				"property": "Email",
+				"value": "Dan.Holling@sheret.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.sheret.com"
+			},
+			{
+				"property": "Address",
+				"value": "1395 Maple St Campbell River, BC V9W 5E3"
+			}
+		]
+	},	{
 		"id": "berks",
 		"name": "Berks Intertruck Ltd.",
 		"details": [
@@ -1115,12 +1158,7 @@
 			},
 			{
 				"property": "Contact",
-				"value": "Product Support Representative: John Rainville",
-				"cell": "250-616-4952"
-			},
-			{
-				"property": "Contact",
-				"value": "Construction Equipment Sales: Andy Richards",
+				"value": "Construction Equipment Sales: Warren Haugan",
 				"cell": "250-668-7023"
 			},
 			{
@@ -1146,11 +1184,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "jrainville@inland-group.com"
-			},
-			{
-				"property": "Email",
-				"value": "arichards@inland-group.com"
+				"value": "whaugan@inland-group.com"
 			},
 			{
 				"property": "Email",
@@ -1159,10 +1193,6 @@
 			{
 				"property": "Web",
 				"value": "www.inland-group.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.parkerpacific.com"
 			},
 			{
 				"property": "Address",
@@ -1387,7 +1417,6 @@
 					"property": "Web",
 					"value": "www.maxxamemployeeservices.com"
 				},
-
 				{
 					"property": "Address",
 					"value": "867 Goldstream Ave, Victoria, BC V9B 2X8"
@@ -1396,11 +1425,16 @@
 		},
 	{
 		"id": "mcelhanney",
-		"name": "McElhanney Consulting Services Ltd",
+		"name": "McElhanney Ltd",
 		"details": [
 			{
+				"property": "Contact",
+				"value": "Branch Manager - John Sturdy",
+				"cell": "n/a"
+			},
+			{
 				"property": "Bus",
-				"value": "778-746-7411"
+				"value": "250-370-9221"
 			},
 			{
 				"property": "Cell",
@@ -1412,7 +1446,11 @@
 			},
 			{
 				"property": "Email",
-				"value": "iwhitehead@mcelhanney.com"
+				"value": "victoria@mcelhanney.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.mcelhanney.com"
 			},
 			{
 				"property": "Address",
