@@ -1363,29 +1363,6 @@
 		]
 	},
 	{
-		"id": "macvic",
-		"name": "Mack Sales & Service of Victoria",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Branch Manager - Giovanni Aliperti",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "778-426-0185"
-			},
-			{
-				"property": "Web",
-				"value": "www.victoriamack.ca"
-			},
-			{
-				"property": "Address",
-				"value": "2930 Amy Road, Langford BC V9B 0B2"
-			}
-		]
-	},
-	{
 		"id": "maccass",
 		"name": "Mack Sales & Service of Nanaimo Ltd - Cassidy",
 		"details": [
@@ -1405,6 +1382,29 @@
 			{
 				"property": "Address",
 				"value": "13331 Simpson Road, Cassidy BC V9G 1HB"
+			}
+		]
+	},
+	{
+		"id": "macvic",
+		"name": "Mack Sales & Service of Victoria",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Branch Manager - Giovanni Aliperti",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "778-426-0185"
+			},
+			{
+				"property": "Web",
+				"value": "www.victoriamack.ca"
+			},
+			{
+				"property": "Address",
+				"value": "2930 Amy Road, Langford BC V9B 0B2"
 			}
 		]
 	},
