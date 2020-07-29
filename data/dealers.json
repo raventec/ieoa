@@ -1335,6 +1335,16 @@
 		"name": "Mack Sales & Service of Nanaimo Ltd. - Nanaimo",
 		"details": [
 			{
+				"property": "Contact",
+				"value": "Dealer Principal - Richard Mayer",
+				"cell": "n/a"
+			},
+			{
+				"property": "Contact",
+				"value": "Sales Manager - Brian Burgoyne",
+				"cell": "n/a"
+			},
+			{
 				"property": "Bus",
 				"value": "250-758-0185"
 			},
@@ -1357,6 +1367,11 @@
 		"name": "Mack Sales & Service of Victoria",
 		"details": [
 			{
+				"property": "Contact",
+				"value": "Branch Manager - Giovanni Aliperti",
+				"cell": "n/a"
+			},
+			{
 				"property": "Bus",
 				"value": "778-426-0185"
 			},
@@ -1367,6 +1382,29 @@
 			{
 				"property": "Address",
 				"value": "2930 Amy Road, Langford BC V9B 0B2"
+			}
+		]
+	},
+	{
+		"id": "maccass",
+		"name": "Mack Sales & Service of Nanaimo Ltd - Cassidy",
+		"details": [
+			{
+				"property": "Contact",
+				"value": " Branch Manager - Sara Moore",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-585-9220"
+			},
+			{
+				"property": "Web",
+				"value": "www.nanaimomack.com"
+			},
+			{
+				"property": "Address",
+				"value": "13331 Simpson Road, Cassidy BC V9G 1HB"
 			}
 		]
 	},
@@ -1423,41 +1461,6 @@
 				}
 			]
 		},
-	{
-		"id": "mcelhanney",
-		"name": "McElhanney Ltd",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Branch Manager - John Sturdy",
-				"cell": "n/a"
-			},
-			{
-				"property": "Bus",
-				"value": "250-370-9221"
-			},
-			{
-				"property": "Cell",
-				"value": "250-218-3252"
-			},
-			{
-				"property": "Fax",
-				"value": "1-855-407-3895"
-			},
-			{
-				"property": "Email",
-				"value": "victoria@mcelhanney.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.mcelhanney.com"
-			},
-			{
-				"property": "Address",
-				"value": "500 - 3960 Quadra Street, Victoria, BC V8X 4A3"
-			}
-		]
-	},
 	{
 		"id": "millstream",
 		"name": "Millstream Industrial Park Ltd.",
@@ -2309,16 +2312,16 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Island Manager: Sheldon Schlesinger",
-				"cell": "250-714-3266"
+				"value": "Operations Manager Vancouver Island: Kelly Comeau",
+				"cell": "250-616-7728"
 			},
 			{
 				"property": "Bus",
-				"value": "250-714-3266"
+				"value": "250-716-0443"
 			},
 			{
 				"property": "Email",
-				"value": "sschlesinger@westerraequipment.com"
+				"value": "kcomeau@westerraequipment.com"
 			},
 			{
 				"property": "Web",
@@ -2326,7 +2329,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2130 Schoolhouse Rd Nanaimo, BC V9X 1T4"
+				"value": "2140 Schoolhouse Road, Nanaimo BC V9X 1T4"
 			}
 		]
 	},

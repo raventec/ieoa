@@ -1553,7 +1553,7 @@
 			"value": "www.mrcrane.ca"
 		}, {
 			"property": "Address",
-			"value": "660 Lorimer Place, Victoria BC V9B 6G3"
+			"value": "101-2302 Millstream Road Victoria, BC V9B 3R3"
 		}],
 		"equipment": [
 			"Mobile Crane/Crane Trucks",
@@ -1854,31 +1854,32 @@
 			"Notes: Contract excavator and truck driver, Swamp Mats for rent or sale"
 		]
 	},{
-    "id": "pirate",
-    "name": "Pirate Excavating Ltd",
-    "details": [{
-      "property": "Contact",
-      "value": "Joseph Brann",
-      "cell": "N/A"
-    }, {
-      "property": "Bus",
-      "value": "250-818-2522"
-    }, {
-      "property": "Email",
-      "value": "joe@piratex.ca"
-    }, {
-      "property": "Web",
-      "value": "www.piratex.ca"
-    }],
-    "equipment": [
-      "Trucks",
-      "Excavators",
-      "Tri Axle Dump Truck",
-      "Slinger",
-      "Crane Truck",
-      "Water Truck"
-    ]
-  },{
+		"id": "pitstar",
+		"name": "Pitstar Trucking Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Derek Brain",
+			"cell": "n/a"
+		}, {
+			"property": "Bus",
+			"value": "778-678-2013"
+		}, {
+			"property": "Email",
+			"value": "pitstartrucking@gmail.com"
+		}, {
+			"property": "Web",
+			"value": "www.pitstartrucking.com"
+		},{
+			"property": "Address",
+			"value": "n/a"
+		}],
+		"equipment": [
+			"Tandem Truck",
+      "Skidsteer",
+      "Mini Skidsteer",
+      "Bobcat"			
+		]
+	},{
     "id": "plan",
     "name": "PLAN Contracting",
     "details": [{
@@ -2014,6 +2015,32 @@
 			"Truck with Trailer"
 		]
 	}, {
+		"id": "rockwood",
+		"name": "Rockwood Slingers Inc.",
+		"details": [{
+			"property": "Contact",
+			"value": "Jeff Goodwin",
+			"cell": "n/a"
+		}, {
+			"property": "Bus",
+			"value": "778-587-5464"
+		}, {
+			"property": "Email",
+			"value": "admin@rockwoodslingers.net"
+		},{
+			"property": "Web",
+			"value": "www.rockwoodslingers.net"
+		},{
+			"property": "Address",
+			"value": "2001 Hawkins Place, Victoria, BC V9B 0E3"
+		}],
+		"equipment": [
+			"Tandem Truck",
+			"Truck with Trailer",
+      "Slinger"
+		]
+	},
+  {
 		"id": "rodd",
 		"name": "Rodd Excavating & Trucking",
 		"details": [{
