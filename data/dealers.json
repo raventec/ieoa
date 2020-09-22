@@ -336,6 +336,33 @@
 		]
 	},
 	{
+		"id": "bison",
+		"name": "Bison Iron Corp.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Jason Heath",
+				"cell": "604-686-3999"
+			},
+			{
+				"property": "Bus",
+				"value": "1-877-217-0292"
+			},
+			{
+				"property": "Email",
+				"value": "jason@bisoniron.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.bisoniron.com"
+			},
+			{
+				"property": "Address",
+				"value": "44199 Progress Way, Chilliwack, BC V2R 0E6"
+			}
+		]
+	},
+	{
 		"id": "bmt",
 		"name": "BMT Group Services Ltd.",
 		"details": [

@@ -34,6 +34,23 @@
       "Top Soil Materials"
  		]
  	}, {
+    "id": "A1",
+    "name": "A1 Contracting",
+    "details": [{
+      "property": "Contact",
+      "value": " Tim Taylor",
+      "cell": "250-888-5322"
+    }, {
+      "property": "Bus",
+      "value": "250-380-1040"
+    }, {
+      "property": "Email",
+      "value": "ttaylor@naicommercial.ca"
+    }],
+    "equipment": [
+      "Tandem Trucks"
+    ]
+  },{
 		"id": "szekely",
 		"name": "Adam Szekely Trucking",
 		"details": [{
@@ -225,6 +242,27 @@
 			"Notes: Johnston street sweeper/Sunvac tennant street sweeper"
 		]
 	}, {
+		"id": "augusta",
+		"name": "Augusta Royal Developments",
+		"details": [{
+			"property": "Contact",
+			"value": "Kevin Apted",
+			"cell": "587-581-1516"
+		}, {
+			"property": "Email",
+			"value": "augustaroyaldevelopments@gmail.com"
+		}, {
+			"property": "Web",
+			"value": "www.ardexcavating.com"
+		},{
+			"property": "Address",
+			"value": "1113 Neild Road, Victoria, BC V9C 3X5"
+		}],
+		"equipment": [
+			"Excavator"
+		]
+	},
+  {
 		"id": "axel",
 		"name": "Axel Trucking",
 		"details": [{
@@ -585,46 +623,6 @@
 		}],
 		"equipment": [
 			"Truck and Pup"
-		]
-	},{
-		"id": "chew",
-		"name": "Chew Excavating Ltd.",
-		"details": [{
-			"property": "Contact",
-			"value": "Dispatch",
-			"cell": "250-883-6591"
-		}, {
-			"property": "Bus",
-			"value": "250-386-7586"
-		}, {
-			"property": "Fax",
-			"value": "250-386-4550"
-		}, {
-			"property": "Email",
-			"value": "dispatch@ralmax.com"
-		}, {
-			"property": "Web",
-			"value": "www.chew.bc.ca"
-		}, {
-			"property": "Address",
-			"value": "575 Gorge Road East Victoria, BC V8T 2W5"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer",
-			"Rubber Tired Backhoes",
-			"Crawler Loaders",
-			"Bulldozer Blade",
-			"Compressors",
-			"Compaction Equipment",
-			"Crushers",
-			"Rubber Tired Loaders",
-			"Mobile Crane/Crane Trucks",
-			"Graders",
-			"Excavators",
-			"Lowbeds",
-			"Screeners",
-			"Notes: Skid Steer, Rollers"
 		]
 	}, {
 		"id": "coastenviro",
@@ -1110,6 +1108,29 @@
 			"Notes: Track Crusher, Trench shoring, Road plates"
 		]
 	}, {
+		"id": "gesslein",
+		"name": "Gesslein Mini Excavating Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Mike Gesslein",
+			"cell": "250-516-9426"
+		}, {
+			"property": "Admin Contact",
+			"value": "Tanya Gesslein",
+			"cell": "250-217-4983"
+		}, {
+			"property": "Email",
+			"value": "mike@gessleinminiexcavating.com"
+		}, {
+			"property": "Web",
+			"value": "www.gessleinminiexcavating.ca"
+		}],
+		"equipment": [
+			"Dodge 3500 with a dump box (2.5 yards approx)",
+      "Bobcat E35 Mini Excavator"
+
+		]
+	},{
 		"id": "goodwill",
 		"name": "Goodwill Investments Ltd.",
 		"details": [{
@@ -1877,7 +1898,7 @@
 			"Tandem Truck",
       "Skidsteer",
       "Mini Skidsteer",
-      "Bobcat"			
+      "Bobcat"
 		]
 	},{
     "id": "plan",
