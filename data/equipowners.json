@@ -1444,6 +1444,18 @@
 			"Truck with Trailer"
 		]
 	},
+  {
+		"id": "kimgaley",
+		"name": "Kim Galey Transport",
+		"details": [{
+			"property": "Contact",
+			"value": "Kim Galey",
+			"cell": "250-883-1234"
+		}],
+		"equipment": [
+			"Tandem Truck"
+		]
+	},
 
 	{
 		"id": "kwilson",

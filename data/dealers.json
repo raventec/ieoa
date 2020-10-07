@@ -1228,33 +1228,6 @@
 		]
 	},
 	{
-		"id": "island",
-		"name": "Island Savings Credit Union, Business Banking",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Dave Campbell",
-				"cell": "778-677-6454"
-			},
-			{
-				"property": "Bus",
-				"value": "250-413-2015"
-			},
-			{
-				"property": "Email",
-				"value": "DaCampbell@islandsavings.ca"
-			},
-			{
-				"property": "Web",
-				"value": "www.islandsavings.ca"
-			},
-			{
-				"property": "Address",
-				"value": "3195 Douglas St Victoria, BC V8Z 3K3"
-			}
-		]
-	},
-	{
 		"id": "kal",
 		"name": "Kal Tire",
 		"details": [
