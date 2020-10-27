@@ -446,8 +446,31 @@
 				"value": "1830 Schoolhouse Road Nanaimo, BC V9X 1T4"
 			}
 		]
-	},
-	{
+	},{
+		"id": "butler",
+		"name": "Butler Concrete & Aggregate Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Adam MacDonald",
+			"cell": "250-883-6537"
+		}, {
+			"property": "Bus",
+			"value": "250-652-4484"
+		}, {
+			"property": "Fax",
+			"value": "250-652-4486"
+		}, {
+			"property": "Email",
+			"value": "AMacDonald@butlerco.ca"
+		}, {
+			"property": "Web",
+			"value": "www.butlerco.ca"
+		},{
+			"property": "Address",
+			"value": "Box 7000 Saanichton, BC V8M 2C5"
+		}
+	]
+	},{
 		"id": "cstt",
 		"name": "C. S. T. T. Driver Training",
 		"details": [
@@ -1782,29 +1805,7 @@
 			}
 		]
 	},
-	{
-		"id": "pollard",
-		"name": "Pollard Equipment (Chilliwack) Ltd.- a division of Union Tractor",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Rick Penner",
-				"cell": "250-714-6323"
-			},
-			{
-				"property": "Bus",
-				"value": "1-800-665-3272"
-			},
-			{
-				"property": "Email",
-				"value": "ripenner@uniserve.com"
-			},
-			{
-				"property": "Address",
-				"value": "c/o 3590 Hillside Avenue Nanaimo, BC V9T 2Z1"
-			}
-		]
-	},{
+{
 		"id": "radioworks",
 		"name": "RadioWorks Communications Inc.",
 		"details": [
@@ -2258,6 +2259,29 @@
 		]
 	},
 	{
+		"id": "union",
+		"name": "Union Tractor",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Rick Penner",
+				"cell": "250-714-6323"
+			},
+			{
+				"property": "Bus",
+				"value": "1-800-665-3272"
+			},
+			{
+				"property": "Email",
+				"value": "ripenner@uniserve.com"
+			},
+			{
+				"property": "Address",
+				"value": "c/o 3590 Hillside Avenue Nanaimo, BC V9T 2Z1"
+			}
+		]
+	},
+	{
 		"id": "united",
 		"name": "United Rentals",
 		"details": [
@@ -2285,24 +2309,24 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Product Manager: Ron Johnson",
-				"cell": "604-354-6083"
+				"value": "Sales Manager, Heavy Construction: Johnny Venter",
+				"cell": "604-226-3793"
 			},
 			{
 				"property": "Bus",
-				"value": "604-850-7313"
+				"value": "778-369-2013"
 			},
 			{
 				"property": "Bus",
-				"value": "Toll Free: 1-800-563-7313"
+				"value": "Toll Free: 1-888-713-4748"
 			},
 			{
 				"property": "Email",
-				"value": "rjohnson@westerraequipment.com"
+				"value": "jventer@westerraequipment.com"
 			},
 			{
 				"property": "Address",
-				"value": "31260 South Fraser Way Abbotsford, BC V2T 6L5"
+				"value": "3349 Mt. Lehman Road, Abbotsford, BC V4X 0C2"
 			}
 		]
 	},
@@ -2318,6 +2342,10 @@
 			{
 				"property": "Bus",
 				"value": "250-716-0443"
+			},
+			{
+				"property": "Bus",
+				"value": "Toll Free: 1-888-713-4748"
 			},
 			{
 				"property": "Email",
@@ -2338,12 +2366,30 @@
 		"name": "Westerra Equipment LP - Victoria",
 		"details": [
 			{
+				"property": "Contact",
+				"value": "Sales Representative, Compact Construction: Tony Murphy",
+				"cell": "604-226-3793"
+			},
+			{
+				"property": "Contact",
+				"value": "Sales Representative, Heavy Construction: Pete Masterton",
+				"cell": "604-290-7176"
+			},
+			{
 				"property": "Bus",
 				"value": "250.478.8860"
 			},
 			{
 				"property": "Bus",
-				"value": "Toll Free: 877.478.8860"
+				"value": "Toll Free: 1-888-713-4748"
+			},
+			{
+				"property": "Email",
+				"value": "tmurphy@westerraequipment.com"
+			},
+			{
+				"property": "Email",
+				"value": "pmasterton@westerraequipment.com"
 			},
 			{
 				"property": "Address",

@@ -415,11 +415,11 @@
 		]
 	}, {
 		"id": "butler",
-		"name": "Butler Bros. Supplies Ltd.",
+		"name": "Butler Concrete & Aggregate Ltd",
 		"details": [{
 			"property": "Contact",
-			"value": "Gord Bowcott",
-			"cell": "250-883-2322"
+			"value": "Owen McLeod",
+			"cell": "250-361-8606"
 		}, {
 			"property": "Bus",
 			"value": "250-652-4484"
@@ -428,10 +428,10 @@
 			"value": "250-652-4486"
 		}, {
 			"property": "Email",
-			"value": "gord.bowcott@butlerbros.bc.ca"
+			"value": "omcleod@butlerco.ca"
 		}, {
 			"property": "Web",
-			"value": "www.butlerbros.bc.ca"
+			"value": "www.butlerco.ca"
 		},{
 			"property": "Address",
 			"value": "Box 7000 Saanichton, BC V8M 2C5"
@@ -960,9 +960,11 @@
 			"value": "2175 Spirit Ridge Drive Victoria BC V9B 0B5"
 		}],
 		"equipment": [
+			"Tandem dump truck with pup",
+			"Bin truck",
 			"Excavators",
-			"Mini Excavators",
-			"Bin Truck"
+      "Skid steer",
+      "Equipment trailers"
 		]
 	}, {
 		"id": "escocia",
@@ -2747,22 +2749,18 @@
 			"value": "Wilf Mundhenk",
 			"cell": "250-883-4899"
 		}, {
-			"property": "Bus",
-			"value": "250-478-3612"
-		}, {
 			"property": "Fax",
 			"value": "250-474-6988"
 		}, {
 			"property": "Address",
-			"value": "3344 Luxton Rd Victoria, BC V9C 2Z1"
+			"value": "3240 Woodruff Road, Victoria, BC V9C 3W4"
 		}],
 		"equipment": [
 			"Trucks",
-			"Truck with Trailer",
 			"Compaction Equipment",
 			"Rubber Tired Loaders",
 			"Excavators",
-			"Screeners"
+      "Bulldozers - Blade"
 		]
 	}
 ]
