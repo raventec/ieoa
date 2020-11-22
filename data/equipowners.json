@@ -102,30 +102,6 @@
 			"Notes: Skid Steer, Rollers"
 		]
 	}, {
-		"id": "alpine",
-		"name": "Alpine Group",
-		"details": [{
-			"property": "Bus",
-			"value": "250-474-5145"
-		}, {
-			"property": "Fax",
-			"value": "250-478-6131"
-		}, {
-			"property": "Address",
-			"value": "P.O.Box 605 Saanichton, BC V8M 2C5"
-		}],
-		"equipment": [
-			"Trucks",
-			"Crawler Loaders",
-			"Compressors",
-			"Compaction Equipment",
-			"Rubber Tired Loaders",
-			"Mobile Crane/Crane Trucks",
-			"Excavators",
-			"Lowbeds",
-			"Screeners"
-		]
-	}, {
 		"id": "argus",
 		"name": "Argus Excavating Ltd.",
 		"details": [{
@@ -625,29 +601,6 @@
 			"Truck and Pup"
 		]
 	}, {
-		"id": "coastenviro",
-		"name": "Coast Environmental",
-		"details": [{
-			"property": "Contact",
-			"value": "Dan Lazaro",
-			"cell": "250-883-5680"
-		}, {
-			"property": "Bus",
-			"value": "250-478-9187"
-		}, {
-			"property": "Fax",
-			"value": "250-474-0198"
-		}, {
-			"property": "Email",
-			"value": "dlazaro@coastenvironmental.ca"
-		}, {
-			"property": "Address",
-			"value": "2673 Sooke Road Victoria, BC V9B 1Y5"
-		}],
-		"equipment": [
-			"Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets"
-		]
-	}, {
 		"id": "coastmount",
 		"name": "Coast Mountain Resources Ltd.",
 		"details": [{
@@ -1128,7 +1081,6 @@
 			"value": "www.gessleinminiexcavating.ca"
 		}],
 		"equipment": [
-			"Dodge 3500 with a dump box (2.5 yards approx)",
       "Bobcat E35 Mini Excavator",
       "Hino 195 with dump box (4 metric tons)"
 		]
