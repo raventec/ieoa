@@ -1129,10 +1129,51 @@
 		}],
 		"equipment": [
 			"Dodge 3500 with a dump box (2.5 yards approx)",
-      "Bobcat E35 Mini Excavator"
-
+      "Bobcat E35 Mini Excavator",
+      "Hino 195 with dump box (4 metric tons)"
 		]
 	},{
+		"id": "gfl",
+		"name": "GFL Environmental Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Stewart Young"
+		}, {
+			"property": "Contact",
+			"value": "Dan Lazaro"
+		}, {
+			"property": "Bus",
+			"value": "250-474-5145"
+		}, {
+			"property": "Fax",
+			"value": "250-478-6131"
+		},{
+			"property": "Email",
+			"value": "syoung@gflenv.com"
+		}, {
+			"property": "Email",
+			"value": "dlazaro@gflenv.com"
+		},{
+			"property": "Web",
+			"value": "www.gflenv.com"
+		},{
+			"property": "Address",
+			"value": "1045 Dunford Ave, Victoria, BC V9B 2S4"
+		}],
+		"equipment": [
+			"Trucks",
+      "Crawler Loaders",
+      "Compressors",
+      "Compaction Equipment",
+      "Rubber Tired Loaders",
+      "Mobile Crane/Crane Trucks",
+      "Excavators",
+      "Lowbeds",
+      "Screeners",
+      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets"
+		]
+	},
+  {
 		"id": "goodwill",
 		"name": "Goodwill Investments Ltd.",
 		"details": [{
@@ -2382,6 +2423,18 @@
 			"Excavators",
 			"Lowbeds",
 			"Screeners"
+		]
+	}, {
+		"id": "stoney",
+		"name": "Stoney Creek Trucking",
+		"details": [{
+			"property": "Contact",
+			"value": "Calen Adkens",
+			"cell": "250-532-2722"
+		}
+  ],
+		"equipment": [
+			"Truck and pup"
 		]
 	}, {
 		"id": "sukh",
