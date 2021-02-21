@@ -477,7 +477,7 @@
 		]
 	}, {
 		"id": "canutility",
-		"name": "Canadian Utility Construction Corp.",
+		"name": "Canadian Utility Construction Limited Partnership",
 		"details": [{
 			"property": "Contact",
 			"value": "Cam Crow",
@@ -920,6 +920,20 @@
       "Equipment trailers"
 		]
 	}, {
+		"id": "ellwood",
+		"name": "Ellwood Lake Contracting",
+		"details": [{
+			"property": "Contact",
+			"value": "Laurie Ellard",
+			"cell": "250-213-8740"
+		}, {
+			"property": "Address",
+			"value": "284 View Royal Avenue Victoria, BC V9B 1A9"
+		}],
+		"equipment": [
+
+		]
+	}, {
 		"id": "escocia",
 		"name": "Escocia Contracting",
 		"details": [{
@@ -1121,8 +1135,7 @@
       "Mobile Crane/Crane Trucks",
       "Excavators",
       "Lowbeds",
-      "Screeners",
-      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets"
+      "Notes: Septic Services, Hydro Excavating, Temporary Fencing, Wastewater, Contaminated Soil, Portable Toilets, Roll Off Bins"
 		]
 	},
   {
@@ -2089,27 +2102,6 @@
 			"Excavators"
 		]
 	}, {
-		"id": "doak",
-		"name": "Ron Doak Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Ron Doak",
-			"cell": "250-812-2553"
-		}, {
-			"property": "Bus",
-			"value": "250-478-4258"
-		}, {
-			"property": "Email",
-			"value": "rondoak@telus.net"
-		}, {
-			"property": "Address",
-			"value": "207 - 751 Goldstream Avenue Langford, BC V9B 2X4"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer"
-		]
-	}, {
 		"id": "rozon",
 		"name": "Rozon Trucking Ltd.",
 		"details": [{
@@ -2239,8 +2231,8 @@
 			"cell": "250-882-4331"
 		}, {
 			"property": "Contact",
-			"value": "Site Foreman: Andrew Namu",
-			"cell": "250-883-5897"
+			"value": "Quarry and Fill Contact: Jim Bruce",
+			"cell": "250-882-1298"
 		}, {
 			"property": "Bus",
 			"value": "250-652-2523"
@@ -2337,7 +2329,7 @@
 			"cell": "250-508-4150"
 		}, {
 			"property": "Address",
-			"value": "3321 Blueberry Lane Victoria, BC V9C 0A9"
+			"value": "301 Kenning Court, Victoria BC V9C 4M6"
 		}],
 		"equipment": [
 			"Trucks",
@@ -2383,10 +2375,17 @@
 			"property": "Contact",
 			"value": "Calen Adkens",
 			"cell": "250-532-2722"
+		}, {
+      "property": "Email",
+      "value": "adkenscalen@gmail.com"
+    }, {
+			"property": "Address",
+			"value": "2093 Harbourview Road Sooke, BC V9Z 2A1"
 		}
   ],
 		"equipment": [
-			"Truck and pup"
+      "Truck",
+      "Truck with trailer"
 		]
 	}, {
 		"id": "sukh",

@@ -342,7 +342,7 @@
 			{
 				"property": "Contact",
 				"value": "Jason Heath",
-				"cell": "604-686-3999"
+				"cell": "604-868-3999"
 			},
 			{
 				"property": "Bus",
@@ -719,7 +719,7 @@
 			{
 				"property": "Contact",
 				"value": "Jamie Fraser",
-				"cell": "250-883-3996"
+				"cell": "250-744-7900"
 			},
 			{
 				"property": "Contact",
@@ -1292,7 +1292,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "Box 63, 3297 Douglas Street Victoria, BC V8Z 3K9"
+				"value": "647 B Dupplin Road, Victoria BC V8Z 1C2"
 			}
 		]
 	},
@@ -1427,7 +1427,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2930 Amy Road, Langford BC V9B 0B2"
+				"value": "2920 Amy Road, Langford BC V9B 0B2"
 			}
 		]
 	},
@@ -1698,7 +1698,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Karl Wiese",
+				"value": "Glenn Jorgenson",
 				"cell": "n/a"
 			},
 			{
@@ -1762,6 +1762,29 @@
 			{
 				"property": "Address",
 				"value": "Head Office: 180 Wilkinson Rd, Brampton ON L6T 4W8"
+			}
+		]
+	},
+	{
+		"id": "peterbilt",
+		"name": "Peterbilt Pacific Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "n/a",
+				"cell": "250-268-2259"
+			},
+			{
+				"property": "Email",
+				"value": "Kwiese@peterbilt.bc.ca"
+			},
+			{
+				"property": "Web",
+				"value": "www.peterbiltpacific.com/"
+			},
+			{
+				"property": "Address",
+				"value": "6826 Metro Road Lantzville, BC V0R 2H0"
 			}
 		]
 	},
@@ -1926,10 +1949,40 @@
 			},
 			{
 				"property": "Address",
-				"value": "28 Crease Avenue Victoria, BC V8Z 1S3"
+				"value": "#6 - 40 Cadillac Ave, Victoria BC V8Z 1T2"
 			}
 		]
-	},
+	}, 	{
+			"id": "tufturf",
+			"name": "Saanich Tuf Turf",
+			"details": [
+				{
+					"property": "Contact",
+					"value": "Dereck Johnson",
+					"cell": "n/a"
+				},
+				{
+					"property": "Bus",
+					"value": "250-721-5300"
+				},
+				{
+					"property": "Fax",
+					"value": "250-721-5344"
+				},
+				{
+					"property": "Email",
+					"value": "tufturf@shaw.ca"
+				},
+				{
+					"property": "Web",
+					"value": "www.tufturf.ca"
+				},
+				{
+					"property": "Address",
+					"value": "4060 Blenkinsop Road Victoria, BC V8X 2C2"
+				}
+			]
+		},
 	{
 		"id": "scanplus",
 		"name": "ScanPlus Locating Ltd.",
@@ -1981,13 +2034,8 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Jason Heath",
-				"cell": "250-203-2930"
-			},
-			{
-				"property": "Contact",
-				"value": "Product Support Sales Representative - Bob Mitchell",
-				"cell": "778-384-0182"
+				"value": "Rod Allen",
+				"cell": "604-881-3031"
 			},
 			{
 				"property": "Bus",
@@ -1995,15 +2043,11 @@
 			},
 			{
 				"property": "Email",
-				"value": "jheath@smsequip.com"
-			},
-			{
-				"property": "Email",
-				"value": "bmitchell@smsequip.com"
+				"value": "rallen@smsequip.com"
 			},
 			{
 				"property": "Web",
-				"value": "www.smsequip.com"
+				"value": "www.smsequipment.com"
 			},
 			{
 				"property": "Address",
@@ -2255,6 +2299,33 @@
 			{
 				"property": "Address",
 				"value": "4377C Metchosin Road Victoria, BC V9C 3Z4"
+			}
+		]
+	},
+	{
+		"id": "tyeesuper",
+		"name": "Tyee Super Service Ltd.",
+		"details": [
+			{
+				"property": "Contact",
+				"value": "Andrew Wilson",
+				"cell": "n/a"
+			},
+			{
+				"property": "Bus",
+				"value": "250-475-3235"
+			},
+			{
+				"property": "Email",
+				"value": "andrew.wilson@gowilsonsgroup.com"
+			},
+			{
+				"property": "Web",
+				"value": "www.wilsonstransportation.com/"
+			},
+			{
+				"property": "Address",
+				"value": "4196 Glanford Ave Victoria, BC V8Z 4B6"
 			}
 		]
 	},
