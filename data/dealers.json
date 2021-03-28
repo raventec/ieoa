@@ -1699,7 +1699,7 @@
 			{
 				"property": "Contact",
 				"value": "Glenn Jorgenson",
-				"cell": "n/a"
+				"cell": "250-668-7172"
 			},
 			{
 				"property": "Bus",
@@ -1771,7 +1771,7 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "n/a",
+				"value": "Karl Wiese",
 				"cell": "250-268-2259"
 			},
 			{
@@ -2475,7 +2475,7 @@
 			{
 				"property": "Contact",
 				"value": "Fred Proctor",
-				"cell": "250-889-0992"
+				"cell": "n/a"
 			},
 			{
 				"property": "Bus",
@@ -2484,6 +2484,10 @@
 			{
 				"property": "Email",
 				"value": "fred@wilsonandproctor.com"
+			},
+			{
+				"property": "Web",
+				"value": "wilpro.ca"
 			},
 			{
 				"property": "Address",

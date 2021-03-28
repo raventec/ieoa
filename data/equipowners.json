@@ -920,20 +920,6 @@
       "Equipment trailers"
 		]
 	}, {
-		"id": "ellwood",
-		"name": "Ellwood Lake Contracting",
-		"details": [{
-			"property": "Contact",
-			"value": "Laurie Ellard",
-			"cell": "250-213-8740"
-		}, {
-			"property": "Address",
-			"value": "284 View Royal Avenue Victoria, BC V9B 1A9"
-		}],
-		"equipment": [
-
-		]
-	}, {
 		"id": "escocia",
 		"name": "Escocia Contracting",
 		"details": [{
@@ -1635,25 +1621,6 @@
 			"Compaction Equipment",
 			"Graders",
 			"Notes: Bobcats/Small Grinder"
-		]
-	}, {
-		"id": "mahil",
-		"name": "Mahil Transport Corporation",
-		"details": [{
-			"property": "Contact",
-			"value": "Parm Mahil",
-			"cell": "250-551-9002"
-		}, {
-			"property": "Fax",
-			"value": "778-426-1156"
-		}, {
-			"property": "Address",
-			"value": "1794 John Road North Saanich, BC V8L 5S8"
-		}],
-		"equipment": [
-			"Trucks",
-			"Truck with Trailer",
-			"Notes: four axle transfers, quad end dumps, pup trailers, lowbed trailer, track skid steer, mini excavator, mini grader"
 		]
 	}, {
 		"id": "mainroad",
