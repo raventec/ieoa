@@ -936,6 +936,8 @@
 		"equipment": [
 			"Trucks",
 			"Truck with Trailer",
+      "Excavator",
+      "Kobelco 150",
 			"Notes: 2 axel pony trailer"
 		]
 	},
@@ -1668,6 +1670,37 @@
 			"Truck with Trailer"
 		]
 	}, {
+		"id": "mcintyre",
+		"name": "McIntyre & Sons Trucking Ltd",
+		"details": [{
+			"property": "Contact",
+			"value": "Kevin McIntyre",
+			"cell": "250-713-5531"
+		}, {
+			"property": "Bus",
+			"value": "800-996-HAUL (4285)"
+		}, {
+			"property": "Email",
+			"value": "kevin@mcintyreandsons.ca"
+		}, {
+			"property": "Web",
+			"value": "www.mcintyreandsons.ca"
+		},{
+			"property": "Address",
+			"value": "328 Wale Road, Suite 132, Victoria, BC V9B 0J8"
+		}],
+		"equipment": [
+			"Tandem Truck",
+			"Truck with Trailer",
+      "Backhoe",
+      "Loader",
+      "Skidsteer",
+      "Bulldozer",
+      "Excavator",
+      "Compaction",
+      "Notes: Pup & Quad Trailers"
+		]
+	}, {
 		"id": "mcrae",
 		"name": "McRae’s Environmental Services",
 		"details": [{
@@ -1796,7 +1829,7 @@
 			"value": "northridgeltd@northridgegroup.ca"
 		}, {
 			"property": "Address",
-			"value": "#2 – 1002 Goldstream Ave Victoria, BC V9B 2Y5"
+			"value": "#132 - 2930 Amy Road Victoria, BC V9B 0B2"
 		}],
 		"equipment": [
 			"Trucks",
