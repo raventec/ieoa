@@ -835,29 +835,6 @@
 		]
 	},
 	{
-		"id": "fountainlangford",
-		"name": "Fountain Tire - Langford",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Mike Daughty",
-				"cell": "250-896-2917"
-			},
-			{
-				"property": "Bus",
-				"value": "250-478-2217"
-			},
-			{
-				"property": "Web",
-				"value": "www.fountaintire.com"
-			},
-			{
-				"property": "Address",
-				"value": "#105 – 2924 Jacklin Road Victoria, BC V9B 3Y5"
-			}
-		]
-	},
-	{
 		"id": "fourstar",
 		"name": "Four Star Waterworks Ltd.",
 		"details": [
