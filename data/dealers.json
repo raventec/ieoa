@@ -21,27 +21,7 @@
 				"value": "Vancouver Island"
 			}
 		]
-	},
-	{
-		"id": "advanced",
-		"name": "Advanced Collection Services Ltd.",
-		"details": [
-			{
-				"property": "Contact",
-				"value": "Len Shavluk",
-				"cell": "250-920-9665"
-			},
-			{
-				"property": "Bus",
-				"value": "250-388-0700"
-			},
-			{
-				"property": "Address",
-				"value": "200 – 2840 Nanaimo Street Victoria, BC V8T 4W9"
-			}
-		]
-	},
-	{
+	}, {
 		"id": "afd",
 		"name": "AFD Petroleum Ltd.",
 		"details": [
@@ -876,7 +856,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "2nd Floor, 3795 Carey Road, Victoria, BC V8Z 6T8"
+				"value": "Suite 300, 398 Harbour Road, Victoria, BC V9A 0B7"
 			}
 		]
 	},{
@@ -885,8 +865,8 @@
 		"details": [
 			{
 				"property": "Contact",
-				"value": "Sophie Desvaux de Marigny",
-				"cell": "604-317-9560"
+				"value": "Dana McIsaac",
+				"cell": "250-882-5280"
 			},
 			{
 				"property": "Bus",
@@ -897,7 +877,7 @@
 			},
 			{
 				"property": "Email",
-				"value": "sdemaringy@gotraffic.ca"
+				"value": "dana@islandtraffic.com"
 			},
 			{
 				"property": "Web",
@@ -905,7 +885,7 @@
 			},
 			{
 				"property": "Address",
-				"value": "1027 Pandora Ave, Victoria BC V8V 3P6"
+				"value": "#108 - 1010 McCallum Road Victoria BC V9B 4C6"
 			}
 		]
 	},
@@ -1507,7 +1487,7 @@
 			},
 			{
 				"property": "Web",
-				"value": "www.nexgenhearing.com"
+				"value": "www.nexgenhearing.com/industrial"
 			},
 			{
 				"property": "Address",
@@ -1522,7 +1502,7 @@
 			{
 				"property": "Contact",
 				"value": "Glen Bye",
-				"cell": "n/a"
+				"cell": "250-585-7416"
 			},
 			{
 				"property": "Bus",
@@ -1534,7 +1514,7 @@
 			},
 			{
 				"property": "Web",
-				"value": "www.nexgenhearing.com"
+				"value": "www.nexgenhearing.com/industrial"
 			},
 			{
 				"property": "Address",
@@ -1907,29 +1887,7 @@
 				"value": "42275 Industrial Way Chilliwack, BC V2R OP4"
 			}
 		]
-	},
-	{
-		"id": "ryzuk",
-		"name": "Ryzuk Geotechnical",
-		"details": [
-			{
-				"property": "Bus",
-				"value": "250-475-3131"
-			},
-			{
-				"property": "Email",
-				"value": "mail@ryzuk.com"
-			},
-			{
-				"property": "Web",
-				"value": "www.ryzuk.com"
-			},
-			{
-				"property": "Address",
-				"value": "#6 - 40 Cadillac Ave, Victoria BC V8Z 1T2"
-			}
-		]
-	}, 	{
+	}, {
 			"id": "tufturf",
 			"name": "Saanich Tuf Turf",
 			"details": [

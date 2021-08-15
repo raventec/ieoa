@@ -517,6 +517,9 @@
 			"property": "Fax",
 			"value": "250-652-1320"
 		}, {
+			"property": "Web",
+			"value": "www.capitalcitypaving.com"
+		},{
 			"property": "Address",
 			"value": "840 Industrial Way Victoria, BC V9B 6E2"
 		}],
@@ -1178,20 +1181,6 @@
 			"Roller",
 			"Skidsteer",
 			"Excavators 2-12 Ton"
-		]
-	},{
-		"id": "gregzuk",
-		"name": "Greg Zuk Trucking",
-		"details": [{
-			"property": "Contact",
-			"value": "Greg Zuk",
-			"cell": "250-589-7087"
-		}, {
-			"property": "Address",
-			"value": "25 - 4270 Ponderosa Cres Victoria BC V8Z 7H3"
-		}],
-		"equipment": [
-			"Tandem Truck"
 		]
 	},{
 		"id": "hvolk",
