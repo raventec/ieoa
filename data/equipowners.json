@@ -639,6 +639,37 @@
 			"Notes: Rock Trucks, Wheel Loader. DG Cat"
 		]
 	}, {
+		"id": "coastalforce",
+		"name": "Coastal Force Construction",
+		"details": [{
+			"property": "Contact",
+			"value": "Jesse Fisher",
+			"cell": "250-896-7637"
+		}, {
+			"property": "Email",
+			"value": "jesse@coastalforceconstruction.com"
+		}, {
+			"property": "Web",
+			"value": "coastalforceconstruction.ca"
+		}, {
+			"property": "Address",
+			"value": "725 Race Passage Close Sooke, BC V9Z 1C5"
+		}],
+		"equipment": [
+			"Tandem Truck",
+			"Truck with Trailer",
+			"Bobcat",
+			"Lowbed",
+			"Skidsteer",
+      "Bulldozer",
+      "Excavator",
+      "Compaction",
+      "Notes: Pup Trailer, End Dump, Tri-pups, Highboys, Rock Trucks, Sweeper"
+		]
+	},
+
+
+  {
 		"id": "coastal",
 		"name": "Coastal Trucking",
 		"details": [{
